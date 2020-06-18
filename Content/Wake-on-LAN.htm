@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="" MadCap:lastBlockDepth="17" MadCap:lastHeight="760" MadCap:lastWidth="552" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Wake-on-LAN</h1>
+        <p>You can remotely wake computers using <MadCap:variable name="General.CompanyName" /> Agent. This process is simple and safe, as it does not expose any ports to the Internet.</p>
+        <p>To wake up a device, Wake-on-LAN (WOL) technology uses a specific network package containing the MAC address of the destination network card. This packet is broadcast to all computers in the network. WOL-compatible devices maintain their network cards in low-power mode, which allows the reception of such traffic. When a magic packet matching the MAC address of a device is received, that computer is turned on.</p>
+        <p>In order to wake a computer in a remote LAN, another <MadCap:variable name="General.CompanyName" /> Agent in the same network is required, and must be connected to the Internet. A local Console sends a command to the <MadCap:variable name="General.CompanyName" /> infrastructure requesting the remote online Agent to broadcast a magic packet. This packet includes the MAC address of the computer requesting the wake.</p>
+        <p>
+            <img src="Resources/Images/MSPanywhere/LAN to Internet Diagram_550x316.jpg" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 550;height: 316;" />
+        </p>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li value="1"><a href="Wake-on-LAN-prerequisites.htm" class="MCXref xref">Review wake on LAN prerequisites </a>
+            </li>
+            <li value="2"><a href="Wake-remote-computer.htm" class="MCXref xref">Wake a remote computer</a>
+            </li>
+        </ul>
+    </body>
+</html>

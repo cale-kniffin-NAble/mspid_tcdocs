@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/CKniffin/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD).pdf"
+  BuildVersion="15.0.7081.30245">
+  <Files>
+    <Url
+      Source="Output/CKniffin/Temporary/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD)_1E8DCF89/Resources/Images/MSPanywhere/EUArea.png" />
+    <Url
+      Source="Output/CKniffin/Temporary/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD)_1E8DCF89/Resources/Images/warning.png" />
+    <Url
+      Source="Output/CKniffin/Temporary/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD)_1E8DCF89/Resources/Images/MSPanywhere/EditKnowledgeType.png" />
+    <Url
+      Source="Output/CKniffin/Temporary/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD)_1E8DCF89/Resources/Images/info.png" />
+    <Url
+      Source="Output/CKniffin/Temporary/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD)_1E8DCF89/Resources/Images/nugget.png" />
+    <Url
+      Source="Output/CKniffin/Temporary/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD)_1E8DCF89/Resources/Images/MSPanywhere/EndUserConnect.png" />
+    <Url
+      Source="Output/CKniffin/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD).pdf" />
+    <Url
+      Source="Output/CKniffin/Temporary/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD)_1E8DCF89/Resources/Images/SWI_curvy-tile.png" />
+    <Url
+      Source="Output/CKniffin/Temporary/TakeControl - Online Output (OLD)/TakeControl - Online Output (OLD)_1E8DCF89/Resources/Images/MSPanywhere/EndUserTicket.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

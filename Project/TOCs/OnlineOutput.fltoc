@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Getting started with Take Control"
+    Link="/Content/Getting-started-with-Take-Control.htm">
+    <TocEntry
+      Title="Billing info"
+      Link="/Content/Billing-info.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Multi-factor-authentication.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="System requirements"
+    Link="/Content/System-requirements.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Port-access-requirements.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Take Control for Mojave"
+      Link="/Content/Take-Control-for-Mojave.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Learn about Take Control components"
+    Link="/Content/Learn-about-Take-Control-components.htm" />
+  <TocEntry
+    Title="Administrative Area"
+    Link="/Content/Administrative-Area.htm">
+    <TocEntry
+      Title="Access the Admin Area Dashboard"
+      Link="/Content/Admin-area-homepage.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Use-panic-button.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Start and monitor support sessions"
+      Link="/Content/View-running-sessions.htm" />
+    <TocEntry
+      Title="Manage Devices"
+      Link="/Content/Manage-devices.htm">
+      <TocEntry
+        Title="Install the Linux Agent"
+        Link="/Content/Install-Linux-Agent.htm" />
+      <TocEntry
+        Title="Audit Devices"
+        Link="/Content/Audit-devices.htm" />
+      <TocEntry
+        Title="Learn about Alerts and Monitoring"
+        Link="/Content/Alerts-and-Monitoring.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Configure your Profile"
+      Link="/Content/Configure-Profile.htm">
+      <TocEntry
+        Title="Configure your basic account information"
+        Link="/Content/Configure-basic-account-information.htm" />
+      <TocEntry
+        Title="Create Email templates"
+        Link="/Content/Create-Email-templates.htm" />
+      <TocEntry
+        Title="Set up the Applet"
+        Link="/Content/Set-up-the-Applet.htm" />
+      <TocEntry
+        Title="Set up the Agent"
+        Link="/Content/Set-up-the-Agent.htm" />
+      <TocEntry
+        Title="Configure your APIs"
+        Link="/Content/Configure-APIs.htm">
+        <TocEntry
+          Title="Configure the New Session API"
+          Link="/Content/Configure-New-Session-API.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="Configure the Deferred Support Request API"
+          Link="/Content/Configure-Deferred-Support-request-API.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="Configure the Validation API"
+          Link="/Content/Configure-Validation-API.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry
+          Title="Configure the Session History API"
+          Link="/Content/Configure-Session-History-API.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Configure integration options for your account"
+        Link="/Content/Configure-integration-options.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Manage your account"
+      Link="/Content/Manage-your-account.htm">
+      <TocEntry
+        Title="Create and manage technicians"
+        Link="/Content/Create-and-manage- technicians.htm">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/Mass-Agent-deployment.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Enable and revoke multifactor authentication"
+        Link="/Content/Enable-multi-factor-authentication.htm" />
+      <TocEntry
+        Title="Set up departments"
+        Link="/Content/Set-up-departments.htm"></TocEntry>
+      <TocEntry
+        Title="Create surveys for technicians and customers"
+        Link="/Content/Create-surveys.htm" />
+      <TocEntry
+        Title="Create and manage calling cards"
+        Link="/Content/Create-and-manage-calling-cards.htm" />
+      <TocEntry
+        Title="Configure the deferred support request form"
+        Link="/Content/Configure-deferred-support-request-form.htm" />
+      <TocEntry
+        Title="Create and deploy Scripts"
+        Link="/Content/Create-and-deploy-Scripts.htm" />
+      <TocEntry
+        Title="Create mobile config files"
+        Link="/Content/Create-mobile-config-files.htm" />
+      <TocEntry
+        Title="Create Password Secrets Vaults"
+        Link="/Content/Password-secrets-vaults.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Generate reports"
+      Link="/Content/Generate-reports.htm">
+      <TocEntry
+        Title="Generate a Session History Report"
+        Link="/Content/Generate-session-history-report.htm" />
+      <TocEntry
+        Title="Generate a Missed Session Report"
+        Link="/Content/Generate-missed-session-report.htm" />
+      <TocEntry
+        Title="Generate a Tech Performance Report"
+        Link="/Content/Generate-tech-performance-report.htm" />
+      <TocEntry
+        Title="Generate a Sessions Report"
+        Link="/Content/Generate-session-report.htm" />
+      <TocEntry
+        Title="Generate an Audit Report"
+        Link="/Content/Generate-audit-report.htm" />
+      <TocEntry
+        Title="View the Script Jobs History Report"
+        Link="/Content/View-script-jobs-history.htm" />
+      <TocEntry
+        Title="Generate a Survey Report"
+        Link="/Content/Create-survey-report.htm" />
+      <TocEntry
+        Title="Generate a deferred support report"
+        Link="/Content/Generate-deferred-support-report.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Configure End User accounts"
+    Link="/Content/End-User-guide.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Multi-factor-authentication-End-Users.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Start, share or transfer support sessions"
+    Link="/Content/Start-a-support-session.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Generate-PIN-code.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Send-support-link.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Unattended-support.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Generate-unattended-support-link.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Add devices to My Computers list during a support session"
+        Link="/Content/Add-devices-during-session.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Configure-the-Agent.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Share-and-transfer-sessions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Transfer-session-before-creating-PIN.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Transfer-before-accepting-new-support-request.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Share-support-session-with-another-technician.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Provide assistance to customers"
+    Link="/Content/Provide-assistance-to-customers.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="Learn about the Technician Console"
+      Link="/Content/Learn-about-the-technician-console.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Access log files"
+      Link="/Content/Access-log-files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View pending support requests"
+      Link="/Content/View-pending-requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Accept-a-support-request.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Transfer-support-request.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Reject-support-requests.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Access My Computers"
+      Link="/Content/Access-My-Computers.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Chat with customers and colleagues"
+      Link="/Content/Chat-with-customers-and-colleagues.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Chat-with-customers-during-remote-sessions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Chat-with-customers-before-a remote-session.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Chat-with-colleagues.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Make VoIP calls to customers and colleagues"
+      Link="/Content/Make-VoIP-calls.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Call-Customers.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Call-other-technicians.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title=" Access the Remote Viewer during a support session"
+      Link="/Content/Access-TakeControl-viewer.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Access the Advanced Session Options menu"
+        Link="/Content/Access-the-Advanced-menu.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Access-the-Computer-menu.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Access-the-Session-menu.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Remotely access your customers' Windows devices"
+      Link="/Content/Remotely-access-Windows-devices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Change visualization options during a support session"
+        Link="/Content/Access-View-menu.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Send commands to the remote computer"
+        Link="/Content/Access-the-Commands-menu.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Interact with the remote computer during a support session"
+        Link="/Content/Access-the-Interactions-menu.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      <TocEntry
+        Title="Use the System Shell to support customers"
+        Link="/Content/Use-the-System-Shell.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Transfer files during a support session"
+        Link="/Content/Transfer-files-during-support-session.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="View a customer's system info during a support session"
+        Link="/Content/View-customers-system-info.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Access the Remote Registry Editor"
+        Link="/Content/Registry-editor.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Learn more about the Status Bar"
+        Link="/Content/Learn-about-the-status-bar.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Configure a customer's monitors during a support session"
+        Link="/Content/Access-the-Monitors-menu.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Access the Preferences Menu "
+        Link="/Content/Access-the-preferences-menu.htm" />
+      <TocEntry
+        Title="Integrate Take Control with Passportal"
+        Link="/Content/Access-Passportal-vaults.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Remotely-access-Mac-devices.htm">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Mac-View-menu.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Mac-Commands-menu.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Mac-Interactions-menu.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Take-Control-mobile-app.htm" />
+    <TocEntry
+      Title="Remotely access Android and iOS devices"
+      Link="/Content/Access-mobie-devices.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Calling-Cards.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Create-Calling-Card-from-the-console.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Create Calling Cards from the Admin Area"
+        Link="/Content/Create-batches-of-calling-cards.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Manage-multiple-Calling-Cards.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Configure-Port-Fowarding.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Configure-port-forwarding-for-Agents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Configure-port-forwarding-on-the-Console.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Configure-FTP-connections.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Enhance the Agent's Security"
+    Link="/Content/Enhance-the-Agents-security.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="Wake-on-LAN"
+    Link="/Content/Wake-on-LAN.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Wake-on-LAN-prerequisites.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Wake-remote-computer.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Use-Take-Control-Proxy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Install-Take-Control-Proxy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Configure-Take-Control-Proxy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Windows-Viewer-shortcuts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Release-Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>

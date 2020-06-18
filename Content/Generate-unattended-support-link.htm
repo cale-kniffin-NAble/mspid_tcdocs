@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Start share or transfer support sessions|Start an unattended support session" MadCap:lastBlockDepth="17" MadCap:lastHeight="647" MadCap:lastWidth="1265" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="products" content="MSP Anywhere;" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title>Generate an unattended support link from the console's home page</title>
+        <style>/*<![CDATA[*/
+/*&lt;meta /&gt;*/
+.button.home-button
+{
+	-pie-background: url('../Skins/Default/Stylesheets/Images/home_1.png') no-repeat center center, linear-gradient(transparent, transparent);
+}
+.needs-pie
+{
+	behavior: url('../Resources/Scripts/PIE-no-motw.htc');
+}
+
+/*]]>*/</style>
+        <script src="../Resources/Scripts/custom.modernizr.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/jquery.min.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/require.min.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/require.config.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/foundation.6.2.3_custom.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/plugins.min.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/MadCapAll.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script><link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" /></head>
+    <body>
+        <h1>Generate an unattended support link from the console's home page</h1>
+        <p>Remotely access your customers' devices anytime you need by installing the <MadCap:variable name="General.CompanyName" /> Agent on their device, and generating a support link to access the device for unattended remote support. </p>
+        <ol>
+            <li value="1">From the Console, navigate to the <b>My Computers</b> &gt; <b>Add Computer...</b>.</li>
+            <li value="2">Enter the details of the new computer.</li>
+            <li value="3">Set an expiration date for the agent. </li>
+            <p class="info">After the expiration date, the agent is uninstalled and deleted from your computer list.</p>
+            <li value="4">Click <b>Generate Link</b>, and select to generate either a computer PIN code, or an Install Link. The customer can go to <a href="http://startcontrol.com/" target="_blank">startcontrol.com</a> and use the PIN code, or follow the install link to download the Agent Installer.<br /></li>
+        </ol>
+        <p>Administrative privileges are required to perform the installation. Make sure that only one user is logged into the remote computer. After the files are copied, the Agent starts a registration process, which requires adding a name and description for the Computer.</p>
+        <p class="info">To install the Agent on a Mac® computer, customers can select Install Agent in the Mac Version tab to download the Agent from the portal and use the PIN Code.</p>
+        <p class="nugget">To perform a silent deployment, enable the relevant <a href="Set-up-the-Agent.htm">Profile &gt; Agent Setup options in the Admin Area.</a></p>
+        <p>As soon as the new computer is listed in the console, technicians can select it from the <b>My Computers</b> tab to view additional details, or start an unattended support session. Right-click on a computer in the list for additional options: Create a new group, delete, rename, or move the computer to another group, refresh the list of computers, restart the remote Agent, use the <a href="Wake-on-LAN.htm" class="MCXref xref" xrefformat="{paratext}">Wake-on-LAN</a> feature, or create a new ticket for the Agent.</p>
+        <p class="info">Each computer shows two dates: <b>Last Access</b> is the date of the last session made to that machine (the very last session made by any technician). <b>Last Seen</b> is the last time the Agent actively exchanged information with the <MadCap:variable name="General.CompanyName" /> infrastructure. Both dates and times are converted to the timezone of each console.</p>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li><a href="Generate-PIN-code.htm">Generate a PIN code</a>
+            </li>
+            <li><a href="Send-support-link.htm">Send a support link</a>
+            </li>
+        </ul>
+    </body>
+</html>

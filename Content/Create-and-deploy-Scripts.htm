@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Administrative Area|[%=System.LinkedTitle%]" MadCap:lastBlockDepth="17" MadCap:lastHeight="810" MadCap:lastWidth="1264" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Create and deploy scripts</h1>
+        <p><MadCap:variable name="General.CompanyName" /> allows for the immediate or scheduled script deployments to any of your customer’s computers or devices. These scripts are directly compatible with Batche files, Visual Basic Script and Powershell. </p>
+        <p>Watch <b><a href="https://youtu.be/s6vToob-6T4">this video</a></b> to learn more about script deployment. </p>
+        <h3>Create scripts</h3>
+        <ol>
+            <li value="1">Select <b>Management</b> &gt; <b>Scripts</b>.</li>
+            <li value="2">Click <b>Group : Add</b>, enter a Group name, and click <b>Add</b> to confirm the addition of the new group. </li>
+            <li value="3">Select the new group and click <b>Scripts : Add</b> to add new scripts to the group. </li>
+            <li value="4">Enter a Name and Description for the new script, select a <b>Script Type</b> and click <b>Add</b>.</li>
+            <li value="5">In the <b>Script tab</b>, select <b>Enabled</b> to activate the new script.</li>
+            <li value="6">In the <b>Content</b> section, choose ps1 (powershell script), vbs (Visual Basic Script), or bat (Batch file) and select the type of script you want to add:<ol><li value="1"> Select <b>Explicit Script</b>, paste the necessary commands to the Script Body field and the script text is directly inserted in the <MadCap:variable name="General.CompanyName" /> interface.</li><li value="2">Select <b>External Script</b>, enter the Script URL, and the script is available in a text file located at the Script URL. Click Test to check your External Script URL, and save your changes. </li></ol></li>
+            <li value="7">If the script requires specific resources to be available for download, select <b>Required Files</b> &gt; <b>Add new</b>, and add the necessary files to the script. Click <b>Add File</b> to save the file to the script. </li>
+        </ol>
+        <h3>Deploy scripts</h3>
+        <ol>
+            <li value="1"> Navigate to the <b>Devices</b> page of the Admin Area, select one or more devices and click <b>More</b> &gt; <b>Deploy script</b> from the options at the top of the page. </li>
+            <li value="2">Choose a script to deploy and select a <b>Start On date</b>.</li>
+            <li value="3">Click <b>System Account</b> in the Run As field to navigate to the <b>Running Options tab</b> and specify credentials to run the script as a local machine or local user. </li>
+            <li value="4">Specify whether to run the script only when a user is logged in, or to allow interaction with the desktop while the script is running. </li>
+            <li value="5">Select the <b>Advanced tab</b> to specify whether  the computer will discard the job if it is not completed after a specified amount of time. </li>
+            <li value="6">In the <b>Notification</b> section, <b>Register Only</b> is selected to indicate the script will be logged in the Reports section of the Admin Area. Select <b>Send Email</b>, and enter an email address to send a notification of the script job. </li>
+            <li value="7">Click <b>Deploy</b> to deploy the script.</li>
+        </ol>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li value="1"><a href="Manage-devices.htm">Manage devices</a>
+            </li>
+            <li value="2"><a href="Configure-Profile.htm">Configure your profile</a>
+            </li>
+            <li value="3"><a href="View-script-jobs-history.htm">View Script Jobs history</a>
+            </li>
+        </ul>
+    </body>
+</html>

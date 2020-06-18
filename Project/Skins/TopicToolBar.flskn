@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="MarginBottom">33px</Property>
+          <Property
+            Name="MarginRight">-4px</Property>
+          <Property
+            Name="Float">left</Property>
+          <Property
+            Name="MarginTop">5px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="ToolbarItem">
+        <Classes>
+          <StyleClass
+            Name="home"
+            Custom="true">
+            <Properties>
+              <Property
+                Name="BackgroundRepeat">no-repeat</Property>
+              <Property
+                Name="BackgroundPosition">center center</Property>
+              <Property
+                Name="BackgroundColor">transparent</Property>
+              <Property
+                Name="BoxShadowVShadow">0px</Property>
+              <Property
+                Name="BorderTop">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderRight">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderBottom">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderLeft">none 1px #e1e1e1</Property>
+              <Property
+                Name="BackgroundGradient">vertical transparent transparent</Property>
+              <Property
+                Name="PaddingLeft">2px</Property>
+              <Property
+                Name="BackgroundImage">url('home_2.png')</Property>
+              <Property
+                Name="Click">window.open("../Default.htm","_self");</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="RemoveHighlight">
+            <Properties>
+              <Property
+                Name="BackgroundColor">transparent</Property>
+              <Property
+                Name="BackgroundGradient">vertical transparent transparent</Property>
+              <Property
+                Name="BorderTop">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderRight">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderBottom">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderLeft">none 1px #e1e1e1</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="Print">
+            <Properties>
+              <Property
+                Name="BackgroundColor">transparent</Property>
+              <Property
+                Name="BackgroundGradient">vertical transparent transparent</Property>
+              <Property
+                Name="BoxShadowVShadow">0px</Property>
+              <Property
+                Name="BorderTop">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderRight">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderBottom">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderLeft">none 1px #e1e1e1</Property>
+              <Property
+                Name="BackgroundImage">url('print_1.png')</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="Feedback"
+            Custom="true">
+            <Properties>
+              <Property
+                Name="BackgroundRepeat">no-repeat</Property>
+              <Property
+                Name="BackgroundPosition">center center</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="ToolbarItem">
+          <Classes>
+            <StyleClass
+              Name="home">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="Feedback">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+      </Medium>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Toolbar">
+          <Properties>
+            <Property
+              Name="Display">none</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="ToolbarItem">
+          <Classes>
+            <StyleClass
+              Name="home">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="Feedback">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+      </Medium>
+    </Styles>
+    <Stylesheet></Stylesheet>
+    <Resources>
+      <Resource
+        Name="swgold24x24.png">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</Resource>
+      <Resource
+        Name="ResponsiveHome.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0iIgzMIMJOuXM9gBKZZ0R19HBoaN/dx/ElmBfIVkjyBfBoYqNQaGhhYGhl9AoYYXDAylBgwMrxIYGKxmMDCIF8zZFWgDlNAK8AlxBdK37z4iiIDKXjenfAVSPCVBfsEMHWUVbdV1LU31jQ3R5oHfgOKMSd7uLgwdrLIeQA5ngUdkMQMDtxAIM166W/cHKOjj6eIYwnE9OYGByY2VTWKC5ZkCtkNJlsVqDKe+WBY/k2g5WcfGcuCMlMVk5jNWxownYpgT56UkPLArZlOzYT/GwvXZIYJd4oOBpMSKwywMP86HFz9f8LQcaK5qiWtESUpiSapVclEqkGIwMjA00TUw1DWyDDE0sTI1tTIy0jWwsDIw+PLo8TkUDbn5KZlplbg1tO6PLgJqYPB09XNZ55TQBAC0ABL3kwEAAA==</Resource>
+      <Resource
+        Name="home.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0iIgzMEGJHs7ZXmBFFuSt7sLwwQQVI3cfhsowlngEVnMwMAtBMKMl+7W/QEKspd4+rqy3+cQFTZR4lB05wEK1Xq6OIZYnH472ZHvgAIHS+yj5kou+2venitmMejuLc0XkBVvucYkNFFRSblITHBG70xJs/Ubu5oMXjyeF8ySGOZ+fNW8lrU7z+qqJq57oZvzVpNrzt06adHUKA2+5A8nHn78xOrP/PZFgHbY+SnCmd3sd8wORu/9NKn+gXmy8abbiaaMWrm2wTWXBUFeYPB09XNZ55TQBACOyn8q8AAAAA==</Resource>
+      <Resource
+        Name="home_1.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gIgzMEGJOU//08EUmxJ3u4uDBNAUDVy+22gCGeBR2QxAwO3EAgzXrpb9wcoyF7i6evKfp9DVIRBlO8neyEDA6OWp4tjiMXp3skbvZwdBVzPtwnk6Kg0td7gnlbnHKe8ZJvwn6bfmt+5Ly31TU9Wjbqt4aQl3S1g6DmRxXfWjZyEmj17LDYY7C5+P/fm3EiNmW9f+Of4H9qXu1v2YyfX5loOnsbnNSWaL6984/KYFBWdk+z+TfGDykrtldw2t+rYow6YFM2aqMN5O/uB46XSA3cZ3A/I/Fiz+/Otb9k/97TEu+Zp3f3pG5Ro7XnrjcAOdr2GYs/Pb6X3MDT7LGvrWcIkkcJ38pt5wQTD45PUrkTkPQ6/92+JwA7mvMaNS2JTGoQXqL985S++re7dEcmAKT++T7Lb5LG5iK9J1IH9xpOrKwWWxDCKSlYv/HJqZe4VjiW1yvv9H8Rf00idmVofGHhQ6fdmiW6m4ISUap4vjakduo11fb2P2n+xls5sKNKpE+EFBiSDp6ufyzqnhCYA0cDOG50BAAA=</Resource>
+      <Resource
+        Name="Home.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gIgzMEGJOU//08EUpwFHpHFDAzcwiDMyDBrjgRQULLENaIkOD+tpDyxKJXBMSU/KVXBMzcxPTUoNTGlsvBkqg1Q0RVPF8eQiltJf/7/t2dWbeCcv+Tfl1huhxk6zAukeB0k5iv6WJioM6xkUGC7yKfQc1pATWaWeoNJ7JmS3QxH5Be0sTo8DWBQLlJgEm0Q0WvIdDOWeDKX2SGGYUp0w0OmCUxpbf+1F3DpLbjNIlrMsGpm4xshtZTLa//ZpLubyc5W3LdffkPzHg7jFlYt9ktXFvx6n2w/qfvf4sw0lotO/+sNHJi3M6zhF2GrulzG1fCCU1jtD/vFAMM1OSmmCmdYTP8y+wY9EjBNeHSk8//EZCZLswlPNyxzKWJwaGBkyFzeuebGEg4voP8YPF39XNY5JTQBAHSZW/VHAQAA</Resource>
+      <Resource
+        Name="print.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gIgzMEGJOU//08EUpwFHpHFDAx8R0CYcao2nzRQkL3E09eV/RGLNIca80aWp4FgIdeIEsfSkoz8IoaV6854AIV4QEIuqcXJRZkFJZn5eQzCnIrKQHEukLhzfkFlUWZ6RgnDGv4zVkBRPrBoUWoiSKlCSWZuKoPpd35OkBNAMsH5aSXliUWpDLEF/0HKucGGZxYn5yQClRYxbD+wpR8ozAESDk8sysvMS2c4IP2sHea04PzSouRUhq//m1/DlDnn5+am5pUwfDszbT9QjA0kFpJZkpPKsOLdJXUGBkY7TxfHEIvepZM2ejMlShyrjxJnP34w9UIRr2eykoWlyD92XrYmFdaHAQ8vTHigxJvLyxd4YdGObTcuqXA4BUcLvGNvOt2pInN/0uHrBZ1t5cuv5Vf9rJj/vHrf+1rnIK+T9hFzp4j5i6vOYy8WkW6/Y5fWeU6K4wjDN/3XTx7bPeqXWl7O9HDuAdfLpm++8U6dZlsq8XhHiV/Q9aZ5Bom2dQ735tgFGoS+D5jHtr9lt6FZ7RE7NmW7+/Ertuaa//p2iY3r4hdT/pcPcpIPdW8962lQxBLPc/ejBdPDHyXW7xja+xw2tC3Tbrn3rj/laemX5benXhENMWa9+eLU05dmKYrBUxMNLjDVSTbUTf7kOTNN3uqrzM4q9hDe5p3VH5xVPL+dSdFm8lrlEdjLZBtxI+Gowrb0HV/9mlgc5m905D+9SfDVm3nsijrdclz3bRm7tjxg+L0OGLYMnq5+LuucEpoAoDwV4nMCAAA=</Resource>
+      <Resource
+        Name="home_2.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gIgzMEGJOU//08EUpwFHpHFDAx8R0CYcao2nzRQkL3E09eV/RGLNIe6iPaZwOtgIdeIEsfSkoz8IoaV6854AIV4QEIuqcXJRZkFJZn5eQzCnIrKQHEukLhzfkFlUWZ6RgnDGv4zVkBRPrBoUWoiSKlCSWZuKoPpd35OkBNAMsH5aSXliUWpDLEF/0HKucGGZxYn5yQClRYxbD+wpR8ozAESDk8sysvMS2c4IP2sHea04PzSouRUhq//m1/DlDnn5+am5pUwfDszbT9QjA0kFpJZkpPKsOLdJXUGBsZGTxfHEIvetcG2Hk6BErYz/JmWt0W1BHHIrlo4TSGqxGO7mqOeSQtH04LZCmYafTs1+p5NEJDYZtLi7aT0UCBPl3/jU9OUrvU1/T0t6x0/q9/f3HSubP/7mufzqnfIe/DaNnIZus17nC1UtUrnkgOnUX+ORsfl67oRUuocbZsepLqqGajeXBNw6LWKmPaXfDmLwirhkEw/6xkCE7LERdJ6amZqeT7eVi0UamyXxB64a43nKaYgU1+7Yxpz1l9WST2xoMrOp+enRuxUNdaW1RqGy9uFtud+3cJWsatz8vGXCysCFZQWWW77JWZ56uOPG9xK+/avmXSF49dU2RlxmyxOixZ+38fYe8HoQKLpX4sfsmqrmdumMfTqPmi/e+JvZIPxrYf8Nxb84f/HsLYo8thj23638oI58U2VZxn+vmeVC+g4FhgX0yBndOv8bo65uzeuOzDnI4twzESRIEHxNNc//ZIlrifmru8VNNxpbXSkz2ZN591Ad24Gq7l8MZqdhy/9mCA5beF+o0nvPkX0H/6WZn/Jfytb8u3YyyteAaOHwdPVz2WdU0ITAFWMHa62AgAA</Resource>
+      <Resource
+        Name="print_1.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gIgzMEGJOU//08EUpwFHpHFDAx8R0CYcao2nzRQkL3E09eV/RGLNIemyuRpPl/BQq4RJY6lJRn5RQwr153xAArxgIRcUouTizILSjLz8xiEORWVgeJcIHHn/ILKosz0jBKGNfxnrICifGDRotREkFKFkszcVAbT7/ycICeAZILz00rKE4tSGWIL/oOUc4MNzyxOzkkEKi1i2H5gSz9QmAMkHJ5YlJeZl85wQPpZO8xpwfmlRcmpDF//N7+GKXPOz81NzSth+HZm2n6gGBtILCSzJCeVYcW7S+oMDIz+ni6OIRa9cydt9HYKFGm3PyvOL3fo9IKjbUs2tl94EvBD3kSCY5JIi2Ors0tTN8tWUw8Xx+5Ht5K8Jwtw+OY67rAXkKlS4uzf/aRAet6kpe9X/l1Wfd72ubX9O0s7zaUsDJPbH9v0y+7ZuuPs1douj/9SPyoFO/hy5oWccIntun/6zX2OIwEaH8zdubMivnp3nb8WcCHBvN5FZ0WvgTvQ9xd1jR4+7HCKkM3P0nkQ/nDWwUneG7kXHH9+W/jprqcR8TMlFwh4zime/uGb2YT6XVs4+aq2PeheZywXrZAzPee2ZMJ1MY5nF5u49l2/LRtZ8/Lv6t1C9s1BRtqrfS13zwqd6TttiXyJSX8824LYxRvCF1xrc1P13XWJIdQ5/ZHcF9GuiVY8m2WYVOcpL3drEPPhnXHZ0Kzk+Z5d56wcZjMuaM2M4igtOb9XxWeyGNe+/lutNrqmM2r5uI4dNL1/vnXi5Z2X7qsBA5vB09XPZZ1TQhMADl1XQYQCAAA=</Resource>
+    </Resources>
+  </Stylesheet>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="Print|home" />
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="Toolbar">
+            <Properties>
+              <Property
+                Name="MarginBottom">33px</Property>
+              <Property
+                Name="MarginRight">-4px</Property>
+              <Property
+                Name="Float">right</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="ToolbarItem">
+            <Classes>
+              <StyleClass
+                Name="home"
+                Custom="true">
+                <Properties>
+                  <Property
+                    Name="BackgroundRepeat">no-repeat</Property>
+                  <Property
+                    Name="BackgroundPosition">center center</Property>
+                  <Property
+                    Name="Tooltip">Home</Property>
+                </Properties>
+              </StyleClass>
+            </Classes>
+          </Style>
+          <Medium
+            Name="Tablet">
+            <Style
+              Name="ToolbarItem">
+              <Classes>
+                <StyleClass
+                  Name="home">
+                  <Properties>
+                    <Property
+                      Name="BackgroundRepeat">no-repeat</Property>
+                    <Property
+                      Name="BackgroundPosition">center center</Property>
+                  </Properties>
+                </StyleClass>
+              </Classes>
+            </Style>
+          </Medium>
+          <Medium
+            Name="Mobile">
+            <Style
+              Name="Toolbar">
+              <Properties>
+                <Property
+                  Name="Display">none</Property>
+              </Properties>
+            </Style>
+            <Style
+              Name="ToolbarItem">
+              <Classes>
+                <StyleClass
+                  Name="home">
+                  <Properties>
+                    <Property
+                      Name="BackgroundRepeat">no-repeat</Property>
+                    <Property
+                      Name="BackgroundPosition">center center</Property>
+                  </Properties>
+                </StyleClass>
+              </Classes>
+            </Style>
+          </Medium>
+        </Styles>
+        <Stylesheet />
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+</CatapultSkin>

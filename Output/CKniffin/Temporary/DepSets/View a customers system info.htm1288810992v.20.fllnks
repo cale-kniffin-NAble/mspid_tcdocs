@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileTitle="View a customer's system info during a support session"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Images/home_1.png" />
+    <Link
+      Url="Resources/Scripts/PIE-no-motw.htc" />
+    <Link
+      Url="Resources/Scripts/custom.modernizr.js" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.6.2.3_custom.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Images/transparent.gif" />
+    <Link
+      Url="https://youtu.be/u9pxquiK_vo" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ExportFromSysInfo_21x19.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ProcessList.jpg" />
+    <Link
+      Url="Content/Configure-Port-Fowarding.htm" />
+    <Link
+      Url="Content/Remotely-access-devices.htm" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Images/home_1.png" />
+    <Link
+      Url="Resources/Scripts/PIE-no-motw.htc" />
+    <Link
+      Url="Resources/Scripts/custom.modernizr.js" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.6.2.3_custom.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Skins/Default/Stylesheets/Images/transparent.gif" />
+    <Link
+      Url="https://youtu.be/u9pxquiK_vo" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ExportFromSysInfo_21x19.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ProcessList.jpg" />
+    <Link
+      Url="Content/Configure-Port-Fowarding.htm" />
+    <Link
+      Url="Content/Remotely-access-devices.htm" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

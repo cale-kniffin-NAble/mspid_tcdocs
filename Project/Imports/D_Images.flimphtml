@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="TakeControl"
+  ProjectFolder="C:\doc\TakeControl2\TakeControl\"
+  AutoSync="false"
+  SourceFolders="file:///C:/doc/TakeControl/Content/D_Images"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-11-14T12:56:06.1279882-06:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../TakeControl/Content/D_Images"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/D_Images" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/D_Images/ImagePositionedLeft.htm"
+      TimeStamp="11/14/2018 12:55:59 PM" />
+    <Url
+      Source="../../Content/D_Images/ImagePositionedRight.htm"
+      TimeStamp="11/14/2018 12:55:59 PM" />
+    <Url
+      Source="../../Content/D_Images/Images.htm"
+      TimeStamp="11/14/2018 12:56:00 PM" />
+    <Url
+      Source="../../Content/D_Images/ImageWithinList.htm"
+      TimeStamp="11/14/2018 12:56:00 PM" />
+    <Url
+      Source="../../Content/D_Images/Positioned Images.htm"
+      TimeStamp="11/14/2018 12:56:00 PM" />
+    <Url
+      Source="../../Content/D_Images/ThumbnailImage.htm"
+      TimeStamp="11/14/2018 12:56:01 PM" />
+    <Url
+      Source="../TOCs/D_Images.fltoc"
+      TimeStamp="11/14/2018 12:56:05 PM" />
+  </GeneratedFiles>
+</HtmlImport>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Primary Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/Home.htm"
+  MasterToc="/Project/TOCs/OnlineOutput.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/SWI_CustomStyles.css"
+  MasterStylesheetOverride="true"
+  Skin="/Project/Skins/SW2015.flskn"
+  MenuSkin="/Project/Skins/SideMenu.flskn"
+  TopicToolbarSkin="/Project/Skins/TopicToolBar.flskn"
+  SearchBarSkin="/Project/Skins/HomeSearchBar.flskn"
+  ConditionTagExpression="include[Exclude.PrintOnly or Exclude.ScreenOnly] "
+  EnableSitemap="true"
+  SitemapWebUrl="https://documentation.solarwindsmsp.com/takecontrol/documentation/"
+  PreCompileScaledImages="false"
+  MasterPage="/Content/Resources/MasterPages/ProductHelp.flmsp">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <MetaTags
+    Enabled="true">
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge" />
+    <meta
+      name="products"
+      content="MSP Anywhere;" />
+  </MetaTags>
+</CatapultTarget>

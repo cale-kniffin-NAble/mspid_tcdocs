@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileTitle="Access the Admin Area Dashboard"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Images/home_1.png" />
+    <Link
+      Url="Resources/Scripts/PIE-no-motw.htc" />
+    <Link
+      Url="Resources/Scripts/custom.modernizr.js" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.6.2.3_custom.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/Enable and revoke two factor authentication.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png" />
+    <Link
+      Url="Content/Unattended Support.htm" />
+    <Link
+      Url="Content/Manage your technicians.htm" />
+    <Link
+      Url="Content/Set up the Agent.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/step-indicator_23x23.png" />
+    <Link
+      Url="Content/Manage Devices.htm" />
+    <Link
+      Url="Content/Configure your Profile.htm" />
+    <Link
+      Url="Content/Manage your account.htm" />
+    <Link
+      Url="Content/Generate reports.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Images/home_1.png" />
+    <Link
+      Url="Resources/Scripts/PIE-no-motw.htc" />
+    <Link
+      Url="Resources/Scripts/custom.modernizr.js" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.6.2.3_custom.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/Enable and revoke two factor authentication.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png" />
+    <Link
+      Url="Content/Unattended Support.htm" />
+    <Link
+      Url="Content/Manage your technicians.htm" />
+    <Link
+      Url="Content/Set up the Agent.htm" />
+    <Link
+      Url="Content/Resources/Images/icons/step-indicator_23x23.png" />
+    <Link
+      Url="Content/Manage Devices.htm" />
+    <Link
+      Url="Content/Configure your Profile.htm" />
+    <Link
+      Url="Content/Manage your account.htm" />
+    <Link
+      Url="Content/Generate reports.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

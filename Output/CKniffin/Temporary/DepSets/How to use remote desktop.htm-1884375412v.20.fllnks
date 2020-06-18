@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/Remote Viewer and call outs.png" />
+    <Link
+      Url="Content/Access View menu.htm" />
+    <Link
+      Url="Content/Access-the-Monitors-menu.htm" />
+    <Link
+      Url="Content/Access-the-Commands-menu.htm" />
+    <Link
+      Url="Content/Access-the-Interactions-menu.htm" />
+    <Link
+      Url="Content/How to use the System Shell.htm" />
+    <Link
+      Url="Content/Transfer files during a support session.htm" />
+    <Link
+      Url="Content/View a customers system info.htm" />
+    <Link
+      Url="Content/Registry Editor.htm" />
+    <Link
+      Url="Content/What is the status bar.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/Remote Viewer and call outs.png" />
+    <Link
+      Url="Content/Access View menu.htm" />
+    <Link
+      Url="Content/Access-the-Monitors-menu.htm" />
+    <Link
+      Url="Content/Access-the-Commands-menu.htm" />
+    <Link
+      Url="Content/Access-the-Interactions-menu.htm" />
+    <Link
+      Url="Content/How to use the System Shell.htm" />
+    <Link
+      Url="Content/Transfer files during a support session.htm" />
+    <Link
+      Url="Content/View a customers system info.htm" />
+    <Link
+      Url="Content/Registry Editor.htm" />
+    <Link
+      Url="Content/What is the status bar.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

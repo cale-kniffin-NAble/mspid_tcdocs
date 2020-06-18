@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IgnoredWordsDictionary>
+    <Word Comment="">login</Word>
+    <Word Comment="">startcontrol.com</Word>
+    <Word Comment="">JSON</Word>
+    <Word Comment="">https://api.swi-rc.com/integration/get_history_api.php</Word>
+    <Word Comment="">https://api.swi-rc.com/integration/tickets_api.php</Word>
+    <Word Comment="">https://enduser.swi-tc.com/login.php</Word>
+    <Word Comment="">Multifactor</Word>
+    <Word>username</Word>
+</IgnoredWordsDictionary>

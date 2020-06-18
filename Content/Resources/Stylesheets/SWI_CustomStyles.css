@@ -1,0 +1,1122 @@
+﻿/*<meta />*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
+/*
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url(opensans-light.eot);
+  src: local('Roboto Light'), local('OpenSans-Light'),
+       url(opensans-light.eot) format('embedded-opentype'),
+       url(opensans-light.woff) format('woff');
+} 
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(opensans-regular.eot);
+  src: local('Roboto'), local('OpenSans'),
+       url(opensans-regular.eot) format('embedded-opentype'),
+       url(opensans-regular.woff) format('woff');
+} 
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url(opensans-bold.eot);
+  src: local('Roboto Bold'), local('OpenSans-Bold'),
+       url(opensans-bold.eot) format('embedded-opentype'),
+       url(opensans-black.woff) format('woff');
+} 
+*/
+
+body
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+}
+
+/************************* MiniTOC for Onboarding Guide topics in MindTouch */
+
+.OBminiTOC
+{
+	float: right;
+	margin-left: 15px;
+	margin-bottom: 10px;
+	border: 1px solid gray;
+	background-color: #eee;
+	width: 300px;
+	padding: 5px;
+}
+
+div.OBminiTOC ul
+{
+	list-style-type: none !important;
+	padding-left: 10px !important;
+	margin-left: 0px !important;
+	line-height: 1.1 !important;
+	margin-bottom: .4em !important;
+	margin-top: .4em !important;
+}
+
+div.OBminiTOC ul ul li
+{
+	list-style-type: none !important;
+	padding-left: 10px !important;
+	margin-left: 0px !important;
+	line-height: 1.1 !important;
+	margin-bottom: .4em !important;
+	margin-top: .4em !important;
+}
+
+/****************************** DIV CONTAINER */
+
+div.turq-line
+{
+	border-top-style: solid;
+	border-color: #04c9d7;
+	margin: 0px;
+	height: 80px;
+}
+
+div.topicheroslim
+{
+	background-image: url('../Images/SWI_curvy-tile.png');
+	background-repeat: repeat;
+	padding-top: 0;
+	padding-bottom: 20px;
+	border-top-style: solid;
+	border-color: #04c9d7;
+	height: 60px;
+	margin: 0px;
+}
+
+div.topicheroslim p
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 18pt;
+	text-align: center;
+}
+
+@media only screen and (max-width: 600px)
+{
+	div.topicheroslim p
+	{
+		font-size: 12pt;
+	}
+}
+
+@media only screen and (min-width: 600px)
+{
+	div.topicheroslim p
+	{
+		font-size: 18pt;
+	}
+}
+
+div.sideContent
+{
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	width: 25%;
+}
+
+div.TopicContent
+{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 25px;
+}
+
+div.topicNav
+{
+	padding-bottom: -10px;
+	margin-bottom: -10px;
+}
+
+/* front matter/About */
+
+p.frontmatter_h1
+{
+	font-weight: 800;
+	font-size: 30px;
+	color: #2D5C77;
+	widows: 3;
+	orphans: 3;
+	mc-hyphenate: never;
+	page-break-after: avoid;
+	page-break-before: always;
+	font-family: Roboto;
+}
+
+p.frontmatter_h2
+{
+	font-size: 25px;
+	font-weight: 700;
+	color: #333;
+	mc-hyphenate: never;
+	page-break-after: avoid;
+	padding-bottom: 0em;
+	margin-bottom: .5em;
+	font-family: Roboto;
+}
+
+/************************************ text */
+
+h1	/* mirror changes in p.frontmatter_h1 */
+{
+	font-weight: normal;
+	font-size: 30px;
+	widows: 3;
+	orphans: 3;
+	margin-top: 0px;
+	padding-top: 0px;
+	mc-hyphenate: never;
+	page-break-after: avoid;
+	color: #444444;
+	font-family: Roboto;
+}
+
+h2	/*mirror changes in p.frontmatter_h2 */
+{
+	font-size: 25px;
+	font-weight: normal;
+	mc-hyphenate: never;
+	page-break-after: avoid;
+	/*
+	padding-top: .6em; */
+	padding-bottom: 0em;
+	margin-bottom: .5em;
+	color: #666666;
+	font-family: Roboto;
+}
+
+h3
+{
+	font-size: 18px;
+	font-weight: normal;
+	mc-hyphenate: never;
+	padding-bottom: 0em;
+	margin-bottom: 0em;
+	color: #666666;
+	font-family: Roboto;
+}
+
+h4
+{
+	font-weight: normal;
+	font-size: 14px;
+	padding-bottom: 0em;
+	mc-heading-level: 4;
+	color: #666666;
+	font-family: Roboto;
+}
+
+p
+{
+	font-family: 'Roboto';
+	font-size: 14px;
+	font-weight: 400;
+	mc-hyphenate: never;
+	page-break-inside: avoid;
+	widows: 3;
+	orphans: 3;
+}
+
+p.menu	/*used with dropdown menu */
+{
+	font-size: 13px;
+}
+
+.expand	/*use with expands */
+{
+	overflow: auto;
+}
+
+.ButtonMenuNote
+{
+	font-weight: normal;
+	page-break-after: avoid;
+}
+
+.IfStatement
+{
+	font-style: normal;
+}
+
+/*Changes to term definitions should also be mirrored in dt and dd in List styles */
+
+.TermDefinition
+{
+	margin-left: 40px;
+	page-break-before: avoid;
+}
+
+.Term
+{
+	font-weight: bold;
+	font-style: normal;
+	page-break-after: avoid;
+	mc-next-clas: TermDefinition;
+}
+
+code
+{
+	font-size: 15px;
+	mc-toc-depth: 3;
+	margin-top: 3pt;
+	font-family: "Courier New", monospace;
+}
+
+p.TaskIntro
+{
+	font-weight: normal;
+	page-break-after: avoid;
+}
+
+MadCap|xref.PageNumberOnly
+{
+	mc-format: '{page}';
+}
+
+pre
+{
+	background-color: #F6F6F6;
+	border: 1px solid #696969;
+	padding: 10px;
+	overflow: auto;
+	mc-hyphenate: never;
+}
+
+caption
+{
+	caption-side: top;
+	text-align: left;
+	page-break-after: avoid;
+}
+
+/*********************************** Images */
+
+img.no_border
+{
+	border: none;
+}
+
+ol img,
+ul img
+{
+	border: 1px solid #222;
+}
+
+img.borders
+{
+	border: 1px solid #222;
+}
+
+/******************************************* Lists */
+
+p ol,
+p ul
+{
+	margin-top: -.4em;
+	padding-top: 1px;
+	margin-bottom: 0px;
+}
+
+ol
+{
+	padding-bottom: 2px;
+	mc-hyphenate: never;
+}
+
+ul
+{
+	padding-top: 2px;
+	list-style-type: square;
+}
+
+ul.checklist
+{
+	list-style-type: square;
+	list-style-image: url(../Images/checkbox.gif);
+	line-height: 16px;
+	padding-left: 0px;
+	margin-left: 24px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+li
+{
+	mc-hyphenate: never;
+	/* 	line-height: 1.4em; */
+	/*	margin-top: 2px;*/
+	page-break-inside: avoid;
+	page-break-before: avoid;
+	margin-bottom: 0.4em;
+}
+
+li p,
+ol p,
+ul p,
+ol ol li,
+ol ul li
+{
+	mc-hyphenate: never;
+	line-height: 1.1em;
+	margin-top: .8em;
+	margin-bottom: 3px;
+	page-break-inside: avoid;
+	page-break-before: avoid;
+}
+
+p ul li:first-child,
+p ol li:first-child,
+ol ul li:first-child,
+ol ol li:first-child,
+ul ul li:first-child,
+ul li ul li:first-child
+{
+	margin-top: .4em;
+}
+
+ol ol
+{
+	list-style-type: lower-alpha;
+}
+
+ol ul
+{
+	list-style-type: square;
+}
+
+/*Must be mirrored in .term and .term definition */
+
+dd
+{
+	margin-left: 40px;
+	page-break-before: avoid;
+	padding-top: 4px;
+	padding-bottom: 1.1em;
+}
+
+dt
+{
+	font-weight: bold;
+	font-style: normal;
+	page-break-after: avoid;
+	mc-next-clas: dd;
+}
+
+/******************************************* Drop-down text */
+
+MadCap|expandingHead
+{
+	font-size: 15px;
+	font-weight: 400;
+	cursor: hand;
+	text-decoration: none;
+	color: #204a63;
+	mc-closed-image: none;
+	mc-open-image: none;
+}
+
+MadCap|expand	/* Placeholder for having better expand images} */
+{
+	/*	mc-open-image: none;
+	mc-closed-image: none; */
+}
+
+MadCap|dropDown
+{
+	mc-open-image: none;
+	mc-closed-image: none;
+	color: #000000;
+}
+
+MadCap|dropDownHead.menu
+{
+	color: #000000;
+}
+
+MadCap|dropDown.menu
+{
+	mc-open-image: none;
+	mc-closed-image: none;
+	mc-image-position: none;
+	font-size: 13px;
+	cursor: hand;
+	text-decoration: none;
+	line-height: 1.8em;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+}
+
+MadCap|dropDown.menu:link
+{
+	font-size: 13px;
+	cursor: hand;
+	text-decoration: none;
+	line-height: 1.8em;
+	mc-closed-image: none;
+	mc-open-image: none;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+}
+
+MadCap|dropDownHotspot.menu:link
+{
+	font-size: 13px;
+	cursor: hand;
+	text-decoration: none;
+	line-height: 1.8em;
+	mc-closed-image: none;
+	mc-open-image: none;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+}
+
+MadCap|dropDownHead.menu:link
+{
+	font-size: 13px;
+	font-weight: 400;
+	cursor: hand;
+	text-decoration: none;
+	line-height: 1.8em;
+	mc-closed-image: none;
+	mc-open-image: none;
+	color: #000000;
+}
+
+MadCap|dropDownHotspot.menu:hover
+{
+	font-size: 13px;
+	cursor: hand;
+	background-color: #fff;
+	mc-closed-image: none;
+	mc-open-image: none;
+	font-weight: normal;
+	font-style: normal;
+	color: #000000;
+	text-decoration: none;
+}
+
+MadCap|dropDownHotspot.menu:visited
+{
+	font-size: 13px;
+	cursor: hand;
+	background-color: #fff;
+	mc-closed-image: none;
+	mc-open-image: none;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+}
+
+MadCap|dropDownBody.menu
+{
+	font-size: 13px;
+	font-weight: 400;
+	cursor: hand;
+	mc-closed-image: none;
+	mc-open-image: none;
+	color: #000;
+}
+
+/*******************************************  Links */
+
+MadCap|xref
+{
+	mc-format: '{paratext}';
+	color: #0079aa;
+	text-decoration: none;
+}
+
+MadCap|xref:hover
+{
+	color: #2d5c77;
+	text-decoration: underline;
+}
+
+MadCap|xref.ParaTextOnly
+{
+	mc-format: '{paratext}';
+	color: #0079aa;
+	text-decoration: none;
+}
+
+a:link
+{
+	color: #0079aa;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #1d781d;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #2d5c77;
+	text-decoration: underline;
+}
+
+/********************************** Table Styles */
+
+table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	color: #333;
+	margin-left: 0px;
+	margin-right: auto;
+}
+
+th
+{
+	border: 1px solid #ABD5E3;
+	padding: 2px;
+	font-variant: small-caps;
+	font-weight: 600;
+	color: #333;
+	font-size: 16px;
+}
+
+thead
+{
+	background-color: #cccccc;
+}
+
+td
+{
+	mc-hyphenate: never;
+	border: 1px solid #ABD5E3;
+	margin-left: 0in;
+	margin-right: 0in;
+	margin-top: 7pt;
+	margin-bottom: 7pt;
+	border-collapse: collapse;
+	border-spacing: 0px 0px;
+	mc-cell-padding: 5pt 5pt 5pt 5pt;
+	padding: 5px;
+	vertical-align: top;
+}
+
+tr:nth-child(even)
+{
+	background-color: #F6F6F6;
+}
+
+tr:nth-child(odd)
+{
+	
+}
+
+div.first_table
+{
+	float: left;
+	display: inline-block;
+	width: 73%;
+}
+
+/********************************* Box Styles */
+
+.info
+{
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+	background-color: #e9f3f7;
+	border: 1px solid #258fb0;
+	background-image: url('../Images/info.png');
+	overflow: hidden;
+	padding: 5px 15px 5px 28px;
+	margin-bottom: 5px;
+	page-break-inside: avoid;
+}
+
+tr:nth-child(even) .info
+{
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+	padding: 5px 15px 5px 32px;
+	color: #666;
+	background-color: #fff;
+	border: 1px solid #d3e8ef;
+	background-image: url('../Images/icon_info_flip.png');
+	overflow: hidden;
+}
+
+.nugget
+{
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+	background-color: #e5f6ed;
+	border: 1px solid #00a753;
+	background-image: url('../Images/nugget.png');
+	overflow: hidden;
+	padding: 5px 15px 5px 28px;
+	margin-bottom: 5px;
+	page-break-inside: avoid;
+}
+
+.check
+{
+	background-repeat: no-repeat;
+	background-position: 5px 5px;
+	padding: 5px 15px 5px 30px;
+	background-color: #d3f0cc;
+	border: 1px solid #00D15D;
+	background-image: url('../Images/icon_check.png');
+	overflow: hidden;
+}
+
+.code
+{
+	font-family: "Courier New", monospace;
+	background-repeat: no-repeat;
+	background-position: 5px 5px;
+	padding: 5px 15px 5px 30px;
+	background-color: #fafafa;
+	border: 1px solid #ececec;
+	overflow: hidden;
+}
+
+.warning
+{
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+	padding: 5px 15px 5px 30px;
+	background-color: #fef9ea;
+	border: 1px solid #fdc32b;
+	background-image: url('../Images/warning.png');
+	overflow: hidden;
+	margin-bottom: 5px;
+	page-break-inside: avoid;
+}
+
+.error
+{
+	background-repeat: no-repeat;
+	background-position: 5px 5px;
+	padding: 5px 15px 5px 30px;
+	background-color: #F5E6DF;
+	border: 1px solid #DA3838;
+	background-image: url('../Images/icon_error.png');
+}
+
+/*******************************  	 Breadcrumbs */
+
+a.MCBreadcrumbsLink
+{
+	font-style: italic;
+	text-decoration: underline;
+}
+
+a.MCBreadcrumbsLink:visited
+{
+	color: #000000;
+}
+
+a.MCBreadcrumbsLink:hover
+{
+	color: #BED230;
+}
+
+MadCap|breadcrumbsProxy
+{
+	border-bottom: none;
+	margin-top: 10px;
+	font-size: .8em;
+	font-style: italic;
+	mc-breadcrumbs-prefix: ' > ';
+}
+
+/***************  MindTouch Style ***************/
+
+.comment
+{
+	background-color: #e8fffb;
+	border: 1px dashed black;
+}
+
+/****************************************************** Quick Start */
+
+div.topright_vid
+{
+	float: right;
+	padding-left: 10px;
+	padding-bottom: 20px;
+	padding-right: 10p;
+}
+
+.top
+{
+	float: left;
+}
+
+img.map
+{
+	height: auto;
+	min-width: 2in;
+	clear: right;
+	position: relative;
+}
+
+p
+{
+	clear: left;
+	font-family: Roboto;
+}
+
+MadCap|tocProxy
+{
+	orphans: 3;
+	widows: 3;
+}
+
+MadCap|dropDown:link
+{
+	color: #000000;
+}
+
+h5
+{
+	mc-heading-level: 0;
+}
+
+h6
+{
+	mc-heading-level: 0;
+}
+
+ol ul li
+{
+	margin-bottom: 10px;
+}
+
+div.NewRowClass1	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.NewRowClass1::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.NewRowClass1::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.NewRowClass1 > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.NewRowClass1 > div:nth-child(1)
+{
+	width: 25%;
+	margin-left: 0%;
+}
+
+div.NewRowClass1 > div:nth-child(2)
+{
+	width: 25%;
+	margin-left: 0%;
+}
+
+div.NewRowClass1 > div:nth-child(3)
+{
+	width: 25%;
+	margin-left: 0%;
+}
+
+div.NewRowClass1 > div:nth-child(4)
+{
+	width: 25%;
+	margin-left: 0%;
+}
+
+/***************** Print Styles   *********************/
+
+@media print
+{
+	MadCap|xref
+	{
+		mc-format: '{paratext}';
+		color: #0079aa;
+		text-decoration: none;
+	}
+
+	MadCap|xref:hover
+	{
+		color: #2d5c77;
+		background-color: #f99d1f;
+		text-decoration: underline;
+	}
+
+	MadCap|xref.ParaTextOnly
+	{
+		mc-format: '{paratext}';
+		color: #0079aa;
+	}
+
+	h1
+	{
+		/*	 page-break-before: always;  */
+	}
+
+	h2,
+	h3
+	{
+		page-break-after: avoid;
+	}
+
+	h4
+	{
+		font-size: 14px;
+	}
+
+	h5
+	{
+		font-size: 13px;
+	}
+
+	h6
+	{
+		font-size: 12px;
+	}
+
+	h7
+	{
+		font-size: 12px;
+		color: #111;
+	}
+
+	h8
+	{
+		font-size: 12px;
+		color: #333;
+	}
+
+	MadCap|xref.ParaTextOnly
+	{
+		text-decoration: underline;
+	}
+
+	MadCap|dropDownHotspot
+	{
+		color: #000000;
+		font-size: 13pt;
+		font-style: normal;
+		font-weight: bold;
+		margin-top: 1.5em;
+	}
+
+	.avoid_pagebreak
+	{
+		page-break-after: avoid;
+	}
+
+	.pagebreak
+	{
+		page-break-after: always;
+	}
+
+	img
+	{
+		page-break-before: avoid;
+		max-height: auto;
+		max-width: 6.5in;
+	}
+
+	ol ul,
+	ol,
+	ul
+	{
+		page-break-before: avoid;
+	}
+
+	li
+	{
+		orphans: 3;
+		widows: 3;
+		page-break-inside: avoid;
+	}
+
+	ol p img
+	{
+		page-break-before: avoid;
+	}
+
+	ul p img
+	{
+		page-break-before: avoid;
+	}
+
+	img.ignore
+	{
+		max-width: auto;
+	}
+
+	table
+	{
+		width: auto;
+	}
+
+	MadCap|tocProxy
+	{
+		border-top-width: 0px;
+		border-top-color: #000000;
+	}
+
+	MadCap|variable.TOCheader
+	{
+		color: #005496;
+		display: block;
+		font-size: 24pt;
+	}
+
+	p.TOC1
+	{
+		mc-leader-format: 'dot';
+	}
+
+	p.TOC2
+	{
+		mc-leader-format: 'dot';
+	}
+
+	p.TOC4
+	{
+		mc-leader-format: 'dot';
+	}
+
+	nav.tab-bar,
+	div.sideContent,
+	.noprint
+	{
+		display: none;
+	}
+
+	/*
+	.changebar
+	{
+		border-style: solid;
+		border-right: 25px #bd0026;
+		background-color: #fed98e;
+	} */
+
+	div.first_table
+	{
+		float: none;
+		display: inline-block;
+		width: 100%;
+	}
+
+	MadCap|dropDownHead
+	{
+		font-weight: bold;
+		font-style: normal;
+	}
+}
+
+span.ButtonMenuNote	/*UI Elements*/
+{
+	font-style: normal;
+	font-weight: bold;
+}
+
+/* Hidden keyword style for better search results. Preferably, use this style in an H1 - H3 tag */
+
+.keyword
+{
+	display: none;
+}
+
+MadCap|xref.emailscoutreport
+{
+	mc-format: '{color #0079C1}Email Scout Report{/color}';
+}
+
+@media tablet
+{
+	div.NewRowClass1 > div:nth-child(1)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(2)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(3)
+	{
+		width: 8.3333%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(4)
+	{
+		width: 8.3333%;
+		margin-left: 0%;
+	}
+}
+
+@media mobile
+{
+	div.NewRowClass1 > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(3)
+	{
+		width: 8.3333%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(4)
+	{
+		width: 8.3333%;
+		margin-left: 0%;
+	}
+}
+
+MadCap|xref.sys-gen-manage-cert
+{
+	mc-format: '{color #0079C1}Branding Management - System Generation and Management of TLS Certificate{/color}';
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="" MadCap:lastBlockDepth="17" MadCap:lastHeight="1095" MadCap:lastWidth="509" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Enhance the Agent's Security</h1>
+        <p>To increase the global security of the <MadCap:variable name="General.CompanyName" /> infrastructure, create a Master Password on every computer where the Agent is installed. This feature diminishes security breaches related to misconfiguration or the leak of <MadCap:variable name="General.CompanyName" /> credentials. A master password is recommended for machines that perform key roles for their respective networks (e.g. domain controllers, database servers, web or mail servers). </p>
+        <p>Use this feature in conjunction with locking Windows at the end of each support session, and also with the option to Require local user authorization when starting a session, which requires the explicit permission of the local user before starting any session.</p>
+        <h3>Add a master password to the <MadCap:variable name="General.CompanyName" /> Agent</h3>
+        <p>Each master password must be set individually for each machine.</p>
+        <p class="nugget">Although focused on the Windows version, the following steps can also be used for Mac OSX.</p>
+        <ol data-mc-continue="true">
+            <li value="1">Open the <MadCap:variable name="General.CompanyName" /> Agent configuration window on the remote machine by right clicking on the corresponding icon on the system tray and selecting <b>Restore</b> from the context menu.</li>
+            <li value="2">
+                <p>If the Agent is not running with Administrator permissions (Windows Vista, Windows 7…), click the padlock in the upper-right corner of the window to enable the management of the Agent. This opens a dialogue box warning the user that the configuration program needs to be restarted with elevated privileges. Click <b>Yes</b> to restart.<br /></p>
+            </li>
+            <li value="4">After restarting, navigate to <b>Security</b>, and in the new window select the correct authentication type for that specific computer. <br /><ol data-mc-continue="true"><li value="1"><p><b>None</b> – disables authentication and by default the machine is accessible by all the technicians that have permission to access unattended computers. <MadCap:variable name="General.CompanyName" /> locks Windows at the end of each session to provide an additional layer of security.</p></li><li value="2"><p><MadCap:variable name="General.CompanyName" style="font-weight: bold;" /><b> Password</b> – choose a password with at least 8 characters, including letters, numbers and symbols.</p></li><li value="3"><p><b>Windows Account</b> – uses Windows authentication, and allows the session to be authorized using a valid local or domain-based Windows account. For security reasons, only accounts that already have a profile created on the local machine are authenticated. </p></li><li value="4"><p><b>Allow restricted accounts to login to this server</b> – allows only local or domain administrators to log in to the computer.</p></li></ol></li>
+            <li value="5">
+                <p>Select <b>Require local user authentication on starting a session</b>, and click <b>Apply</b>. </p>
+                <p class="warning">Requiring local authorization disables the possibility of unattended setup. Please use this feature carefully as you may lose access to a computer. </p>
+            </li>
+            <li value="6">Before exiting the Agent, click on the padlock icon again (which should be open) in order to lower its privileges.</li>
+        </ol>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li value="1"><a href="Unattended-support.htm" class="MCXref xref" xrefformat="{paratext}">Start an unattended support session</a>
+            </li>
+            <li value="2"><a href="Provide-assistance-to-customers.htm" class="MCXref xref" xrefformat="{paratext}">Provide assistance to your customers</a>
+            </li>
+        </ul>
+    </body>
+</html>

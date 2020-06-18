@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Provide Assistance to Your Customers|Configure Port Forwarding" MadCap:lastBlockDepth="17" MadCap:lastHeight="618" MadCap:lastWidth="638" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Configure port forwarding on the Agent (windows only)</h1>
+        <ol>
+            <li value="1">Open the <MadCap:variable name="General.CompanyName" /> Agent configuration window on the remote machine. </li>
+            <li value="2">Right click on the corresponding icon in the system tray and select Restore from the context menu.</li>
+            <li value="3">Click Manage if the local remote user is not running with Administrator permissions. A dialog box opens, warning the user that the configuration program needs to be restarted with elevated privileges. </li>
+            <li value="4">Click Yes and a Windows UAC prompt is shown. If the process is completed correctly, the program restarts.</li>
+            <li value="5">Click Settings. </li>
+            <li value="6">Select Enable TCP port forwarding. </li>
+            <li value="7">To enable automatic port forwarding of the Windows Remote Desktop Protocol to that same machine, select Enable RDP Tunneling. This option only affects the usability of the Use RDP button in the console, which automatically launches the Windows RDP customer pointed to the remote machine in session. You can establish an RDP tunnel to that machine or to any other computer in the network by manually setting up the relevant ports.</li>
+        </ol>
+        <p class="info">The option to Use TCP Port For Incoming Connections allows the use of a specific port to enable the TCP native peer-to-peer mode. This can provide FTP transfers up to 20 times faster, and also ensures more reliable connections in some problematic WAN scenarios. In order to use the TCP P2P feature in sessions outside the LAN, configure port forwarding from the network gateway to each Agent using this mode.</p>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li value="1"><a href="Provide-assistance-to-customers.htm" class="MCXref xref" xrefformat="{paratext}">Provide assistance to your customers</a>
+            </li>
+            <li value="2"><a href="Configure-port-forwarding-on-the-Console.htm" class="MCXref xref" xrefformat="{paratext}">Configure port forwarding on the Console</a>
+            </li>
+            <li value="3"><a href="Configure-FTP-connections.htm" class="MCXref xref" xrefformat="{paratext}">Configure an FTP connection</a>
+            </li>
+        </ul>
+        <p>
+            <!-- Google Analytics -->
+        </p>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="TakeControl"
+  ProjectFolder="C:\doc\TakeControl2\TakeControl\"
+  AutoSync="false"
+  SourceFolders="file:///C:/doc/TakeControl/Content/B_Links and Lists"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-11-14T12:54:36.5799594-06:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../TakeControl/Content/B_Links and Lists"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/B_Links and Lists" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/B_Links and Lists/Links.htm"
+      TimeStamp="11/14/2018 12:54:30 PM" />
+    <Url
+      Source="../../Content/B_Links and Lists/LinksAndLists.htm"
+      TimeStamp="11/14/2018 12:54:30 PM" />
+    <Url
+      Source="../../Content/B_Links and Lists/Lists.htm"
+      TimeStamp="11/14/2018 12:54:31 PM" />
+    <Url
+      Source="../TOCs/B_Links and Lists.fltoc"
+      TimeStamp="11/14/2018 12:54:36 PM" />
+  </GeneratedFiles>
+</HtmlImport>

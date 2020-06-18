@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Configure the Session History API</h1>
+        <p>The Session History API returns post-session data and details about a session or set of sessions according to the configured filtering options.</p>
+        <h3>URL for Session History API</h3>
+        <ul>
+            <li><a href="https://api.swi-rc.com/integration/get_history_api.php">https://api.swi-rc.com/integration/get_history_api.php</a>
+            </li>
+        </ul>
+        <h3>Input Parameters</h3>
+        <table style="margin-left: 0;margin-right: auto;width: 800px;">
+            <col style="width: 508px;" />
+            <col style="width: 230px;" />
+            <col style="width: 193px;" />
+            <col style="width: 1089px;" />
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;text-align: center;">Element</td>
+                    <td style="font-weight: bold;text-align: center;">Format</td>
+                    <td style="font-weight: bold;text-align: center;">Mandatory</td>
+                    <td style="font-weight: bold;text-align: center;">Description</td>
+                </tr>
+                <tr>
+                    <td>KEY</td>
+                    <td>Varchar(64)</td>
+                    <td>Yes</td>
+                    <td>Your API key</td>
+                </tr>
+                <tr>
+                    <td>VARS</td>
+                    <td>Varchar(512)</td>
+                    <td>Yes</td>
+                    <td>Variable specification. Check description below</td>
+                </tr>
+                <tr>
+                    <td>(FILTERS)</td>
+                    <td>---</td>
+                    <td>No</td>
+                    <td>
+                        <p>Filtering options. Check description below</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Vars</h3>
+        <p>This variable specifies the information that is returned by the function. Each parameter is separated by a space.</p>
+        <table style="margin-left: 0;margin-right: auto;width: 800px;">
+            <col style="width: 514px;" />
+            <col style="width: 392px;" />
+            <col style="width: 1094px;" />
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;text-align: center;">Element</td>
+                    <td style="font-weight: bold;text-align: center;">Format</td>
+                    <td style="font-weight: bold;text-align: center;">Description</td>
+                </tr>
+                <tr>
+                    <td>COMPUTER_NAME</td>
+                    <td>Varchar(50)</td>
+                    <td>Customer's computer name</td>
+                </tr>
+                <tr>
+                    <td>COMPUTER_DOMAIN</td>
+                    <td>Varchar(100)</td>
+                    <td>The domain of the customer's computer</td>
+                </tr>
+                <tr>
+                    <td>COMPUTER_OS</td>
+                    <td>Varchar(64)</td>
+                    <td>Computer's operating system</td>
+                </tr>
+                <tr>
+                    <td>TECH_USERNAME</td>
+                    <td>Varchar(100)</td>
+                    <td>Technician's username (email address)</td>
+                </tr>
+                <tr>
+                    <td>TECH_NAME</td>
+                    <td>Varchar(100)</td>
+                    <td>Technicians name</td>
+                </tr>
+                <tr>
+                    <td>CUSTOMER_NAME</td>
+                    <td>Varchar(200)</td>
+                    <td>Customer's name</td>
+                </tr>
+                <tr>
+                    <td>CUSTOMER_EMAIL</td>
+                    <td>Varchar(100)</td>
+                    <td>Customer's email address</td>
+                </tr>
+                <tr>
+                    <td>CUSTOMER_NUMBER</td>
+                    <td>Varchar(50)</td>
+                    <td>Customer's identification number in your company</td>
+                </tr>
+                <tr>
+                    <td>PROBLEM_DESCRIPTION</td>
+                    <td>Varchar(4000)</td>
+                    <td>Description of the problem</td>
+                </tr>
+                <tr>
+                    <td>NOTES</td>
+                    <td>Varchar(4000)</td>
+                    <td>Technician's description of the issue</td>
+                </tr>
+                <tr>
+                    <td>HAS_VIDEOS</td>
+                    <td>BOOLEAN(TRUE,FALSE)</td>
+                    <td>Returns TRUE if there are recorded videos</td>
+                </tr>
+                <tr>
+                    <td>DATE_START</td>
+                    <td>
+                        <p>YYYY-MM-DD</p>
+                        <p>HH:MM:SS</p>
+                    </td>
+                    <td>Session's starting time</td>
+                </tr>
+                <tr>
+                    <td>DATE_END</td>
+                    <td>
+                        <p>YYYY-MM-DD</p>
+                        <p>HH:MM:SS</p>
+                    </td>
+                    <td>Session's ending time</td>
+                </tr>
+                <tr>
+                    <td>CHAT_INFO</td>
+                    <td>XML</td>
+                    <td>XML data structure containing the chat transcript </td>
+                </tr>
+                <tr>
+                    <td>VIDEO_LINKS</td>
+                    <td>XML</td>
+                    <td>XML data structure containing video URLs</td>
+                </tr>
+                <tr>
+                    <td>OUTPUT_FORMAT</td>
+                    <td>XML OR JSON</td>
+                    <td>XML OR JSON</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Filters</h3>
+        <p>This function supports a number of filters that allows the selection of a subset if sessions. </p>
+        <table style="margin-left: 0;margin-right: auto;width: 800px;">
+            <col style="width: 546px;" />
+            <col style="width: 362px;" />
+            <col style="width: 1067px;" />
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;text-align: center;">Element</td>
+                    <td style="font-weight: bold;text-align: center;">Format</td>
+                    <td style="font-weight: bold;text-align: center;">Description</td>
+                </tr>
+                <tr>
+                    <td>FILTER_ID</td>
+                    <td>INT</td>
+                    <td>Filter results from a specific session ID</td>
+                </tr>
+                <tr>
+                    <td>FILTER_DATE_START_INI</td>
+                    <td>
+                        <p>YYYY-MM-DD</p>
+                        <p>HH:MM:SS</p>
+                    </td>
+                    <td>Session’s starting time must be higher than this value</td>
+                </tr>
+                <tr>
+                    <td>FILTER_DATE_START_END</td>
+                    <td>
+                        <p>YYYY-MM-DD</p>
+                        <p>HH:MM:SS</p>
+                    </td>
+                    <td>Session’s starting time must be lower than this value</td>
+                </tr>
+                <tr>
+                    <td>FILTER_CUSTOMER_NAME</td>
+                    <td>Varchar(100)</td>
+                    <td>Customer's name</td>
+                </tr>
+                <tr>
+                    <td>FILTER_CUSTOMER_EMAIL</td>
+                    <td>Varchar(100)</td>
+                    <td>Customer's email address</td>
+                </tr>
+                <tr>
+                    <td>FILTER_CUSTOMER_NUMBER</td>
+                    <td>Varchar(50)</td>
+                    <td>Customer's identification number in your company</td>
+                </tr>
+                <tr>
+                    <td>FILTER_COMPUTER_NAME</td>
+                    <td>Varchar(100)</td>
+                    <td>Customer's computer name</td>
+                </tr>
+                <tr>
+                    <td>FILTER_COMPUTER_DOMAIN</td>
+                    <td>Varchar(100)</td>
+                    <td>Customer's computer domain</td>
+                </tr>
+                <tr>
+                    <td>FILTER_TECH_USERNAME</td>
+                    <td>Varchar(100)</td>
+                    <td>Technician's username</td>
+                </tr>
+                <tr>
+                    <td>FILTER_START_METHOD</td>
+                    <td>ALL, APPLET, AGENT</td>
+                    <td>Session started from Agent software running on customer’s PC or otherwise (e.g. session started from a pin number)</td>
+                </tr>
+                <tr>
+                    <td>FILTER_PROCESSED</td>
+                    <td>ALL, ANSWERED, NOT_ANSWERED</td>
+                    <td>Session was answered by a technician or not</td>
+                </tr>
+                <tr>
+                    <td>FILTER_HAS_VIDEOS</td>
+                    <td>BOOLEAN (TRUE, FALSE)</td>
+                    <td>
+                        <p>TRUE = Only requests WITH video recordings </p>
+                        <p>FALSE = Only requests WITHOUT video recordings
+</p>
+                        <p>Empty value = All requests
+</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Output</h3>
+        <p>The function returns the following XML structure:</p>
+        <p>
+            <img src="Resources/Images/MSPanywhere/SessionHistoryAPI.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;" />
+        </p>
+        <p>&#160;</p>
+        <h3>Error handling</h3>
+        <p>The error messages are returned by the function within the XML structure in the following format:</p>
+        <p class="TermDefinition">&lt;response&gt;&lt;error_msg&gt; Error message.&lt;/error_msg&gt;&lt;/response&gt;</p>
+        <p>These are some other examples:</p><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_HAS_VIDEOS setting.&lt;/error_msg&gt;&lt;/response&gt;</pre><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_START_METHOD setting.&lt;/error_msg&gt;&lt;/response&gt;</pre><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_START_METHOD setting.&lt;/error_msg&gt;&lt;/response&gt;</pre><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_DATE_START_INI value.&lt;/error_msg&gt;&lt;/response&gt;</pre><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_DATE_START_END value.&lt;/error_msg&gt;&lt;/response&gt;</pre>
+        <h3>Examples</h3>
+        <p>This example returns the fields selected in VARS from all the ANSWERED sessions created after 2011-01-01 UTC:</p><pre>get_session_history.php?KEY=xxxxx&amp;VARS=ID CUSTOMER_NUMBER DATE_START DATE_END <br />TECH_USERNAME&amp;FILTER_DATE_START_INI=2011-01-01&amp;FILTER_PROCESSED=ANSWERED</pre>
+        <p>This example returns the fields selected in VARS from all the ANSWERED by tech mytech@techplace.com requests created after 2011-01-01 UTC:</p><pre>get_session_history.php?KEY=xxxxx&amp;VARS=ID CUSTOMER_NUMBER <br />DATE_START&amp;FILTER_DATE_START_INI=2011-01-01&amp; <br />FILTER_PROCESSED=ANSWERED&amp;FILTER_TECH_USERNAME=mytech@techplace.com</pre>
+        <p>This example returns the fields selected in VARS from request ID 12334:</p><pre>get_session_history.php?KEY=xxxxx&amp;VARS=CUSTOMER_NAME CUSTOMER_NUMBER<br />COMPUTER_NAME COMPUTER_DOMAIN PROBLEM_DESCRIPTION TECH_USERNAME DATE_START<br />DATE_END HAS_VIDEOS COMPUTER_OS NOTES&amp;FILTER_ID=12334</pre>
+        <p>&#160;</p>
+        <p>&#160;</p>
+    </body>
+</html>

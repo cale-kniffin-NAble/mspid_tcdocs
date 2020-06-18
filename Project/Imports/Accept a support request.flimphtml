@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="TakeControl"
+  ProjectFolder="C:\doc\TakeControl2\TakeControl\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-11-14T12:47:28.6599483-06:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../TakeControl/Content/Accept a support request.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Accept a support request.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access log files.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access log files.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access My Computers.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access My Computers.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access the Advanced menu.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access the Advanced menu.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access the Commands menu.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access the Commands menu.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access the Computer menu.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access the Computer menu.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access the end user area.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access the end user area.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access the Interactions menu.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access the Interactions menu.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access the Monitors menu.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access the Monitors menu.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access the Session menu.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access the Session menu.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access the Take Control console during a support session.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access the Take Control console during a support session.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Access View menu.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Access View menu.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Add a device to My Computers during a support session.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Add a device to My Computers during a support session.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Add a new script to the repository.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Add a new script to the repository.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Admin area homepage.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Admin area homepage.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Administrative Area.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Administrative Area.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Alerts and Monitoring.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Alerts and Monitoring.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Auditing Devices.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Auditing Devices.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Billing info.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Billing info.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Call Customers.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Call Customers.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Call Other Technicians.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Call Other Technicians.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Calling Cards.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Calling Cards.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Chat with colleagues.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Chat with colleagues.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Chat with customers and colleagues.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Chat with customers and colleagues.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Chat with customers during a remote session.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Chat with customers during a remote session.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Chat with potential customers before starting a remote session.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Chat with potential customers before starting a remote session.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure an FTP connection.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure an FTP connection.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure Calling Cards from the Admin Area.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure Calling Cards from the Admin Area.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure integration options for your account.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure integration options for your account.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure port forwarding on the Agent.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure port forwarding on the Agent.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure port forwarding on the Console.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure port forwarding on the Console.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure the Agent.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure the Agent.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure the Deferred Support request API.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure the Deferred Support request API.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure the deferred support request form.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure the deferred support request form.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure the New Session API.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure the New Session API.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure the Take Control Agent or Applet.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure the Take Control Agent or Applet.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure the ticket creation form.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure the ticket creation form.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure the Validation API.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure the Validation API.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure your APIs.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure your APIs.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure your basic account information.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure your basic account information.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Configure your Profile.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Configure your Profile.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create a batch of calling cards from the Admin area.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create a batch of calling cards from the Admin area.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create a new script deployment job.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create a new script deployment job.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create a single Calling Card from the console.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create a single Calling Card from the console.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create a survey report.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create a survey report.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create an End User.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create an End User.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create and deploy Scripts.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create and deploy Scripts.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create and manage calling cards.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create and manage calling cards.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create calling cards.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create calling cards.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create custom warning messages.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create custom warning messages.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create Email templates.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create Email templates.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create Mobile configuration files.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create Mobile configuration files.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Create surveys.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Create surveys.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Enable and revoke two factor authentication.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Enable and revoke two factor authentication.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/End-User Accounts.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/End-User Accounts.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Enhancing the Agents Security.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Enhancing the Agents Security.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Execute scripts.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Execute scripts.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Generate a deferred support report.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Generate a deferred support report.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Generate a missed session report.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Generate a missed session report.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Generate a PIN code.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Generate a PIN code.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Generate a session history report.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Generate a session history report.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Generate a sessions report.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Generate a sessions report.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Generate a tech performance report.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Generate a tech performance report.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Generate an Audit Report.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Generate an Audit Report.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Generate reports.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Generate reports.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Generate unattended support link from the console's homepage.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Generate unattended support link from the console's homepage.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Getting started with Take Control.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Getting started with Take Control.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Getting Started.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Getting Started.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Home.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Home.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/How to use remote desktop.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/How to use remote desktop.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/How to use the System Shell.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/How to use the System Shell.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Install the Linux Agent.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Install the Linux Agent.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Install the Take Control Proxy.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Install the Take Control Proxy.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Learn about Take Control components.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Learn about Take Control components.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Login and Start.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Login and Start.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Make VoIP calls to customers or colleagues.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Make VoIP calls to customers or colleagues.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Manage a group of Calling Cards.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Manage a group of Calling Cards.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Manage Devices.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Manage Devices.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Manage one or more Calling Cards.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Manage one or more Calling Cards.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Manage your account.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Manage your account.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Manage your technicians and departments.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Manage your technicians and departments.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Manage your technicians.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Manage your technicians.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/MSP Anywhere inSight Lite Edition.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/MSP Anywhere inSight Lite Edition.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/MSPA Quick Start Guide.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/MSPA Quick Start Guide.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/New Quick Start Guide.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/New Quick Start Guide.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Password secrets vault.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Password secrets vault.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Providing Assistance to Your Clients.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Providing Assistance to Your Clients.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Quick Start Guide.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Quick Start Guide.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Registry Editor.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Registry Editor.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Reject a support request.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Reject a support request.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Release Notes.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Release Notes.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Search.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Search.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Select an option from the console header.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Select an option from the console header.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Send a support link.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Send a support link.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Set up departments.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Set up departments.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Set up Port Fowarding.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Set up Port Fowarding.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Set up the Agent.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Set up the Agent.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Set up the Applet.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Set up the Applet.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Sharing and Transferring Sessions.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Sharing and Transferring Sessions.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Start a support session.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Start a support session.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Support Sessions.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Support Sessions.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/System requirements.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/System requirements.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Take Control for Mojave.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Take Control for Mojave.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Transfer a session before creating a new PIN code.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Transfer a session before creating a new PIN code.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Transfer a support request.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Transfer a support request.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Transfer before accepting a new support request.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Transfer before accepting a new support request.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Transfer files during a support session.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Transfer files during a support session.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Transfer or share a support session with another technician.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Transfer or share a support session with another technician.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Unattended Support.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Unattended Support.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Use the Panic button.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Use the Panic button.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Using Take Control Proxy.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Using Take Control Proxy.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/View a customers system info.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/View a customers system info.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/View pending requests.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/View pending requests.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/View running sessions.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/View running sessions.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/View script jobs history.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/View script jobs history.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/View the computer menu.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/View the computer menu.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Wake a remote computer.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Wake a remote computer.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Wake on LAN prerequisites.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Wake on LAN prerequisites.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Wake-on-LAN.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Wake-on-LAN.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/What is the status bar.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/What is the status bar.htm" />
+    <Url
+      Source="../../../../TakeControl/Content/Windows Viewer shortcuts.htm"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/Windows Viewer shortcuts.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Accept a support request.htm"
+      TimeStamp="11/14/2018 12:46:21 PM" />
+    <Url
+      Source="../../Content/Access log files.htm"
+      TimeStamp="11/14/2018 12:46:22 PM" />
+    <Url
+      Source="../../Content/Access My Computers.htm"
+      TimeStamp="11/14/2018 12:46:22 PM" />
+    <Url
+      Source="../../Content/Access the Advanced menu.htm"
+      TimeStamp="11/14/2018 12:46:22 PM" />
+    <Url
+      Source="../../Content/Access the Commands menu.htm"
+      TimeStamp="11/14/2018 12:46:23 PM" />
+    <Url
+      Source="../../Content/Access the Computer menu.htm"
+      TimeStamp="11/14/2018 12:46:23 PM" />
+    <Url
+      Source="../../Content/Access the end user area.htm"
+      TimeStamp="11/14/2018 12:46:23 PM" />
+    <Url
+      Source="../../Content/Access the Interactions menu.htm"
+      TimeStamp="11/14/2018 12:46:24 PM" />
+    <Url
+      Source="../../Content/Access the Monitors menu.htm"
+      TimeStamp="11/14/2018 12:46:24 PM" />
+    <Url
+      Source="../../Content/Access the Session menu.htm"
+      TimeStamp="11/14/2018 12:46:25 PM" />
+    <Url
+      Source="../../Content/Access the Take Control console during a support session.htm"
+      TimeStamp="11/14/2018 12:46:25 PM" />
+    <Url
+      Source="../../Content/Access View menu.htm"
+      TimeStamp="11/14/2018 12:46:25 PM" />
+    <Url
+      Source="../../Content/Add a device to My Computers during a support session.htm"
+      TimeStamp="11/14/2018 12:46:26 PM" />
+    <Url
+      Source="../../Content/Add a new script to the repository.htm"
+      TimeStamp="11/14/2018 12:46:26 PM" />
+    <Url
+      Source="../../Content/Admin area homepage.htm"
+      TimeStamp="11/14/2018 12:46:26 PM" />
+    <Url
+      Source="../../Content/Administrative Area.htm"
+      TimeStamp="11/14/2018 12:46:27 PM" />
+    <Url
+      Source="../../Content/Alerts and Monitoring.htm"
+      TimeStamp="11/14/2018 12:46:27 PM" />
+    <Url
+      Source="../../Content/Auditing Devices.htm"
+      TimeStamp="11/14/2018 12:46:28 PM" />
+    <Url
+      Source="../../Content/Billing info.htm"
+      TimeStamp="11/14/2018 12:46:28 PM" />
+    <Url
+      Source="../../Content/Call Customers.htm"
+      TimeStamp="11/14/2018 12:46:28 PM" />
+    <Url
+      Source="../../Content/Call Other Technicians.htm"
+      TimeStamp="11/14/2018 12:46:29 PM" />
+    <Url
+      Source="../../Content/Calling Cards.htm"
+      TimeStamp="11/14/2018 12:46:29 PM" />
+    <Url
+      Source="../../Content/Chat with colleagues.htm"
+      TimeStamp="11/14/2018 12:46:29 PM" />
+    <Url
+      Source="../../Content/Chat with customers and colleagues.htm"
+      TimeStamp="11/14/2018 12:46:30 PM" />
+    <Url
+      Source="../../Content/Chat with customers during a remote session.htm"
+      TimeStamp="11/14/2018 12:46:30 PM" />
+    <Url
+      Source="../../Content/Chat with potential customers before starting a remote session.htm"
+      TimeStamp="11/14/2018 12:46:31 PM" />
+    <Url
+      Source="../../Content/Configure an FTP connection.htm"
+      TimeStamp="11/14/2018 12:46:31 PM" />
+    <Url
+      Source="../../Content/Configure Calling Cards from the Admin Area.htm"
+      TimeStamp="11/14/2018 12:46:31 PM" />
+    <Url
+      Source="../../Content/Configure integration options for your account.htm"
+      TimeStamp="11/14/2018 12:46:32 PM" />
+    <Url
+      Source="../../Content/Configure port forwarding on the Agent.htm"
+      TimeStamp="11/14/2018 12:46:32 PM" />
+    <Url
+      Source="../../Content/Configure port forwarding on the Console.htm"
+      TimeStamp="11/14/2018 12:46:33 PM" />
+    <Url
+      Source="../../Content/Configure the Agent.htm"
+      TimeStamp="11/14/2018 12:46:33 PM" />
+    <Url
+      Source="../../Content/Configure the Deferred Support request API.htm"
+      TimeStamp="11/14/2018 12:46:33 PM" />
+    <Url
+      Source="../../Content/Configure the deferred support request form.htm"
+      TimeStamp="11/14/2018 12:46:34 PM" />
+    <Url
+      Source="../../Content/Configure the New Session API.htm"
+      TimeStamp="11/14/2018 12:46:34 PM" />
+    <Url
+      Source="../../Content/Configure the Take Control Agent or Applet.htm"
+      TimeStamp="11/14/2018 12:46:35 PM" />
+    <Url
+      Source="../../Content/Configure the ticket creation form.htm"
+      TimeStamp="11/14/2018 12:46:35 PM" />
+    <Url
+      Source="../../Content/Configure the Validation API.htm"
+      TimeStamp="11/14/2018 12:46:36 PM" />
+    <Url
+      Source="../../Content/Configure your APIs.htm"
+      TimeStamp="11/14/2018 12:46:36 PM" />
+    <Url
+      Source="../../Content/Configure your basic account information.htm"
+      TimeStamp="11/14/2018 12:46:37 PM" />
+    <Url
+      Source="../../Content/Configure your Profile.htm"
+      TimeStamp="11/14/2018 12:46:37 PM" />
+    <Url
+      Source="../../Content/Create a batch of calling cards from the Admin area.htm"
+      TimeStamp="11/14/2018 12:46:37 PM" />
+    <Url
+      Source="../../Content/Create a new script deployment job.htm"
+      TimeStamp="11/14/2018 12:46:38 PM" />
+    <Url
+      Source="../../Content/Create a single Calling Card from the console.htm"
+      TimeStamp="11/14/2018 12:46:38 PM" />
+    <Url
+      Source="../../Content/Create a survey report.htm"
+      TimeStamp="11/14/2018 12:46:38 PM" />
+    <Url
+      Source="../../Content/Create an End User.htm"
+      TimeStamp="11/14/2018 12:46:39 PM" />
+    <Url
+      Source="../../Content/Create and deploy Scripts.htm"
+      TimeStamp="11/14/2018 12:46:39 PM" />
+    <Url
+      Source="../../Content/Create and manage calling cards.htm"
+      TimeStamp="11/14/2018 12:46:40 PM" />
+    <Url
+      Source="../../Content/Create calling cards.htm"
+      TimeStamp="11/14/2018 12:46:40 PM" />
+    <Url
+      Source="../../Content/Create custom warning messages.htm"
+      TimeStamp="11/14/2018 12:46:40 PM" />
+    <Url
+      Source="../../Content/Create Email templates.htm"
+      TimeStamp="11/14/2018 12:46:41 PM" />
+    <Url
+      Source="../../Content/Create Mobile configuration files.htm"
+      TimeStamp="11/14/2018 12:46:41 PM" />
+    <Url
+      Source="../../Content/Create surveys.htm"
+      TimeStamp="11/14/2018 12:46:41 PM" />
+    <Url
+      Source="../../Content/Enable and revoke two factor authentication.htm"
+      TimeStamp="11/14/2018 12:46:42 PM" />
+    <Url
+      Source="../../Content/End-User Accounts.htm"
+      TimeStamp="11/14/2018 12:46:42 PM" />
+    <Url
+      Source="../../Content/Enhancing the Agents Security.htm"
+      TimeStamp="11/14/2018 12:46:43 PM" />
+    <Url
+      Source="../../Content/Execute scripts.htm"
+      TimeStamp="11/14/2018 12:46:43 PM" />
+    <Url
+      Source="../../Content/Generate a deferred support report.htm"
+      TimeStamp="11/14/2018 12:46:43 PM" />
+    <Url
+      Source="../../Content/Generate a missed session report.htm"
+      TimeStamp="11/14/2018 12:46:44 PM" />
+    <Url
+      Source="../../Content/Generate a PIN code.htm"
+      TimeStamp="11/14/2018 12:46:44 PM" />
+    <Url
+      Source="../../Content/Generate a session history report.htm"
+      TimeStamp="11/14/2018 12:46:44 PM" />
+    <Url
+      Source="../../Content/Generate a sessions report.htm"
+      TimeStamp="11/14/2018 12:46:45 PM" />
+    <Url
+      Source="../../Content/Generate a tech performance report.htm"
+      TimeStamp="11/14/2018 12:46:45 PM" />
+    <Url
+      Source="../../Content/Generate an Audit Report.htm"
+      TimeStamp="11/14/2018 12:46:46 PM" />
+    <Url
+      Source="../../Content/Generate reports.htm"
+      TimeStamp="11/14/2018 12:46:46 PM" />
+    <Url
+      Source="../../Content/Generate unattended support link from the console's homepage.htm"
+      TimeStamp="11/14/2018 12:46:46 PM" />
+    <Url
+      Source="../../Content/Getting started with Take Control.htm"
+      TimeStamp="11/14/2018 12:46:47 PM" />
+    <Url
+      Source="../../Content/Getting Started.htm"
+      TimeStamp="11/14/2018 12:46:47 PM" />
+    <Url
+      Source="../../Content/Home.htm"
+      TimeStamp="11/14/2018 12:46:48 PM" />
+    <Url
+      Source="../../Content/How to use remote desktop.htm"
+      TimeStamp="11/14/2018 12:46:48 PM" />
+    <Url
+      Source="../../Content/How to use the System Shell.htm"
+      TimeStamp="11/14/2018 12:46:48 PM" />
+    <Url
+      Source="../../Content/Install the Linux Agent.htm"
+      TimeStamp="11/14/2018 12:46:49 PM" />
+    <Url
+      Source="../../Content/Install the Take Control Proxy.htm"
+      TimeStamp="11/14/2018 12:46:49 PM" />
+    <Url
+      Source="../../Content/Learn about Take Control components.htm"
+      TimeStamp="11/14/2018 12:46:50 PM" />
+    <Url
+      Source="../../Content/Login and Start.htm"
+      TimeStamp="11/14/2018 12:46:50 PM" />
+    <Url
+      Source="../../Content/Make VoIP calls to customers or colleagues.htm"
+      TimeStamp="11/14/2018 12:46:51 PM" />
+    <Url
+      Source="../../Content/Manage a group of Calling Cards.htm"
+      TimeStamp="11/14/2018 12:46:51 PM" />
+    <Url
+      Source="../../Content/Manage Devices.htm"
+      TimeStamp="11/14/2018 12:46:51 PM" />
+    <Url
+      Source="../../Content/Manage one or more Calling Cards.htm"
+      TimeStamp="11/14/2018 12:46:52 PM" />
+    <Url
+      Source="../../Content/Manage your account.htm"
+      TimeStamp="11/14/2018 12:46:52 PM" />
+    <Url
+      Source="../../Content/Manage your technicians and departments.htm"
+      TimeStamp="11/14/2018 12:46:53 PM" />
+    <Url
+      Source="../../Content/Manage your technicians.htm"
+      TimeStamp="11/14/2018 12:46:53 PM" />
+    <Url
+      Source="../../Content/MSP Anywhere inSight Lite Edition.htm"
+      TimeStamp="11/14/2018 12:46:53 PM" />
+    <Url
+      Source="../../Content/MSPA Quick Start Guide.htm"
+      TimeStamp="11/14/2018 12:46:54 PM" />
+    <Url
+      Source="../../Content/New Quick Start Guide.htm"
+      TimeStamp="11/14/2018 12:46:54 PM" />
+    <Url
+      Source="../../Content/Password secrets vault.htm"
+      TimeStamp="11/14/2018 12:46:55 PM" />
+    <Url
+      Source="../../Content/Providing Assistance to Your Clients.htm"
+      TimeStamp="11/14/2018 12:46:55 PM" />
+    <Url
+      Source="../../Content/Quick Start Guide.htm"
+      TimeStamp="11/14/2018 12:46:56 PM" />
+    <Url
+      Source="../../Content/Registry Editor.htm"
+      TimeStamp="11/14/2018 12:46:56 PM" />
+    <Url
+      Source="../../Content/Reject a support request.htm"
+      TimeStamp="11/14/2018 12:46:56 PM" />
+    <Url
+      Source="../../Content/Release Notes.htm"
+      TimeStamp="11/14/2018 12:46:57 PM" />
+    <Url
+      Source="../../Content/Search.htm"
+      TimeStamp="11/14/2018 12:46:57 PM" />
+    <Url
+      Source="../../Content/Select an option from the console header.htm"
+      TimeStamp="11/14/2018 12:46:58 PM" />
+    <Url
+      Source="../../Content/Send a support link.htm"
+      TimeStamp="11/14/2018 12:46:58 PM" />
+    <Url
+      Source="../../Content/Set up departments.htm"
+      TimeStamp="11/14/2018 12:46:58 PM" />
+    <Url
+      Source="../../Content/Set up Port Fowarding.htm"
+      TimeStamp="11/14/2018 12:46:59 PM" />
+    <Url
+      Source="../../Content/Set up the Agent.htm"
+      TimeStamp="11/14/2018 12:46:59 PM" />
+    <Url
+      Source="../../Content/Set up the Applet.htm"
+      TimeStamp="11/14/2018 12:46:59 PM" />
+    <Url
+      Source="../../Content/Sharing and Transferring Sessions.htm"
+      TimeStamp="11/14/2018 12:47:00 PM" />
+    <Url
+      Source="../../Content/Start a support session.htm"
+      TimeStamp="11/14/2018 12:47:00 PM" />
+    <Url
+      Source="../../Content/Support Sessions.htm"
+      TimeStamp="11/14/2018 12:47:00 PM" />
+    <Url
+      Source="../../Content/System requirements.htm"
+      TimeStamp="11/14/2018 12:47:01 PM" />
+    <Url
+      Source="../../Content/Take Control for Mojave.htm"
+      TimeStamp="11/14/2018 12:47:01 PM" />
+    <Url
+      Source="../../Content/Transfer a session before creating a new PIN code.htm"
+      TimeStamp="11/14/2018 12:47:02 PM" />
+    <Url
+      Source="../../Content/Transfer a support request.htm"
+      TimeStamp="11/14/2018 12:47:02 PM" />
+    <Url
+      Source="../../Content/Transfer before accepting a new support request.htm"
+      TimeStamp="11/14/2018 12:47:02 PM" />
+    <Url
+      Source="../../Content/Transfer files during a support session.htm"
+      TimeStamp="11/14/2018 12:47:03 PM" />
+    <Url
+      Source="../../Content/Transfer or share a support session with another technician.htm"
+      TimeStamp="11/14/2018 12:47:03 PM" />
+    <Url
+      Source="../../Content/Unattended Support.htm"
+      TimeStamp="11/14/2018 12:47:03 PM" />
+    <Url
+      Source="../../Content/Use the Panic button.htm"
+      TimeStamp="11/14/2018 12:47:04 PM" />
+    <Url
+      Source="../../Content/Using Take Control Proxy.htm"
+      TimeStamp="11/14/2018 12:47:04 PM" />
+    <Url
+      Source="../../Content/View a customers system info.htm"
+      TimeStamp="11/14/2018 12:47:05 PM" />
+    <Url
+      Source="../../Content/View pending requests.htm"
+      TimeStamp="11/14/2018 12:47:05 PM" />
+    <Url
+      Source="../../Content/View running sessions.htm"
+      TimeStamp="11/14/2018 12:47:05 PM" />
+    <Url
+      Source="../../Content/View script jobs history.htm"
+      TimeStamp="11/14/2018 12:47:06 PM" />
+    <Url
+      Source="../../Content/View the computer menu.htm"
+      TimeStamp="11/14/2018 12:47:06 PM" />
+    <Url
+      Source="../../Content/Wake a remote computer.htm"
+      TimeStamp="11/14/2018 12:47:06 PM" />
+    <Url
+      Source="../../Content/Wake on LAN prerequisites.htm"
+      TimeStamp="11/14/2018 12:47:07 PM" />
+    <Url
+      Source="../../Content/Wake-on-LAN.htm"
+      TimeStamp="11/14/2018 12:47:07 PM" />
+    <Url
+      Source="../../Content/What is the status bar.htm"
+      TimeStamp="11/14/2018 12:47:08 PM" />
+    <Url
+      Source="../../Content/Windows Viewer shortcuts.htm"
+      TimeStamp="11/14/2018 12:47:08 PM" />
+    <Url
+      Source="../TOCs/Accept a support request.fltoc"
+      TimeStamp="11/14/2018 12:47:26 PM" />
+  </GeneratedFiles>
+</HtmlImport>

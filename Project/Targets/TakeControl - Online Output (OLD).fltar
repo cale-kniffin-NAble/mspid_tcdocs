@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="HTML5 Output"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  InsertMOTW="false"
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"
+  AliasFile="/Project/Advanced/AliasFile.flali"
+  EnableSitemap="false"
+  IncludeStopWords="true"
+  GenerateWebSafeImages="false"
+  WebSafeFileExtension="png"
+  DefaultUrl="/Content/Home.htm"
+  MasterToc="/Project/TOCs/PDF Guides.fltoc"
+  ConditionTagExpression=""
+  PreCompileScaledImages="true"
+  MenuSkin="/Project/Skins/SideMenu.flskn"
+  TopicToolbarSkin="/Project/Skins/TopicToolBar.flskn"
+  SearchBarSkin="/Project/Skins/HomeSearchBar.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/SWI_CustomStyles.css"></CatapultTarget>

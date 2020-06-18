@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="TakeControl"
+  ProjectFolder="C:\doc\TakeControl2\TakeControl\"
+  AutoSync="false"
+  SourceFolders="file:///C:/doc/TakeControl/Content/C_Conditions Notes Tables"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-11-14T12:55:04.7844494-06:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../TakeControl/Content/C_Conditions Notes Tables"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/C_Conditions Notes Tables" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/C_Conditions Notes Tables/Conditions.htm"
+      TimeStamp="11/14/2018 12:54:58 PM" />
+    <Url
+      Source="../../Content/C_Conditions Notes Tables/ConditionsNotesTables.htm"
+      TimeStamp="11/14/2018 12:54:59 PM" />
+    <Url
+      Source="../../Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm"
+      TimeStamp="11/14/2018 12:54:59 PM" />
+    <Url
+      Source="../../Content/C_Conditions Notes Tables/Tables.htm"
+      TimeStamp="11/14/2018 12:55:00 PM" />
+    <Url
+      Source="../TOCs/C_Conditions Notes Tables.fltoc"
+      TimeStamp="11/14/2018 12:55:04 PM" />
+  </GeneratedFiles>
+</HtmlImport>

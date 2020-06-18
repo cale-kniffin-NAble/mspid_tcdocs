@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Images/MSPanywhere/MFA_EndUserMessage.png" />
+    <Url Source="Resources/Images/MSPanywhere/MFA.png" />
+    <Url Source="Resources/Images/MSPanywhere/MFA_for Master-Admin.png" />
+    <Url Source="Resources/Images/MSPanywhere/MFA_for_Techs.png" />
+    <Url Source="Resources/Images/MSPanywhere/MFA_Message.PNG" />
+    <Url Source="Resources/Images/MSPanywhere/2FAQRcode.png" />
+    <Url Source="Resources/Images/MSPanywhere/2FAstep2.png" />
+    <Url Source="Resources/Images/MSPanywhere/2FAEndUsers.png" />
+    <Url Source="Resources/Images/MSPanywhere/2FARecoveryCode.png" />
+    <Url Source="Resources/Images/MSPanywhere/2FAstep1.png" />
+</UrlList>

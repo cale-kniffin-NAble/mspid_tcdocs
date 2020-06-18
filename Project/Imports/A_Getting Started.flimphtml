@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="TakeControl"
+  ProjectFolder="C:\doc\TakeControl2\TakeControl\"
+  AutoSync="false"
+  SourceFolders="file:///C:/doc/TakeControl/Content/A_Getting Started"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-11-14T12:51:10.3564485-06:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../TakeControl/Content/A_Getting Started"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/A_Getting Started" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/A_Getting Started/Basic Steps.htm"
+      TimeStamp="11/14/2018 12:51:02 PM" />
+    <Url
+      Source="../../Content/A_Getting Started/Getting Started.htm"
+      TimeStamp="11/14/2018 12:51:03 PM" />
+    <Url
+      Source="../../Content/A_Getting Started/Home.htm"
+      TimeStamp="11/14/2018 12:51:03 PM" />
+    <Url
+      Source="../../Content/A_Getting Started/Whats New.htm"
+      TimeStamp="11/14/2018 12:51:03 PM" />
+    <Url
+      Source="../TOCs/A_Getting Started.fltoc"
+      TimeStamp="11/14/2018 12:51:10 PM" />
+  </GeneratedFiles>
+</HtmlImport>

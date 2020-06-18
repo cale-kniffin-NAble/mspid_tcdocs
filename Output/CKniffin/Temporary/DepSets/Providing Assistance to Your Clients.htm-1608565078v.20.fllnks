@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/Select an option from the console header.htm" />
+    <Link
+      Url="Content/Access-log-files.htm" />
+    <Link
+      Url="Content/View pending requests.htm" />
+    <Link
+      Url="Content/Access-My-Computers.htm" />
+    <Link
+      Url="Content/Chat-with-customers-and-colleagues.htm" />
+    <Link
+      Url="Content/Make-VoIP-calls.htm" />
+    <Link
+      Url="Content/Access-TakeControl-console.htm" />
+    <Link
+      Url="Content/Remotely-access-devices.htm" />
+    <Link
+      Url="Content/Use-the-System-Shell.htm" />
+    <Link
+      Url="Content/What is the status bar.htm" />
+    <Link
+      Url="Content/Set up Port Fowarding.htm" />
+    <Link
+      Url="Content/Transfer files during a support session.htm" />
+    <Link
+      Url="Content/View a customers system info.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/Select an option from the console header.htm" />
+    <Link
+      Url="Content/Access-log-files.htm" />
+    <Link
+      Url="Content/View pending requests.htm" />
+    <Link
+      Url="Content/Access-My-Computers.htm" />
+    <Link
+      Url="Content/Chat-with-customers-and-colleagues.htm" />
+    <Link
+      Url="Content/Make-VoIP-calls.htm" />
+    <Link
+      Url="Content/Access-TakeControl-console.htm" />
+    <Link
+      Url="Content/Remotely-access-devices.htm" />
+    <Link
+      Url="Content/Use-the-System-Shell.htm" />
+    <Link
+      Url="Content/What is the status bar.htm" />
+    <Link
+      Url="Content/Set up Port Fowarding.htm" />
+    <Link
+      Url="Content/Transfer files during a support session.htm" />
+    <Link
+      Url="Content/View a customers system info.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

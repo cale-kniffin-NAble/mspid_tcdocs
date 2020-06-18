@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="TakeControl"
+  ProjectFolder="C:\doc\TakeControl2\TakeControl\"
+  AutoSync="false"
+  SourceFolders="file:///C:/doc/TakeControl/Content/E_Footer Topics"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-11-14T12:56:38.6474475-06:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../TakeControl/Content/E_Footer Topics"
+      AbsoluteSource="file:///C:/doc/TakeControl/Content/E_Footer Topics" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/E_Footer Topics/Company Information.htm"
+      TimeStamp="11/14/2018 12:56:32 PM" />
+    <Url
+      Source="../../Content/E_Footer Topics/FAQs.htm"
+      TimeStamp="11/14/2018 12:56:33 PM" />
+    <Url
+      Source="../../Content/E_Footer Topics/PDF Downloads.htm"
+      TimeStamp="11/14/2018 12:56:33 PM" />
+    <Url
+      Source="../../Content/E_Footer Topics/Tips.htm"
+      TimeStamp="11/14/2018 12:56:34 PM" />
+    <Url
+      Source="../TOCs/E_Footer Topics.fltoc"
+      TimeStamp="11/14/2018 12:56:38 PM" />
+  </GeneratedFiles>
+</HtmlImport>

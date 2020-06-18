@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Administrative Area|Manage Devices" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Install the Linux Agent</h1>
+        <p>Install the Agent from the Admin Area or Tech Console for customer’s using a Linux operating system to allow for unattended access to that device. </p>
+        <p class="info">The <MadCap:variable name="General.CompanyName" /> Linux Agent only supports Centos version 7 or later.</p>
+        <ol>
+            <li value="1">Add a new device from <a href="Manage-devices.htm">Devices page of the Admin Area</a> or <a href="Generate-unattended-support-link.htm">from the Tech Console. </a></li>
+            <li value="2">Enter the Computer and Customer details, and select Linux.rpm or Linux.deb from the Device Type field.</li>
+            <li value="3">After the installation process is complete, <a href="Unattended-support.htm">start an unattended remote session</a> to the new Linux device. </li>
+            <li value="4">After connecting to your Linux device, unpack the TAR.GZ package and run the install.sh script. <br /><img src="Resources/Images/MSPanywhere/Linux Install script.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;" /></li>
+            <li value="5">Generate a PIN code <a href="Generate-PIN-code.htm">from the Tech Console </a>or <a href="Admin-area-homepage.htm">from the Admin Area homepage </a>and insert it in the terminal. <br /><img src="Resources/Images/MSPanywhere/Linux PIN code.png" /></li>
+            <li value="6">Enter the root password and start a remote control session. <br /><img src="Resources/Images/MSPanywhere/Linux insert password.png" /></li>
+        </ol>
+        <p class="info">If your session is running in Weyland mode, switch to X11 mode. If the X11 server is not detected, install and enable the X11 server. </p>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li><a href="Audit-devices.htm" class="MCXref xref">Audit Devices</a>
+            </li>
+            <li value="3"><a href="Create-and-manage- technicians.htm" class="MCXref xref">Create and manage technicians</a>
+            </li>
+            <li><a href="Create-and-deploy-Scripts.htm">Deploy scripts</a>
+            </li>
+        </ul>
+        <p>
+            <!-- Google Analytics -->
+        </p>
+    </body>
+</html>

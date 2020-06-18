@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="13" MadCap:lastHeight="958" MadCap:lastWidth="1306">
+    <head>
+    </head>
+    <body>
+        <h1>Take Control Port Access requirements</h1>
+        <p>The ports identified in the tables below must be accessible for <MadCap:variable name="General.CompanyName" />  remote control connections.</p>
+        <p class="nugget">Mac OS uses TCP Mode only.</p>
+        <h3>TCP Mode (Required)</h3>
+        <p>If the agent has a direct TCP port configured, the same port must be open at the agent's firewall and be accessible by the viewer.</p>
+        <table style="margin-left: 0;margin-right: auto;">
+            <col style="width: 480px;" />
+            <col />
+            <col />
+            <col />
+            <col />
+            <thead>
+                <tr style="height: 100px;">
+                    <th><b>Port number</b>
+                    </th>
+                    <th colspan="4" style="padding: 0px;">
+                        <table style="width: 100%;">
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th><b>Port Location</b>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th style="padding: 0px;">
+                                        <table style="width: 100%;">
+                                            <col style="width: 182px;" />
+                                            <col />
+                                            <tbody>
+                                                <tr>
+                                                    <td><b>take control viewer</b>
+                                                    </td>
+                                                    <td><b>target device</b>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="padding: 0px;">
+                                        <table style="width: 100%;">
+                                            <col style="width: 104px;" />
+                                            <col style="width: 105px;" />
+                                            <col style="width: 121px;" />
+                                            <col />
+                                            <tbody>
+                                                <tr>
+                                                    <td style="font-weight: bold;">inbound</td>
+                                                    <td style="font-weight: bold;text-align: center;">outbound</td>
+                                                    <td style="font-weight: bold;">inbound</td>
+                                                    <td style="font-weight: bold;">outbound</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="height: 36px;">
+                    <td>
+                        <p>Port 80</p>
+                    </td>
+                    <td>&#160;</td>
+                    <td style="text-align: center;"><b>Ö</b>
+                    </td>
+                    <td>&#160;</td>
+                    <td style="font-weight: bold;text-align: center;">Ö</td>
+                </tr>
+                <tr style="height: 33px;">
+                    <td>
+                        <p>Port 443</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="text-align: center;"><b>Ö</b>
+                    </td>
+                    <td>&#160;</td>
+                    <td style="font-weight: bold;text-align: center;">Ö</td>
+                </tr>
+                <tr style="height: 69px;">
+                    <td>
+                        <p>Port 3377</p>
+                        <p class="info"><MadCap:variable name="General.CompanyName" /> fails over to this port as an alternative connection method. </p>
+                    </td>
+                    <td>&#160;</td>
+                    <td style="text-align: center;"><b>Ö</b>
+                    </td>
+                    <td>&#160;</td>
+                    <td style="font-weight: bold;text-align: center;">Ö</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>When using <MadCap:variable name="General.CompanyName" />, the SolarWinds N-central server must be able to resolve the following domain names:</p>
+        <ul>
+            <li style="font-family: 'Courier New';">*.mspa.n-able.com</li>
+            <li><span style="font-family: 'Courier New';">sis.n-able.com</span>
+            </li>
+        </ul>
+        <h3>UDP Mode (Optional)</h3>
+        <p><MadCap:variable name="General.CompanyName" /> can use the UDP transmission model to connect to devices in addition to TCP.</p>
+        <p>Initially, the <MadCap:variable name="General.CompanyName" /> viewer requires access to port 1234. After the system administrator modifies the firewall to enable the identified IP addresses to communicate with the server, the ports can be random.</p>
+        <table style="margin-left: 0;margin-right: auto;">
+            <col style="width: 148px;" />
+            <col />
+            <col />
+            <col />
+            <col />
+            <thead>
+                <tr style="height: 100px;">
+                    <th><b>Port number</b>
+                    </th>
+                    <th colspan="4" style="padding: 0px;">
+                        <table style="width: 100%;">
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th><b>Port Location</b>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th style="padding: 0px;">
+                                        <table style="width: 100%;">
+                                            <col style="width: 209px;" />
+                                            <col />
+                                            <tbody>
+                                                <tr>
+                                                    <td><b>take control viewer</b>
+                                                    </td>
+                                                    <td><b>target device</b>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="padding: 0px;">
+                                        <table style="width: 100%;">
+                                            <col style="width: 104px;" />
+                                            <col style="width: 105px;" />
+                                            <col style="width: 121px;" />
+                                            <col />
+                                            <tbody>
+                                                <tr>
+                                                    <td style="font-weight: bold;">inbound</td>
+                                                    <td style="font-weight: bold;text-align: center;">outbound</td>
+                                                    <td style="font-weight: bold;">inbound</td>
+                                                    <td style="font-weight: bold;">outbound</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="height: 36px;">
+                    <td>
+                        <p>Port 1234</p>
+                    </td>
+                    <td>&#160;</td>
+                    <td style="text-align: center;"><b>Ö</b>
+                    </td>
+                    <td>&#160;</td>
+                    <td style="font-weight: bold;text-align: center;">Ö</td>
+                </tr>
+                <tr style="height: 33px;">
+                    <td>
+                        <p>Port 1235</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="text-align: center;"><b>Ö</b>
+                    </td>
+                    <td>&#160;</td>
+                    <td style="font-weight: bold;text-align: center;">Ö</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li value="1"><a href="Getting-started-with-Take-Control.htm" class="MCXref xref" xrefformat="{paratext}">Get started with <MadCap:variable name="General.CompanyName" /></a>
+            </li>
+            <li value="2"><a href="Provide-assistance-to-customers.htm" class="MCXref xref" xrefformat="{paratext}">Provide assistance to your customers</a>
+            </li>
+        </ul>
+    </body>
+</html>

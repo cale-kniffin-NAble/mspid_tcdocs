@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/Generate-PIN-code.htm" />
+    <Link
+      Url="Content/Send-support-link.htm" />
+    <Link
+      Url="Content/Unattended-support.htm" />
+    <Link
+      Url="Content/Share-and-transfer-sessions.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="Content/Generate-PIN-code.htm" />
+    <Link
+      Url="Content/Send-support-link.htm" />
+    <Link
+      Url="Content/Unattended-support.htm" />
+    <Link
+      Url="Content/Share-and-transfer-sessions.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="https://youtu.be/5dgkDYGM6Rw" />
+    <Link
+      Url="Content/Access-the-Monitors-menu.htm" />
+    <Link
+      Url="Content/Access-the-Commands-menu.htm" />
+    <Link
+      Url="Content/Access-the-Interactions-menu.htm" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="https://youtu.be/5dgkDYGM6Rw" />
+    <Link
+      Url="Content/Access-the-Monitors-menu.htm" />
+    <Link
+      Url="Content/Access-the-Commands-menu.htm" />
+    <Link
+      Url="Content/Access-the-Interactions-menu.htm" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

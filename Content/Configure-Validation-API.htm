@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Administrative Area|Configure your Profile|Configure APIs" MadCap:lastBlockDepth="17" MadCap:lastHeight="3311" MadCap:lastWidth="1312" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="products" content="MSP Anywhere;" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title>Configure the Validation API</title>
+        <style>/*<![CDATA[*/
+/*&lt;meta /&gt;*/
+.button.home-button
+{
+	-pie-background: url('../Skins/Default/Stylesheets/Images/home_1.png') no-repeat center center, linear-gradient(transparent, transparent);
+}
+.needs-pie
+{
+	behavior: url('../Resources/Scripts/PIE-no-motw.htc');
+}
+
+/*]]>*/</style>
+        <script src="../Resources/Scripts/custom.modernizr.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/jquery.min.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/require.min.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/require.config.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/foundation.6.2.3_custom.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/plugins.min.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/MadCapAll.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script><link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" /></head>
+    <body>
+        <h1>Configure the Validation API</h1>
+        <p>This API allows <MadCap:variable name="General.CompanyName" /> customers to pre-process the data gathered through the <MadCap:variable name="General.CompanyName" /> Applet prior to the creation of a support request. This pre-processing action provides the ability to validate the client’s data, forward support requests to the right departments or technicians, compare information with the database and automatically identify a client.</p>
+        <p>The pre-processing acts as a “webservice”, apart from the <MadCap:variable name="General.CompanyName" /> structure, that must be in compliance with the terms of the present document. That service will be published by the <MadCap:variable name="General.CompanyName" />  client on it's own infrastructure and should be available through via internet access. The corresponding URL is configured by the client. The communication between the  <MadCap:variable name="General.CompanyName" /> Applet and the service can be executed in HTTP - or HTTPS for stronger security.</p>
+        <h3>Input Parameters</h3>
+        <p>These parameters can be submitted by GET or by POST, depending on the options configured in the <span class="GeneralCompanyName">Take Control</span> Admin Area. Clicking the SUBMIT button to send this form and gather client’s data from the Applet and send it to the webservice.</p>
+        <p>
+            <img src="Resources/Images/MSPanywhere/ValidationAPIparameters.png" />
+        </p>
+        <p>
+            <img src="Resources/Images/MSPanywhere/ValidationAPIparameters2.png" />
+        </p>
+        <h3>Response Format</h3>
+        <p> This response will be interpreted by the <span class="GeneralCompanyName">Take Control</span> Applet and controls the Applet’s form behavior. Below is a list of the available tags for the response. Depending on the context, not all tags can be specified or will be interpreted simultaneously.</p>
+        <p>
+            <img src="Resources/Images/MSPanywhere/APIResponseFormat.png" />
+        </p>
+        <h3>Tags</h3>
+        <p><b>SUBMIT_SUPPORT_REQUEST (MANDATORY, BOOLEAN)</b>
+        </p>
+        <p>This tag is mandatory and determines whether the support request should be created or not. the allowed values are TRUE and FALSE.</p>
+        <p style="font-weight: bold;">REQUEST_ROUTE (OPTIONAL)</p>
+        <p>This tag is mandatory and determines whether the support request should be created or not . The allowed values are true and false. To forward a request to a specific department, this tag should include the department sub-tag specifying the respective department’s numeric ID . The ID can be found in the <span class="GeneralCompanyName">Take Control</span> Admin Area. Alternatively, it’s possible to specify the department’s name.</p>
+        <p>Forwarding a request to a specific technician obeys the same logic. The tag should include a technician sub-tag specifying the respective technician’s numeric ID . Alternatively, it’s possible to specify the technician’s username. If this tag is not specified, the request forwarding will take place as defined during the <span class="GeneralCompanyName">Take Control</span> Applet creation.</p>
+        <p style="font-weight: bold;">CUSTOMER_DATA (OPTIONAL)</p>
+        <p>This tag is optional and allows the replacement of the client’s data values as they were submitted in the creation of a support request. The data will be visible to technicians in the <span class="GeneralCompanyName">Take Control</span> console.</p>
+        <p style="font-weight: bold;">CUSTOM_MESSAGE (OPTIONAL)</p>
+        <p>This tag is optional. It specifies that a popup will be activated after the query as been submitted for pre-processing to the pre-validation “web service”. This pop-up can present error messages, warnings, or any other messages. For example, it can warn the client that they need to fill out a specific form field or that the stated client’s number is not accurate.</p>
+        <p>The message_type and message_text tags are mandatory. They specify the pop-up type and what message will be presented to the user. The supported message types are MSG_OK, MSG_YESNO, MSG_OKCANCEL, and can specify that an OK button pop-up will be activated, or a YES or NO button popup, or an OK button and a CANCEL button popups will be activated in that order. </p>
+        <p>The message_ok_url, message_cancel_url, message_yes_url and message_no_url fields are optional and direct the client to a URL after pressing a specific button. The message_icon field allows the control of the existing icon placed in the pop-up that is presented to the client. The supported values are ICON_ERROR, ICON_INFORMATION, ICON_WARNING and ICON_QUESTION. The pop-up can be showed when the support request is submitted or when an error occurs. In the first event, the pop-up is displayed before the creation of the support request.</p>
+        <p style="font-weight: bold;">FOCUS_FIELD (OPTIONAL)</p>
+        <p>This tag is optional and allows for a specific field on the client’s data form to become active. This tag is useful to deal with validation errors in specific form fields when used with the custom_message tag. The supported values for this tag are FLD_CNAME, FLD_CEMAIL, FLD_CNUMBER, FLD_PROBDESC that will place the cursor on the “client’s name” field, “client’s email” field, “client’s number ” field and “problem’s description” field.</p>
+        <p style="font-weight: bold;">CLOSE_APPLICATION (OPTIONAL)</p>
+        <p>This tag is optional and allows to close the BeAnywhere Support Express Applet. It will only be executed when submit_support_request is FALSE . The Applet shut down will be executed only after a pop-up is presented to the customer, if this is specified in the response.</p>
+        <p style="font-weight: bold;">Example 1</p>
+        <p>Here is a response example, where a data pre-validation has failed due to an invalid client number. An error message is presented to the client, indicating the situation.</p>
+        <p>
+            <img src="Resources/Images/MSPanywhere/ValidationAPIExample1_475x224.png" style="width: 475;height: 224;" />
+        </p>
+        <p style="font-weight: bold;">Example 2</p>
+        <p>Here is a response example where the data pre-validation has been successfully executed and the request will be sent to a support department.</p>
+        <p>
+            <img src="Resources/Images/MSPanywhere/ValidationAPIexample2_504x161.png" style="width: 504;height: 161;" />
+        </p>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li value="1"><a href="Configure-New-Session-API.htm">Configure the New Session API</a>
+            </li>
+            <li value="2"><a href="Configure-Deferred-Support-request-API.htm">Configure the Deferred Support request API</a>
+            </li>
+        </ul>
+    </body>
+</html>

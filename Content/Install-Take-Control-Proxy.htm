@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Use the Take Control Proxy" MadCap:lastBlockDepth="17" MadCap:lastHeight="811" MadCap:lastWidth="1312" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Install the <MadCap:variable name="General.CompanyName" /> Proxy</h1>
+        <p>For scenarios where a network's internet access is behind a firewall, use the <span class="GeneralCompanyName">Take Control</span> Proxy to provide support to your customer. </p>
+        <p>All <MadCap:variable name="General.CompanyName" /> agents can be configured to point towards this proxy, which mitigates unwanted firewall configuration changes and allows easy access to your devices. </p>
+        <ol>
+            <li value="1">Open the following ports on the Proxy machine to enable inbound and outbound connections:<ol><li value="1">TCP 8082 (only for LAN traffic) - the port used for <MadCap:variable name="General.CompanyName" /> Agents and Applets to communicate with the proxy. This is the port defined on the Bindings tab of the proxy interface.</li><li value="2">TCP 443 (for LAN and WAN traffic) - the port used by the Direct Connect feature, which needs to be set if Direct Connect is enabled. Route this port from the WAN to the proxy machine. Update this configuration if you change the Direct Connect port on the proxy interface.</li><li value="3">UDP 43210 (only for LAN traffic) - this port is used for the automatic setup of the Agents and Applets. If the port is not available, additional set up is needed for each computer with the Agent installed.</li></ol></li>
+            <li value="2">From the Admin area, select <b>Management</b> &gt; <b>Proxies</b> &gt; <b>Download</b> to download and install the proxy. </li>
+            <li value="3">
+                <p>Click <b>Download</b> in the new window to start the download.</p>
+            </li>
+            <li value="4">When the download finishes, give the new proxy a name, and click Register. <br /></li>
+            <li value="5">Select each configuration tab in the Proxy interface:<ol><li value="1"><p><b>Home</b> – starts and stops the proxy functionality, and check if the proxy is running properly. This uses a traffic light system to identify the state of the proxy: red (stopped), yellow (error or busy), green (working).</p></li><li value="2"><p><b>Bindings</b> – specifies the IP addresses and ports for the machine running the proxy. These are used to receive connections from Agents within the LAN. By default, the IP address is 0.0.0.0 to include all Network Interface Cards (NICs) with any IP address. If you have more than one NIC, specify which adapter or IP address is used to receive the requests. The default port is 8082. Make sure no other services are using this port on the proxy machine.</p></li><li value="3"><b>Direct Connect</b> – select the check box to enable the Direct Connect feature, and change the default port if needed. This is not recommended as it can interfere with establishing a connection. Click Test, to verify if the port is reachable, and then click Save.</li><li value="4"><p><b>IP Filter</b> – Select which Agents/Applets are reachable through this proxy. Add a mixture of single IP addresses (only the Agents or Applets on those specific IP's are reachable) and IP address ranges (all the Agents or Applets running on machines within that IP address range are reachable). Use this as an extra security measure.</p></li><li value="5"><p><b>Log</b> – presents all the events related to the use of the proxy (connected machines, sessions established or IP changes). You can suspend or clear the log. However, the proxy continues to register activity and debug information. This can be found at <code>c:\programdata</code> for Windows Vista or later.</p></li><li value="6"><b>Service</b> – by default, the Proxy is installed as an application. In the service tab, you can install it as a Windows service, or uninstall the service to run the Proxy as an application.</li></ol></li>
+            <li value="6">To view all installed proxies, select <b>Management</b> &gt; <b>Proxies</b> Manage your<MadCap:variable name="General.CompanyName" />Proxy server installations. </li>
+            <li value="7">Click on any proxy to show all of it's information – external port, the installed version, when the proxy was last seen and all associated IP addresses.</li>
+            <li value="8">Click <b>Remove</b> to delete a proxy. </li>
+        </ol>
+        <p class="warning">The Remove option permanently disables the proxy’s communication with the <MadCap:variable name="General.CompanyName" /> network. To complete the process, uninstall the proxy manually on the corresponding machine and it cannot be reactivated.</p>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li value="1"><a href="Configure-Take-Control-Proxy.htm" class="MCXref xref" xrefformat="{paratext}">Configure the proxy on the <MadCap:variable name="General.CompanyName" /> Agent or Applet</a>
+            </li>
+            <li value="2"><a href="Provide-assistance-to-customers.htm" class="MCXref xref" xrefformat="{paratext}">Provide assistance to your customers</a>
+            </li>
+            <li value="3">Access the <a href="Administrative-Area.htm" class="MCXref xref" xrefformat="{paratext}">Administrative Area</a></li>
+        </ul>
+    </body>
+</html>

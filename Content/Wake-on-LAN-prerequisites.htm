@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Wake-on-LAN" MadCap:lastBlockDepth="17" MadCap:lastHeight="636" MadCap:lastWidth="638" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="products" content="MSP Anywhere;" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title>Review wake on LAN prerequisites </title>
+        <style>/*<![CDATA[*/
+/*&lt;meta /&gt;*/
+.button.home-button
+{
+	-pie-background: url('../Skins/Default/Stylesheets/Images/home_1.png') no-repeat center center, linear-gradient(transparent, transparent);
+}
+.needs-pie
+{
+	behavior: url('../Resources/Scripts/PIE-no-motw.htc');
+}
+
+/*]]>*/</style>
+        <script src="../Resources/Scripts/custom.modernizr.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/jquery.min.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/require.min.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/require.config.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/foundation.6.2.3_custom.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/plugins.min.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script> <script src="../Resources/Scripts/MadCapAll.js">/*<![CDATA[*/
+
+
+ 
+
+/*]]>*/</script><link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" /></head>
+    <body>
+        <h1>Review wake on LAN prerequisites </h1>
+        <p>Please review the following conditions before using the Wake-on-LAN feature. Each computer and network is different, so be sure you test the process with each device you want to wake up before using WOL in production.</p>
+        <h3>Console</h3>
+        <ul>
+            <li value="1">Your network interface can broadcast WOL network packets. An ethernet connection is necessary in some cases, as there are some old wireless drivers and devices that do not broadcast this traffic correctly, causing the operation to fail.</li>
+        </ul>
+        <ul>
+            <li value="1">The Console used to wake up the remote computers should be the latest version of <MadCap:variable name="General.CompanyName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> (5.95 or later). This feature is only available on Windows Consoles.</li>
+        </ul>
+        <h3>Agents</h3>
+        <ol>
+            <li value="1">To assure maximum compatibility, connect your computer to the network using an ethernet cable. </li>
+            <li value="2">Confirm that your hardware supports WOL. For instance, some laptop computers do not support WOL, or only support it while on AC Power. Some power supplies for desktop computers may also be incompatible.</li>
+            <li value="3">The computer BIOS also needs to be correctly set up. Look for a WOL option and enable it. This option may have different names (“Resume from my PCI Device”, for instance), depending on the motherboard and BIOS version. If different options exist with similar names, test each one to find the correct option.</li>
+            <li value="4">Make sure that the most current version (5.95 or later) of the Agent is installed on all the computers for which you want unattended access. This feature is only available on Windows Agents.</li>
+        </ol>
+        <h3>What do you want to do?</h3>
+        <ul>
+            <li value="1"><a href="Unattended-support.htm" class="MCXref xref" xrefformat="{paratext}">Start an unattended support session</a>
+            </li>
+            <li value="2"><a href="Wake-remote-computer.htm" class="MCXref xref" xrefformat="{paratext}">Wake a remote computer</a>
+            </li>
+            <li value="3"><a href="Share-and-transfer-sessions.htm" class="MCXref xref" xrefformat="{paratext}">Share and transfer support sessions</a>
+            </li>
+        </ul>
+    </body>
+</html>

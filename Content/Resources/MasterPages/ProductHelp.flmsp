@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+		<meta name="google-site-verification" content="YRX710dJ6U7xnU2cIklsVAdLzvVcR5pSo6zDOLkou5M" />
+    </head>
+    <body>
+        <div class="topicheroslim">
+            <p>Take Control</p>
+        </div>
+        <div class="content">
+            <div class="clearfix">
+                <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;text-align: left;" data-mc-skin="/Project/Skins/TopicToolBar.flskn" />
+                <MadCap:breadcrumbsProxy />
+            </div>
+            <div class="sideContent">
+                <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/SideMenu.flskn" />
+            </div>
+            <MadCap:bodyProxy />
+            <p>
+                <!-- Google Analytics -->
+            </p>
+            <p>&#160;</p>
+            <p>
+                <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+					j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+					'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
+            </p>
+            <!-- Start iFrame Embed Code --><iframe style="overflow: hidden; border: none;" class="iframe-resize" scrolling="no" seamless="seamless" src="" border="0" width="600"></iframe>
+            <script src="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS">
+            </script>
+            <script type="text/javascript">
+				$(function () {
+				var iFrameURL = 'https://success.solarwindsmsp.com/Support_HelpDocs_FeedbackForm',
+				productParam = '?product=' + $("meta[name=products]").attr("content"),
+				topicnameParam = '&amp;topicname=' + $('h1:first').text(),
+				topicfilenameParam = '&amp;topicfilename=' + window.location.pathname,
+				urlParam = '&amp;url=' + window.location.protocol + '//' + window.location.hostname + window.location.pathname;
+				var isOldIE = (navigator.userAgent.indexOf("MSIE") !== -1); // Detect IE10 and below
+				console.log('productParam: ' + productParam);
+				console.log('topicnameParam: ' + topicnameParam);
+				console.log('topicfilenameParam: ' + topicfilenameParam);
+				console.log('urlParam: ' + urlParam);
+        
+				console.log('iframe src: ' + iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam));
+        
+				$('.iframe-resize').attr("src", iFrameURL+encodeURI(productParam+topicnameParam+topicfilenameParam+urlParam))
+				$('.iframe-resize').iFrameResize({
+				heightCalculationMethod: isOldIE ? 'max' : 'lowestElement', 
+				//checkOrigin: []
+				});
+				});
+			</script>
+            <!-- End iFrame Embed Code -->
+        </div>
+    </body>
+</html>
