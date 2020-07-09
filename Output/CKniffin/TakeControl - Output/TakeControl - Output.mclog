@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated TakeControl - Output.fltar" Date="2020-06-15T18:43:33.3004356-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated TakeControl - Output.fltar" Date="2020-07-08T17:03:51.1390736-05:00">
     <Messages>Compiling target TakeControl - Output...
 Removing previously generated content...
 Loading skin info...
@@ -7,38 +7,39 @@ Gathering Glossary information...
 Gathering Auto-index information...
 Loading Master TOC...
 Processing Master TOC...
+Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Mass-Agent-deployment.htm.
 Generating Glossary...
 Collecting source files...
 Processing source files...
-Excluded from output:file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Content/Quick-Start-Guide.htm.
+Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Quick-Start-Guide.htm.
 Processing CSS: Resources\Stylesheets\styles.css...
 Processing CSS: Resources\Stylesheets\StylesForHomePage.css...
 Processing CSS: Resources\Stylesheets\SWI_CustomStyles.css...
-Missing linked source file: C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\checkbox.gif
-Missing linked source file: C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\icon_info_flip.png
-Missing linked source file: C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\icon_check.png
-Missing linked source file: C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\icon_error.png
+Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\checkbox.gif
+Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\icon_info_flip.png
+Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\icon_check.png
+Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\icon_error.png
 Processing CSS: Resources\TableStyles\PatternedRows.css...
 Processing CSS: Resources\TableStyles\Simple.css...
 Processing CSS: Resources\TableStyles\SimpleWithPadding.css...
 Processing CSS: Resources\TableStyles\Standard.css...
 Generating output files...
 Processing topic: Getting-started-with-Take-Control.htm...
-Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Mobile.css
-Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Tablet.css
-Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Styles.css
-Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Mobile.css
-Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Tablet.css
-Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Tablet.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Mobile.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Styles.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Tablet.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Mobile.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css
+Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css
+Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css
+Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css
+Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css
+Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Getting-started-with-Take-Control.htm
 Processing topic: Billing-info.htm...
@@ -47,6 +48,9 @@ Generated Billing-info.htm
 Processing topic: Multi-factor-authentication.htm...
 Applying master page ProductHelp.flmsp...
 Generated Multi-factor-authentication.htm
+Processing topic: Upgrade-your-account.htm...
+Applying master page ProductHelp.flmsp...
+Generated Upgrade-your-account.htm
 Processing topic: System-requirements.htm...
 Applying master page ProductHelp.flmsp...
 Generated System-requirements.htm
@@ -60,14 +64,14 @@ Processing topic: Learn-about-Take-Control-components.htm...
 Applying master page ProductHelp.flmsp...
 Generated Learn-about-Take-Control-components.htm
 Processing topic: Administrative-Area.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Tablet.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Mobile.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Styles.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Tablet.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Mobile.css
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Administrative-Area.htm
 Processing topic: Admin-area-homepage.htm...
@@ -92,7 +96,7 @@ Processing topic: Alerts-and-Monitoring.htm...
 Applying master page ProductHelp.flmsp...
 Generated Alerts-and-Monitoring.htm
 Processing topic: Configure-Profile.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Configure-Profile.htm
 Processing topic: Configure-basic-account-information.htm...
@@ -111,15 +115,15 @@ Processing topic: Configure-APIs.htm...
 Applying master page ProductHelp.flmsp...
 Generated Configure-APIs.htm
 Processing topic: Configure-New-Session-API.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Configure-New-Session-API.htm
 Processing topic: Configure-Deferred-Support-request-API.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Configure-Deferred-Support-request-API.htm
 Processing topic: Configure-Validation-API.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Configure-Validation-API.htm
 Processing topic: Configure-Session-History-API.htm...
@@ -134,12 +138,8 @@ Generated Manage-your-account.htm
 Processing topic: Create-and-manage- technicians.htm...
 Applying master page ProductHelp.flmsp...
 Generated Create-and-manage- technicians.htm
-Processing topic: Mass-Agent-deployment.htm...
-Failed to load image C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\MSPanywhere\ManageAgents.png.
-Applying master page ProductHelp.flmsp...
-Generated Mass-Agent-deployment.htm
 Processing topic: Enable-multi-factor-authentication.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Enable-multi-factor-authentication.htm
 Processing topic: Set-up-departments.htm...
@@ -176,7 +176,7 @@ Processing topic: Generate-tech-performance-report.htm...
 Applying master page ProductHelp.flmsp...
 Generated Generate-tech-performance-report.htm
 Processing topic: Generate-session-report.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Generate-session-report.htm
 Processing topic: Generate-audit-report.htm...
@@ -210,14 +210,14 @@ Processing topic: Unattended-support.htm...
 Applying master page ProductHelp.flmsp...
 Generated Unattended-support.htm
 Processing topic: Generate-unattended-support-link.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Generate-unattended-support-link.htm
 Processing topic: Add-devices-during-session.htm...
 Applying master page ProductHelp.flmsp...
 Generated Add-devices-during-session.htm
 Processing topic: Configure-the-Agent.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Configure-the-Agent.htm
 Processing topic: Share-and-transfer-sessions.htm...
@@ -374,7 +374,7 @@ Processing topic: Wake-on-LAN.htm...
 Applying master page ProductHelp.flmsp...
 Generated Wake-on-LAN.htm
 Processing topic: Wake-on-LAN-prerequisites.htm...
-Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page ProductHelp.flmsp...
 Generated Wake-on-LAN-prerequisites.htm
 Processing topic: Wake-remote-computer.htm...
@@ -441,50 +441,49 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 319
-Output generated in 1 minute(s) and 14 second(s).
+Ignored Compiler Warnings: 320
+Output generated in 1 minute(s) and 2 second(s).
 
 Done
-Saving log to "C:\Users\CKniffin\Desktop\mspid_take_control_new\Output\CKniffin\TakeControl - Output\TakeControl - Output.mclog"
+Saving log to "C:\Bitbucket\mspid_tcdocs\Output\CKniffin\TakeControl - Output\TakeControl - Output.mclog"
 </Messages>
     <Warnings>
-        <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\checkbox.gif&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\icon_info_flip.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\icon_check.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\icon_error.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10001" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Configure-Profile.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Configure-New-Session-API.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Configure-Deferred-Support-request-API.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Configure-Validation-API.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Mass-Agent-deployment.htm" Message="Failed to load image C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\MSPanywhere\ManageAgents.png.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="20011" />
-        <LogEntry File="../../../Content/Enable-multi-factor-authentication.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Generate-session-report.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Generate-unattended-support-link.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Configure-the-Agent.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
-        <LogEntry File="../../../Content/Wake-on-LAN-prerequisites.htm" Message="Link points outside project file:///C:/Users/CKniffin/Desktop/mspid_take_control_new/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\checkbox.gif&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\icon_info_flip.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\icon_check.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/SWI_CustomStyles.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\icon_error.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10001" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
+        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="TakeControl - Output" ErrorID="10010" />
+        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Configure-Profile.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Configure-New-Session-API.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Configure-Deferred-Support-request-API.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Configure-Validation-API.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Enable-multi-factor-authentication.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Generate-session-report.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Generate-unattended-support-link.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Configure-the-Agent.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
+        <LogEntry File="../../../Content/Wake-on-LAN-prerequisites.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10056" />
         <LogEntry Message="Linked index term &quot;Images&quot; is not in the index, skipping the link &quot;Pictures&quot;...&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="TakeControl - Output" ErrorID="10069" />
     </Warnings>
     <Errors />

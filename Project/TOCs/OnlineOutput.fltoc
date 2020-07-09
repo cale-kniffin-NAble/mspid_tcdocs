@@ -7,10 +7,13 @@
     Link="/Content/Getting-started-with-Take-Control.htm">
     <TocEntry
       Title="Billing info"
-      Link="/Content/Billing-info.htm" />
+      Link="/Content/Billing-info.htm"></TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Multi-factor-authentication.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Upgrade-your-account.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="System requirements"

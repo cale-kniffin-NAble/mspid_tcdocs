@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\Users\CKniffin\Desktop\mspid_take_control_new\Content\Resources\Images\MSPanywhere\MFA_EndUserMessage.png" />
+        <Link Value="C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\MSPanywhere\UpgradeTCPlus.png" />
     </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
 </RecentLinks>

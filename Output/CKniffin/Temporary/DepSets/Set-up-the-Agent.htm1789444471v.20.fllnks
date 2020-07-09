@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="https://youtu.be/DvNuhVomCn4" />
+    <Link
+      Url="Content/Set-up-the-Applet.htm" />
+    <Link
+      Url="Content/Create-Email-templates.htm" />
+    <Link
+      Url="Content/Configure-integration-options.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+    <Link
+      Url="https://youtu.be/DvNuhVomCn4" />
+    <Link
+      Url="Content/Set-up-the-Applet.htm" />
+    <Link
+      Url="Content/Create-Email-templates.htm" />
+    <Link
+      Url="Content/Configure-integration-options.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
