@@ -8,25 +8,13 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="Content/Billing-info.htm" />
-    <Link
-      Url="https://admin.swi-tc.com/admin_area_/login.php" />
-    <Link
-      Url="Content/Resources/Images/MSPanywhere/LicensingInfo.png" />
-    <Link
-      Url="Content/Resources/Images/MSPanywhere/UpgradeTCPlus.png" />
+      Url="https://status.solarwindsmsp.com/category/solarwinds-take-control/" />
   </Links>
   <LongLinks>
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="Content/Billing-info.htm" />
-    <Link
-      Url="https://admin.swi-tc.com/admin_area_/login.php" />
-    <Link
-      Url="Content/Resources/Images/MSPanywhere/LicensingInfo.png" />
-    <Link
-      Url="Content/Resources/Images/MSPanywhere/UpgradeTCPlus.png" />
+      Url="https://status.solarwindsmsp.com/category/solarwinds-take-control/" />
   </LongLinks>
   <Anchors />
   <Keywords />

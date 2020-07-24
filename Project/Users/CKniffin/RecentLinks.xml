@@ -3,5 +3,7 @@
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
         <Link Value="C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\MSPanywhere\UpgradeTCPlus.png" />
     </Dialog>
-    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Bitbucket\mspid_tcdocs\Content\TC-Release-notes.htm" />
+    </Dialog>
 </RecentLinks>

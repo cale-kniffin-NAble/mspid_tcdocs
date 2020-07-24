@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated TakeControl - Output.fltar" Date="2020-07-08T17:03:51.1390736-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 Generated TakeControl - Output.fltar" Date="2020-07-09T11:47:30.4692187-05:00">
     <Messages>Compiling target TakeControl - Output...
 Removing previously generated content...
 Loading skin info...
@@ -442,7 +442,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 320
-Output generated in 1 minute(s) and 2 second(s).
+Output generated in 1 minute(s) and 1 second(s).
 
 Done
 Saving log to "C:\Bitbucket\mspid_tcdocs\Output\CKniffin\TakeControl - Output\TakeControl - Output.mclog"

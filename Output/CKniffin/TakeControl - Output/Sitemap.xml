@@ -1,1159 +1,1123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/System-requirements.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionsPage.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UpgradeTCPlus.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-log-files.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/user-outline_47x47.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Wake-on-LAN-prerequisites.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CheckBeforeSubmit.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/greater.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Deferred-Support-request-API.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Welcome Enter Code.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIexample2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/FileTransferIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet2Light.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-unattended-support-link.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/APIkey.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Applet vs Agent table.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-Email-templates.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/users.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Use-panic-button.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/cloud_download.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedOptionsMenu1.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-session-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Profile.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-integration-options.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SysDetails.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/FileTransferIcons.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ProvideFeedback.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/user_mgmt_logo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/nugget.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/staff-circle.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewStatusBar.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/New Remote Viewer.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/web-protection.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/search.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Session-History-API.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QandAfromTheCommunity.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/View-ColorMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EnableRemoteControl.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-TakeControl-viewer.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TC-RemoteViewer.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/StartVoIPcall.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Enabled Checkbox.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacRemoteViewer.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Status bar.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacViewMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet1.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Share-support-session-with-another-technician.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/New-Remote-Access.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-and-manage-calling-cards.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EnterTwoFactorCode_307x204.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PassportalAuthentication.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SelectStatisticDropdownList.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Password-secrets-vaults.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DownloadIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LAN to Internet Diagram.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Registry-editor.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-surveys.htm</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/FeatureGuides_21x19.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIparameters.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionsTab.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Accept-a-support-request.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart6.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SecretsVaultPassword_344x388.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SystemDetailsTab.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Commands.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionHistoryAPI.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ManageAgents.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/FileTransferIcons_89x17.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 8.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ScrollLock_129x23.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/SecurityManagerLogo_125x125.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/tools-circle.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DeleteDept.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/probe_agentlogo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/configurationlogo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GreenDownArrow.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-missed-session-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ActivateTwoFactorAuth_297x249.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Provide-assistance-to-customers.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UrgentRequest.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Session section.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SystemShellAdvancedOptions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-My-Computers.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Viewer.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Install-Linux-Agent.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DisplayBothMonitors.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MyComputers.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/WelcomeMSPA.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaDevices.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/settings.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Home.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/software-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FAEndUsers.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Login.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChangeLanguage.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/user-outline.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ViewAlerts.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/data-archive-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Chat-with-customers-during-remote-sessions.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Be Anywhere Install.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-preferences-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIExample1.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MoreMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserArea.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/user-support-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart2.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaCustomAccess.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Learn-about-the-status-bar.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Manage-devices.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - Convering Tech Console.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/KnowledgeBaseArticleIcon.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Alerts-and-Monitoring.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA_for_Techs.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-the-Agent.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Take-Control-Release-Notes.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/Getting Started with MSP Anywhere.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Upgrade-your-account.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/OptionsMenuDarkMode.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/FileTransferIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/NoteIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Default.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserConnect.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/print.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart page 6.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/step-indicator.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/TableStyles/PatternedRows.css</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Stylesheets/styles.css</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/globe.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Billing-info.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessLogFiles_233x262.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MobileApp.jpeg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/msp-anywhere.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet1Light.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Transfer-support-request.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AgentPermissions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/users.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Mac-Interactions-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/cloud_upload_47x47.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemoteViewerMac.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RunAs ScriptDeployment_439x170.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Security.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownClosed.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-tech-performance-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - Access Customers Computers.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AgemtConfig.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ApplyChangesToAll.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedOptions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Interactions-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA_for Master-Admin.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-session-history-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/PDF Cover.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/MSPA QuickStart1(cropped).PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/PatchManagerLogo_125x125.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 4.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewFileTransfer.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_info.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/edit.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/BasicSteps.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/gear-outline-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EnterTwoFactorCode.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 5.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ConnectionDetails.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownSmallOpen.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/SupportChatNewConsole.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-FTP-connections.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Multi-factor-authentication.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Interactions.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-mobie-devices.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemovalOfGeneralTab.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/RedX.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpIcon.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/Getting Started with MSP Anywhere_464x160.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GroupCallingCardsEditOptions.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/WhatsNew.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Use-the-System-Shell.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/server-tool_46x46.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Windows-Viewer-shortcuts.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessLogFiles.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewSecretsVault_334x386.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/download.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ScrollLock.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LogFilesFromApplet.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/ListIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Accept or Reject call.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpGuideIcon.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Release-Notes.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Diagram.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SysShellAdvOptions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessSecretsVaults.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - Remote Viewer.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Linux insert password.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_check.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-port-forwarding-for-Agents.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Advanced menu.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DownloadCustomURL.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-deferred-support-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/SWI_curvy-tile.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RecoveryCode.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Getting-started-with-Take-Control.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RecoveryCode_345x389.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Menu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/SupportTeam_17x17.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChatButton.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Wake-on-LAN.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/PassportalLink.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Transfer Request pop up.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ToggleColumns.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/SupportTeam.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Session-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Proxy Registration.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/warning.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/home.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Transfer-session-before-creating-PIN.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddPCtoComputerList.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/image1.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Call-other-technicians.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CallingCards.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TC Components Diagram_463x199.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/ListIconWhite.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RunAs ScriptDeployment.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Linux Install script.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MonitorsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Devices page call outs.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessFTP.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Advanced-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddSecrets.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-Calling-Card-from-the-console.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PowerShellvsCmdPrompt.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/PASSlogo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedOptionsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-batches-of-calling-cards.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIparameters2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Make-VoIP-calls.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LessMore.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-deferred-support-request-form.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/KeyIcon_27x26.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChooseComponents.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-audit-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Take-Control-for-Mojave.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ExpandWorlflow.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GetSupportButton.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Support Express Console.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EditKnowledgeType.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaCustomAccess_486x227.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/exchange-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TC Components Diagram.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Pending Requests.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart1.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Mac-View-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EUArea.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Manage-your-account.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-and-deploy-Scripts.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ClickSecurity.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Mac-Commands-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/tools.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ConnectionDetailsWindow.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Facebook.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart7.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - DL Tech Console.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CreateEndUser.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ViewMenuOptions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownOpen.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart4.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Share-and-transfer-sessions.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart9.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Remote Session button.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedTab.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/bitdefender_47x47.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ExportFromSysInfo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SupportExpress597_588x308.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CHooseACallingCard.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-View-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-survey-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA_Message.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/End-User Accounts.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PreferencesMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionOptions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RequestDetails.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PermissionsTab_420x111.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownSmallClosed.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LAN to Internet Diagram_550x316.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram_437x141.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Administrative-Area.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart9 (no screenshot).PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AgentAppletConsole.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - AdminArea nav menu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/server-tool.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/monitoringlogo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Unattended-support.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LightModeDarkMode.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Urgent Support request.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChatWithSupport.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QandAfromTheCommunity_20x17.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Default.mcwebhelp</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LicensingInfo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 1.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewSessionPIN_342x179.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/TableStyles/SimpleWithPadding.css</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/KeyIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ExportLink.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/QuickStartDevicesPage.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TakeControlDevicesPage.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet1OnlineLight.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/View-script-jobs-history.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/bitdefender.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/OpenTechConsole.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/bitdefender.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaLinks.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Port-access-requirements.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Image.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewEndUser.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Send-support-link.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Learn-about-Take-Control-components.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/BulkMergeTickets.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/View-running-sessions.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DirectBASEProxy.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Applet vs Agent table.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/KeyIcon_22x21.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/CompanyLogo.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/StandardBASEProxy.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/SSO-User-guide.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Enabled Checkbox.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_21x18.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/BeAnywhereInstall.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FARecoveryCode.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/VoIP call.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CallingCardRequests.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessFTP.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Console call outs_679x505.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ProvideFeedback.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ConnectionAndSysDetails.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Use-the-System-Shell.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/automate-c.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-Passportal-vaults.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Start-a-support-session.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PermissionsTab_420x111.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InsertPassword_464x435.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddNewComputer2.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Set-up-the-Agent.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/bitdefender_47x47.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/File Transfer.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacCommandsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/FileTransferIcons_89x17.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - AdminArea nav menu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TC Components Diagram.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart9 (no screenshot).PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Be Anywhere Install.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/BasicSteps.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Linux insert password.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FAEndUsers.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FAstep2.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessLogFolder.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Add PC to computer list.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_warn.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/APIResponseFormat.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_hint.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Multi-factor-authentication-End-Users.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/reporting-2-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EditQuestionWindow.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-mobile-config-files.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ComputerOptions.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserRemoteControl.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/InfoIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Console call outs.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedSessionMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/GreenCheck.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemoteDesktopMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpIcon2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DisplayBothMonitors_349x430.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart page 6_444x324.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/automate-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Take-Control-mobile-app.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/ulist.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpGuideIcon_19x17.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacConnectionDetails.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GeneratePIN.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FAQRcode.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Manage-multiple-Calling-Cards.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DeleteDept.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet1Light.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LessMore_43x23.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 3.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/gear-outline-c.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Use-Take-Control-Proxy.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MoreMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/VaultPWAddSecret_462x337.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Multi-factor-authentication-End-Users.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewSessionPIN_342x179.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-Calling-Card-from-the-console.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet2OnlineLight.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIExample1_475x224.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserRemoteControl.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIexample2_504x161.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessTechConsole.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RunAs ScriptDeployment.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Learn-about-the-status-bar.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Multi-factor-authentication.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ActivateTwoFactorAuth_297x249.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/Getting Started with MSP Anywhere.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart5.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InteractionsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Make-VoIP-calls.htm</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet1Online.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/TableStyles/Standard.css</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChatButton.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Add-devices-during-session.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Accept or Reject call.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart6 (no screenshot).PNG</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/GreenCheck.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ConnectIcon.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemoteControlMode.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/search_button_1.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ApplyChangesToAll.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-port-forwarding-on-the-Console.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram.PNG</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Diagram_568x249.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_info_flip.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChangeExpirationOfCallingCard.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacInteractionsMenu.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/UpDownArrow.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/TwitterIcon.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SearchAdminArea.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Enhance-the-Agents-security.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Status bar1.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet2Online.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/swmsp-white-bg.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Calling-Cards.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/BackgroundImage.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Chat-with-colleagues.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TC-Devices.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/edit.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Admin Area Help.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_warn.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_hint.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/PASSlogo.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedMenuOptions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/QuickStartDevicesPageNEW.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/BulkMergeTickets.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Linux PIN code.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GetSupportButton.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Urgent Support request.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/automate-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DeleteDept.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-and-manage- technicians.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Facebook.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/View-ColorMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Security.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TCMobileApp.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SupportExpress597_588x308.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ScrollLock.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Share-and-transfer-sessions.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EnableRemoteControl.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/ulist.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram_437x141.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PassportalVault.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GreenDownArrow.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SecretsVaultsIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-missed-session-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Transfer-session-before-creating-PIN.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/environment-management-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PassportalSearch.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Learn-about-Take-Control-components.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/swmsp-white-bg.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - Remote Viewer.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Billing-info.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChangeLanguage.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/CompanyLogo.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Session-History-API.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Send-support-link.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart1.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/MSPA Quick Start 2.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EnterTwoFactorCode_307x204.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CommandsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Welcome Enter Code.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/software.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/ConsoleSettings.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/greater_60x22.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InsertPassword_464x435.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Port-Fowarding.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Unattended-support.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Start-a-support-session.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Integration.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionOptionsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-mobie-devices.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-end-user-area.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ExportFromSysInfo_21x19.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Accept-a-support-request.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Preferences.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/administrationlogo.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Status bar1.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/AutomationManagerLogo_125x125.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SearchAdminArea.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-batches-of-calling-cards.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TopMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/monitoringlogo.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedOptions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AgentPermissions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Deferred-Support-request-API.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddSecrets_452x329.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaLinks_103x20.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Proxy Registration.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/FAQs.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Chat-with-customers-before-a remote-session.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-the-Agent.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UrgentRequest_21x18.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/SaveButton.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/ListIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/RunCommand.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QandAfromTheCommunity_20x17.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/FileTransferIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewEndUser.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/server-tool.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaCustomAccess_486x227.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Support Express Console.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Default.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PowerShellvsCmdPrompt.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UrgentRequest.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Call-other-technicians.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-mobile-config-files.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Manage-devices.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/greater.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/behind-the-scene-support-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LogFilesFromApplet.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CallingCardRequests.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/SecurityManagerLogo_125x125.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/user_mgmt_logo.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-New-Session-API.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Port-access-requirements.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Viewer.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-and-manage-calling-cards.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 2.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewSecretsVault.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownSmallClosed.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CheckBeforeSubmit.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ManageAgents.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MobileApp.jpeg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/globe.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Wake-remote-computer.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/BackgroundImage.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FAstep1.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/users.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/NoteIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Remote Session button.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-session-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownClosed.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ActivateTwoFactorAuth.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Session-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Remotely-access-Mac-devices.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIparameters.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChangeExpirationOfCallingCard.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/SWI_curvy-tile.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Remotely-access-Windows-devices.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ViewAlerts.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownOpenSecondLevel.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/activity-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaLinks.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CallingCards.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SecretsVaultPassword.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedTab.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Transfer Request pop up.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TransferRequest1.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/FileTransferIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionsTab.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ProcessList.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EditQuestionWindow.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Registry-editor.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/MSPA QuickStart1(cropped).PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Wake-on-LAN-prerequisites.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/TableStyles/Simple.css</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Advanced menu.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIExample1.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/WelcomeMSPA.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 7.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart6 (no screenshot).PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/software-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/MSPA Conponents.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpIcon.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/FacebookIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/desktop-cog.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-integration-options.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Devices with Last Activity.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/End-User Accounts.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Remote Session button 2.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ComputerMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EditDevice.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Transfer-support-request.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA_EndUserMessage.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/APIkey.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UpdatedDevicesPage.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/KnowledgeBaseArticleIcon_19x19.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Mac-Commands-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/TableStyles/PatternedRows.css</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/settings.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SelectStatisticDropdownList.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-basic-account-information.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Alerts-and-Monitoring.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Install App.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Install-Linux-Agent.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/user-outline_47x47.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TCremote_ipad.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/turq-line-bg.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GenerateAPI.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LAN to Internet Diagram.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/bitdefender.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemoteViewer(w PassPortal).png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Diagram_568x249.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedOptionsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/tools.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet1OnlineLight.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Take-Control-Proxy.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/FileTransferQueue.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Viewer2.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserConnect.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InstallMSPA.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ExportFromSysInfo.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-session-history-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ScrollLock_129x23.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/KeyFeatures.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/WhatsNew.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart page 6_444x324.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Manage-multiple-Calling-Cards.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/SessionOptionsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Console footer.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TC Components Diagram_463x199.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChooseComponents.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/reporting-2-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/SupportTeam.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/View-running-sessions.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAgentSetup.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TakeControlDevicesPage.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MonitorsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/QuotationMark.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/VaultPWAddSecret.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Mac-Interactions-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DisplayBothMonitors.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart3.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_error.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/SupportTeam_17x17.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LAN to Internet Diagram_550x316.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/ConnectDevice.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/turq-line.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Advanced-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/home.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Audit-devices.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Calling-Cards.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Monitors-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GenerateCallingCard.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ToggleColumns.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/search.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/SupportChatNewConsole.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Interactions-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionsPerDay.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaPermissions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Console call outs_679x505.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-log-files.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FAQRcode.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ConnectionAndSysDetails.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/MSP_ANY_Quick-Start-Guide.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DeleteRenameIcons.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-PIN-code.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/user-outline.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Advanced Port Forward.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemoteDesktopMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/FeatureGuides.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet1.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/FileTransferIcons.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/web-protection.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessLogFiles_233x262.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/New-Remote-Viewer.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Linux Install script.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 5.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/QuickStartDevicesPage.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram_428x137.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Administrative-Area.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/msp-anywhere.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DisplayBothMonitors_349x430.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/AddPcToCompList.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/New Remote Viewer.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemoteViewerMac.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/UpDownArrow.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserArea.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaCustomAccess.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/RedX.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Pending Requests.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Wake-on-LAN.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/gear-outline-c_47x47.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Provide-assistance-to-customers.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownOpen.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UserIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedSessionMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DownloadIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/KeyIcon_27x26.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Set-up-the-Agent.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/TableStyles/SimpleWithPadding.css</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Stylesheets/styles.css</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/nugget.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/probe_agentlogo.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QUickStart3(no screenshot).PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MyComputers.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Validation-API.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/ContactIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedOptionsMenu1.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Computer-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart4.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownClosedSecondLevel.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/ulist_47x47.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/System-requirements.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Commands-Menu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/masterpages/homepage.flmsp</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessSecretsVaults.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/View-script-jobs-history.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Take-Control-Release-Notes.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-preferences-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionHistoryAPI.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/StartVoIPcall.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Admin-area-homepage.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/End-User-guide.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-deferred-support-request-form.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PassportalAuthentication.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacRemoteViewer.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Commands.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 8.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LicensingInfo.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet2.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-and-deploy-Scripts.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/search_button_1.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart6.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GroupCallingCardsEditOptions.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SystemShellAdvancedOptions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIparameters2.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/ListIconWhite.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart page 6.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/SecretsVaultsIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_check.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ViewMenuOptions.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserLogin.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Install-Take-Control-Proxy.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 4.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - Access Customers Computers.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LessMore.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Twitter.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_21x18.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_info.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/msp-anywhere.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/home.png</loc>
@@ -1162,525 +1126,561 @@
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/View-customers-system-info.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SupportExpress597.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ExportLink.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemoteControlMode.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Transfer-files-during-support-session.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Take-Control-Proxy.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/SaveButton.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Remote Session button 2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Wake-remote-computer.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Install App.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FAstep1.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-PIN-code.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Transfer-before-accepting-new-support-request.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessTechConsole.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/FeatureGuides.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/QuickStartDevicesPageNEW.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/cloud_upload.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/SessionOptionsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Linux PIN code.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Admin-area-homepage.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Using remote desktop.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacCommandsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Devices with Last Activity.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SecretsVaultPassword.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/BulletWhite.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QUickStart3(no screenshot).PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/info.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Remotely-access-Mac-devices.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/VaultPWAddSecret_462x337.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Search.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/ConnectDevice.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/activity-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownOpenSecondLevel.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemoteViewer(w PassPortal).png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/administrationlogo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Monitors-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Login.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionsPage.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Enable-multi-factor-authentication.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Active Users.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Commands-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Set-up-departments.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/turq-line.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownClosedSecondLevel.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-End-Users.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet2OnlineLight.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DeleteButton.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-and-manage- technicians.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart3.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 7.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddComputer.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SystemShellTab.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DeleteRenameIcons.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewSecretsVault.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/FileTransferQueue.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Audit-devices.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram_428x137.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Enhance-the-Agents-security.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CommandsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EditDevice.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/MSP_ANY_Quick-Start-Guide.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionOptionsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FAstep2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIexample2_504x161.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/AutomationManagerLogo_125x125.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-Passportal-vaults.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/FAQs.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-reports.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Remotely-access-Windows-devices.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Port-Fowarding.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/turq-line-bg.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Profile.htm</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AgentAppletConsole_367x163.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewRemoteViewerCallouts.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionMenu.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddNewComputer2.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Status bar.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ComputerMenu.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Use-Take-Control-Proxy.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/New-Remote-Viewer.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/server-tool_46x46.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TCMobileApp.PNG</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Enable-multi-factor-authentication.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/VaultPWAddSecret.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/PassportalLink.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacInteractionsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UpdatedDevicesPage.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_error.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/SecretsVaultsIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/FacebookIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InsertActivationCode.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Advanced Port Forward.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-Validation-API.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/pause.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-end-user-area.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/icon_info_flip.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/FooterBar.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/flag.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserTicket.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAgentSetup.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/AddPcToCompList.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/gear-outline-c_47x47.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Chat during remote session.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GenerateCallingCard.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/RunCommand.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpIcon3 (1).png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PassportalVault.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart5.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/BeAnywhereInstall.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Commands-Menu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Preferences.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SecretsVaultsIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Integration.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/turq-line-bg-nav.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TransferRequest1.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Learn-about-the-technician-console.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/msp-anywhere.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaLinks_103x20.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIExample1_475x224.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TopMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionMenuOptions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/globe_47x47.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/desktop-cog.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InteractionsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ProcessList.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddComputerPopUp.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-APIs.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/behind-the-scene-support-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GenerateAPI.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Viewer2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InstallMSPA.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-New-Session-API.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Call-Customers.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserComputerAccess.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Chat-with-customers-and-colleagues.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Set-up-the-Applet.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/VoIP call.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PermissionsTab.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/MSPA Quick Start 2.PNG</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/ulist_47x47.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ExportFromSysInfo_21x19.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/QuotationMark.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/software.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/desktop-cog-c.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/step-indicator_23x23.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChatIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/TableStyles/Simple.css</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UserIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Computer-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Devices page call outs_725x452.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/ContactIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Console footer.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TCremote_ipad.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/MSPA Conponents.PNG</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 1.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Reject-support-requests.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/environment-management-c.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/FilteredResults.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionsPerDay.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacViewMenu.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InsertPassword.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/OpenTechConsole.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram.PNG</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/pause.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/masterpages/homepage.flmsp</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/cloud_upload_47x47.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA_EndUserMessage.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaDevices.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedMenuOptions.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PreferencesMenu.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-surveys.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/File Transfer.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/StandardBASEProxy.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpGuideIcon_19x17.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddSecrets_452x329.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Chat-with-customers-and-colleagues.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/KeyFeatures.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DownloadCustomURL.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/End-User-guide.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpIcon2.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PassportalSearch.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionMenuOptions.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ActivateTwoFactorAuth.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ConnectionDetailsWindow.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart8.PNG</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewFileTransfer.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/View-pending-requests.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/step-indicator_23x23.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/turq-line-bg-nav.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/InfoIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Share-support-session-with-another-technician.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/SSO-User-guide.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Login.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Transfer-before-accepting-new-support-request.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Devices page call outs_725x452.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/exchange-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Add-devices-during-session.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AccessLogFiles.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Mac-View-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/GeneratePIN.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SupportExpress597.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-Email-templates.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewStatusBar.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 9.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/KnowledgeBaseArticleIcon_19x19.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - DL Tech Console.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Upgrade-your-account.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Take-Control-mobile-app.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Chat-with-customers-during-remote-sessions.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Image.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RemovalOfGeneralTab.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Add PC to computer list.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddPCtoComputerList.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet2Light.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserComputerAccess.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-deferred-support-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/LightModeDarkMode.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-APIs.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Default.mcwebhelp</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Set-up-departments.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Set-up-the-Applet.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Chat during remote session.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/configurationlogo.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Windows-Viewer-shortcuts.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/greater_60x22.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Home.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-audit-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/step-indicator.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/BulletWhite.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/New-Remote-Access.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/info.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EnterTwoFactorCode.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InsertPassword.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Call-Customers.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/image1.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QandAfromTheCommunity.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-My-Computers.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/tools-circle.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RecoveryCode.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ComputerOptions.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-FTP-connections.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EditKnowledgeType.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RecoveryCode_345x389.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/desktop-cog-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA_for_Techs.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Learn-about-the-technician-console.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/cloud_download.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/FooterBar.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/automate-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DirectBASEProxy.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/bitdefender.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Console call outs.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/PermissionsTab.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ConnectIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart2.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MacConnectionDetails.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ValidationAPIexample2.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-View-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DeleteButton.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/OptionsMenuDarkMode.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UpgradeTCPlus.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RunAs ScriptDeployment_439x170.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SecretsVaultPassword_344x388.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AgentAppletConsole.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-port-forwarding-on-the-Console.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Login.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-the-Commands-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/InsertActivationCode.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/data-archive-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EndUserTicket.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA_for Master-Admin.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AgemtConfig.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Using remote desktop.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-tech-performance-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart7.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddComputer.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/print.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ExpandWorlflow.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/Getting Started with MSP Anywhere_464x160.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/APIResponseFormat.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SystemShellTab.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/KeyIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/users.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Install-Take-Control-Proxy.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Password-secrets-vaults.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/DeleteDept.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/flag.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Use-panic-button.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/RequestDetails.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-End-Users.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Create-survey-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SystemDetailsTab.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/download.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ConnectionDetails.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpGuideIcon.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Devices page call outs.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Active Users.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-reports.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddSecrets.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MFA_Message.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/2FARecoveryCode.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Search.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/OnlineHelpIcon3 (1).png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Release-Notes.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/EUArea.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Generate-unattended-support-link.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Manage-your-account.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/PatchManagerLogo_125x125.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Transfer-files-during-support-session.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/warning.png</loc>
     </url>
     <url>
         <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SysInfoOptions.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Twitter.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AddComputerPopUp.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-basic-account-information.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/TableStyles/Standard.css</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/UrgentRequest_21x18.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Getting-started-with-Take-Control.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/FilteredResults.jpg</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Access-TakeControl-viewer.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/TwitterIcon.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/new icons/staff-circle.png</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Chat-with-customers-before-a remote-session.htm</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/View-pending-requests.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdminAreaPermissions.png</loc>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewSecretsVault_334x386.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Bullet2Online.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Interactions.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart8.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/PDF Cover.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Chat-with-colleagues.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ClickSecurity.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart Page 3.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TC-RemoteViewer.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/Session section.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/AdvancedMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/DropDownSmallOpen.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SessionOptions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/globe_47x47.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QS - Convering Tech Console.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/cloud_upload.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Configure-port-forwarding-for-Agents.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/Menu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/NewRemoteViewerCallouts.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChatWithSupport.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Take-Control-for-Mojave.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CreateEndUser.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SysShellAdvOptions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/icons/user-support-c.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/KnowledgeBaseArticleIcon.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/CHooseACallingCard.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/MSPA Diagram.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/SysDetails.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/ChatIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSPanywhere/TC-Devices.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.solarwindsmsp.com/takecontrol/documentation/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/QuickStart9.PNG</loc>
     </url>
 </urlset>
