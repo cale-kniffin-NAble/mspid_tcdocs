@@ -17,6 +17,8 @@
     <Link
       Url="Content/Create-and-deploy-Scripts.htm" />
     <Link
+      Url="Content/Generate-audit-report.htm" />
+    <Link
       Url="Content/Resources/Images/MSPanywhere/ToggleColumns.png" />
     <Link
       Url="Content/Resources/Images/new icons/ConnectDevice.png" />
@@ -40,6 +42,8 @@
       Url="Content/Audit-devices.htm" />
     <Link
       Url="Content/Create-and-deploy-Scripts.htm" />
+    <Link
+      Url="Content/Generate-audit-report.htm" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/ToggleColumns.png" />
     <Link

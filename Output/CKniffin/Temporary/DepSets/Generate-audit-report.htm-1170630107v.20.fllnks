@@ -9,11 +9,9 @@
     <Link
       Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
-      Url="Project/VariableSets/General.flvar" />
-    <Link
-      Url="Content/Audit-devices.htm" />
-    <Link
       Url="Content/Manage-devices.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/MonitorReport.png" />
     <Link
       Url="Content/Manage-your-account.htm" />
     <Link
@@ -23,11 +21,9 @@
     <Link
       Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
-      Url="Project/VariableSets/General.flvar" />
-    <Link
-      Url="Content/Audit-devices.htm" />
-    <Link
       Url="Content/Manage-devices.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/MonitorReport.png" />
     <Link
       Url="Content/Manage-your-account.htm" />
     <Link
@@ -38,10 +34,7 @@
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="General.CompanyName" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />
