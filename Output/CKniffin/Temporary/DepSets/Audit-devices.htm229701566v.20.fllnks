@@ -15,7 +15,7 @@
     <Link
       Url="Content/Create-and-deploy-Scripts.htm" />
     <Link
-      Url="Content/Alerts-and-Monitoring.htm" />
+      Url="Content/Generate-reports.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -27,7 +27,7 @@
     <Link
       Url="Content/Create-and-deploy-Scripts.htm" />
     <Link
-      Url="Content/Alerts-and-Monitoring.htm" />
+      Url="Content/Generate-reports.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />

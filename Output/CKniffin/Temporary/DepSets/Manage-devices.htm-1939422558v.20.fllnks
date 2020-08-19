@@ -17,6 +17,8 @@
     <Link
       Url="Content/Create-and-deploy-Scripts.htm" />
     <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
       Url="Content/Generate-audit-report.htm" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/ToggleColumns.png" />
@@ -43,6 +45,8 @@
     <Link
       Url="Content/Create-and-deploy-Scripts.htm" />
     <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
       Url="Content/Generate-audit-report.htm" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/ToggleColumns.png" />
@@ -68,7 +72,10 @@
   </Variables>
   <FileConditions />
   <FileTags />
-  <AllConditions />
+  <AllConditions>
+    <Condition
+      Tag="Exclude.comment" />
+  </AllConditions>
   <Stylesheets>
     <Url
       Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />

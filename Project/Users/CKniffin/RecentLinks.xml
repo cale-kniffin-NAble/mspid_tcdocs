@@ -4,6 +4,6 @@
         <Link Value="C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\MSPanywhere\MonitorReport.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="C:\Bitbucket\mspid_tcdocs\Content\TC-Release-notes.htm" />
+        <Link Value="C:\Bitbucket\mspid_tcdocs\Content\Generate-reports.htm" />
     </Dialog>
 </RecentLinks>

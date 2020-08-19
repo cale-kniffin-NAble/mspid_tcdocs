@@ -7,6 +7,8 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
       Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/Manage-devices.htm" />
@@ -18,6 +20,8 @@
       Url="Content/Alerts-and-Monitoring.htm" />
   </Links>
   <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
       Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
@@ -35,9 +39,15 @@
   <ConceptControlNames />
   <IndexControlNames />
   <Variables />
-  <FileConditions />
+  <FileConditions>
+    <Condition
+      Tag="Exclude.comment" />
+  </FileConditions>
   <FileTags />
-  <AllConditions />
+  <AllConditions>
+    <Condition
+      Tag="Exclude.comment" />
+  </AllConditions>
   <Stylesheets>
     <Url
       Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />

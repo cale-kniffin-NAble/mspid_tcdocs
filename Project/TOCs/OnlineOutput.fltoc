@@ -52,7 +52,8 @@
         Link="/Content/Audit-devices.htm" />
       <TocEntry
         Title="Learn about Alerts and Monitoring"
-        Link="/Content/Alerts-and-Monitoring.htm" />
+        Link="/Content/Alerts-and-Monitoring.htm"
+        conditions="Exclude.comment" />
     </TocEntry>
     <TocEntry
       Title="Configure your Profile"
@@ -141,7 +142,8 @@
         Link="/Content/Generate-session-report.htm" />
       <TocEntry
         Title="Generate an Audit Report"
-        Link="/Content/Generate-audit-report.htm" />
+        Link="/Content/Generate-audit-report.htm"
+        conditions="Exclude.comment" />
       <TocEntry
         Title="View the Script Jobs History Report"
         Link="/Content/View-script-jobs-history.htm" />

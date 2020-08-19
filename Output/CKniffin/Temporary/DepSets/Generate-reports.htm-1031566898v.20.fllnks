@@ -19,6 +19,8 @@
     <Link
       Url="Content/Generate-session-report.htm" />
     <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
       Url="Content/Generate-audit-report.htm" />
     <Link
       Url="Content/View-script-jobs-history.htm" />
@@ -39,6 +41,8 @@
     <Link
       Url="Content/Generate-session-report.htm" />
     <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
       Url="Content/Generate-audit-report.htm" />
     <Link
       Url="Content/View-script-jobs-history.htm" />
@@ -56,7 +60,10 @@
   </Variables>
   <FileConditions />
   <FileTags />
-  <AllConditions />
+  <AllConditions>
+    <Condition
+      Tag="Exclude.comment" />
+  </AllConditions>
   <Stylesheets>
     <Url
       Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
