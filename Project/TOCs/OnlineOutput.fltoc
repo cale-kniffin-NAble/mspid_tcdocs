@@ -45,6 +45,9 @@
       Title="Manage Devices"
       Link="/Content/Manage-devices.htm">
       <TocEntry
+        Title="Generate an MSI Installer"
+        Link="/Content/Generate-MSI-installer.htm" />
+      <TocEntry
         Title="Install the Linux Agent"
         Link="/Content/Install-Linux-Agent.htm" />
       <TocEntry

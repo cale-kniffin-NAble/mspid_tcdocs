@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Generate an MSI installer</h1>
+        <p>While adding a new device from the Devices page of the Admin Area, select the <b>Microsoft Windows MSI installer</b>option to mass deploy the Agent to multiple devices. </p>
+        <ol>
+            <li>In the <b>Operating System</b> section of the new device configuration window, select the <b>Microsoft Windows MSI</b> option.<br /><img src="Resources/Images/MSPanywhere/MSIinstaller.png" style="width: 502px;height: 357px;" /></li>
+            <li>Enter the <b>Customer Details</b>. </li>
+            <li>In the <b>Device Expiry</b> section, select <b>Device never expires</b>.</li>
+            <li>Click <b>Save</b> and the installer downloads in a new tab in your browser. </li>
+            <li>After the download is complete, open and deploy the MSI file with the appropriate parameters:<ol><li><b>Normal silent install</b>: msiexec /i /qn path_to_msi</li><li><b>Silent install of an instance</b>: msiexec /i /qn path_to_msi INSTANCE="instance_name"</li><li><b>Uninstall</b>: msiexec /uninstall path_to_msi<br /></li><p class="info">This option requires an MSI on disk.</p></ol></li>
+        </ol>
+        <p>The deployment pushes the MSI to a group policy controller which populates to all downstream devices and installs the Agent. </p>
+    </body>
+</html>

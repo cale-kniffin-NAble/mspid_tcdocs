@@ -27,6 +27,8 @@
     <Link
       Url="Content/Resources/Images/MSPanywhere/UpdatedDevicesPage.png" />
     <Link
+      Url="Content/Generate-MSI-installer.htm" />
+    <Link
       Url="Content/Resources/Images/MSPanywhere/EditDevice.png" />
     <Link
       Url="Content/Install-Linux-Agent.htm" />
@@ -54,6 +56,8 @@
       Url="Content/Resources/Images/new icons/ConnectDevice.png" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/UpdatedDevicesPage.png" />
+    <Link
+      Url="Content/Generate-MSI-installer.htm" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/EditDevice.png" />
     <Link

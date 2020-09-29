@@ -161,27 +161,30 @@
                                         <div role="main" id="mc-main-content">
                                             <div class="content">
                                                 <h1>Use the System Shell to support your customers</h1>
-                                                <p>There are some remote support and system administration tasks that do not require a full remote desktop connection. For these scenarios, a command line is not only faster and more flexible, but it also requires less bandwidth. There are also situations during support sessions, in which the remote graphical environment may be damaged or unresponsive. <span class="GeneralCompanyName">Take Control</span> provides an emulated command line that can speed up common tasks.</p>
+                                                <p>There are some remote support and system administration tasks that do not require a full remote desktop connection. For these scenarios, a command line is not only faster and more flexible, but it also requires less bandwidth. There are also situations during support sessions, in which the remote graphical environment may be damaged or unresponsive. <span class="GeneralCompanyName">Take Control</span> provides a real-time command line environment that can speed up common tasks.</p>
                                                 <p>You can use the System Shell as a standard windows CMD prompt or a Powershell prompt. Both options have full administrative privileges and can run batch files or WSH (Windows Scripting Host) scripts.</p>
+                                                <p>With the latest update to both the Command Prompt and PowerShell environments, the new interface contains  tools and capabilities such as, command history, tab-to-autocomplete, copy/paste, control-commands (CTRL/C to stop a ping, etc.) command shell colors. </p>
                                                 <h3>System Shell menu options<br /></h3>
-                                                <p>Select the Advanced Options menu to choose from actions to restart the shell or execute commands:</p>
+                                                <p>Select the <b>Advanced Options</b> menu to choose from actions to restart the shell or execute commands:</p>
                                                 <p>
-                                                    <img src="Resources/Images/MSPanywhere/SysShellAdvOptions.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;" />
+                                                    <img src="Resources/Images/MSPanywhere/ConfigCmdEnviro.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;" />
                                                 </p>
                                                 <ul>
                                                     <li value="1"><b>Restart Shell</b> – terminates the shell process and starts another. </li>
                                                     <li value="2"><b style="font-style: normal; font-weight: bold;">CTRL + Break</b> – stops a process from executing inside the shell, without terminating the shell.</li>
                                                     <li value="3"><b>Clear Output</b> – clears the current output of the shell.</li>
-                                                    <li value="4"><b>Run &gt; Run Local Batch</b> to execute a script loaded from the technician’s computer. This is compatible with any Windows Scripting Host languages.</li>
+                                                    <li value="4"><b>Run &gt; Run Local Batch</b> – executes a script loaded from the technician’s computer. This is compatible with any Windows Scripting Host languages.</li>
+                                                    <li value="5"><b>Start Interactive Command Prompt</b> – launches real-time command line environment.</li>
+                                                    <li value="6"><b>Start Interactive PowerShell</b> – launches real-time PowerShell environment.</li>
                                                 </ul>
                                                 <p class="info">For the Mac Remote Viewer, these options are available by clicking <b>End</b> at the bottom of the System Shell window. </p>
-                                                <p>The Shell Type option defines the type of shell to be executed. Changing from one type to another terminates the first type. It is not possible to have two shell types open simultaneously.</p>
+                                                <p>The <b>Shell Type</b> option defines the type of shell to be executed. Changing from one type to another terminates the first type. It is not possible to have two shell types open simultaneously.</p>
                                                 <p>
                                                     <img src="Resources/Images/MSPanywhere/PowerShellvsCmdPrompt.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;" />
                                                 </p>
                                                 <ul data-mc-continue="true">
-                                                    <li value="5"><b>Windows Powershell</b> – uses the Windows Powershell, if available. <span class="GeneralCompanyName">Take Control</span> is compatible with any version of Powershell.</li>
-                                                    <li value="6"><b>Standard Command Prompt</b> – uses the Windows Command Processor (cmd.exe).</li>
+                                                    <li value="7"><b>Windows PowerShell</b> – uses the Windows PowerShell, if available. <span class="GeneralCompanyName">Take Control</span> is compatible with any version of PowerShell.</li>
+                                                    <li value="8"><b>Standard Command Prompt</b> – uses the Windows Command Processor (cmd.exe).</li>
                                                 </ul>
                                                 <p class="info">For the Mac Remote Viewer, these options are available by clicking <b>Type</b> at the bottom of the System Shell window. </p>
                                                 <p>Click <img src="Resources/Images/new icons/RunCommand.png" style="width: 25px;height: 25px;" /> to execute the command. </p>
