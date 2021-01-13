@@ -161,197 +161,71 @@
                                         <div role="main" id="mc-main-content">
                                             <h1>Take Control Port Access requirements</h1>
                                             <p>The ports identified in the tables below must be accessible for <span class="GeneralCompanyName">Take Control</span>  remote control connections.</p>
-                                            <p class="nugget">Mac OS uses TCP Mode only.</p>
-                                            <h3>TCP Mode (Required)</h3>
-                                            <p>If the agent has a direct TCP port configured, the same port must be open at the agent's firewall and be accessible by the viewer.</p>
+                                            <p>If the agent has a direct TCP port configured, the same port must be open at the agent's firewall and be accessible by the viewer. </p>
+                                            <p>Additionally, <span class="GeneralCompanyName">Take Control</span> can use the UDP transmission model to connect to devices as well as TCP. Initially, the <span class="GeneralCompanyName">Take Control</span> Viewer requires access to port 1234. After the system administrator modifies the firewall to enable the identified IP addresses to communicate with the server, the ports can be random.</p>
+                                            <p class="nugget">MacOS uses TCP Mode only.</p>
                                             <table style="margin-left: 0;margin-right: auto;">
-                                                <col style="width: 480px;" />
+                                                <col style="width: 81px;" />
                                                 <col />
-                                                <col />
-                                                <col />
-                                                <col />
-                                                <thead>
-                                                    <tr style="height: 100px;">
-                                                        <th><b>Port number</b>
-                                                        </th>
-                                                        <th colspan="4" style="padding: 0px;">
-                                                            <table style="width: 100%;">
-                                                                <col />
-                                                                <thead>
-                                                                    <tr>
-                                                                        <th><b>Port Location</b>
-                                                                        </th>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <th style="padding: 0px;">
-                                                                            <table style="width: 100%;">
-                                                                                <col style="width: 182px;" />
-                                                                                <col />
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td><b>take control viewer</b>
-                                                                                        </td>
-                                                                                        <td><b>target device</b>
-                                                                                        </td>
-                                                                                    </tr>
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </th>
-                                                                    </tr>
-                                                                </thead>
-                                                                <tbody>
-                                                                    <tr>
-                                                                        <td style="padding: 0px;">
-                                                                            <table style="width: 100%;">
-                                                                                <col style="width: 104px;" />
-                                                                                <col style="width: 105px;" />
-                                                                                <col style="width: 121px;" />
-                                                                                <col />
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td style="font-weight: bold;">inbound</td>
-                                                                                        <td style="font-weight: bold;text-align: center;">outbound</td>
-                                                                                        <td style="font-weight: bold;">inbound</td>
-                                                                                        <td style="font-weight: bold;">outbound</td>
-                                                                                    </tr>
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </td>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </th>
-                                                    </tr>
-                                                </thead>
+                                                <col style="width: 115px;" />
+                                                <col style="width: 144px;" />
+                                                <col style="width: 343px;" />
                                                 <tbody>
-                                                    <tr style="height: 36px;">
-                                                        <td>
-                                                            <p>Port 80</p>
+                                                    <tr>
+                                                        <td style="border-left-style: solid;border-left-width: 1px;border-left-color: #ABD5E3;border-right-style: solid;border-right-width: 1px;border-right-color: #ABD5E3;border-top-style: solid;border-top-width: 2px;border-top-color: #ABD5E3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ABD5E3;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;text-align: center;font-weight: bold;">Port</td>
+                                                        <td style="text-align: center;font-weight: bold;">Protocol </td>
+                                                        <td style="text-align: center;font-weight: bold;">Service</td>
+                                                        <td style="text-align: center;font-weight: bold;">Direction</td>
+                                                        <td style="text-align: center;font-weight: bold;">
+                                                            <p>Description</p>
                                                         </td>
-                                                        <td>&#160;</td>
-                                                        <td style="text-align: center;"><b>Ö</b>
-                                                        </td>
-                                                        <td>&#160;</td>
-                                                        <td style="font-weight: bold;text-align: center;">Ö</td>
                                                     </tr>
-                                                    <tr style="height: 33px;">
+                                                    <tr>
                                                         <td>
-                                                            <p>Port 443</p>
+                                                            <p>80</p>
                                                         </td>
-                                                        <td>
-                                                            <p>&#160;</p>
-                                                        </td>
-                                                        <td style="text-align: center;"><b>Ö</b>
-                                                        </td>
-                                                        <td>&#160;</td>
-                                                        <td style="font-weight: bold;text-align: center;">Ö</td>
+                                                        <td>TCP</td>
+                                                        <td>-</td>
+                                                        <td>Outbound</td>
+                                                        <td>Required for HTTP connectivity</td>
                                                     </tr>
-                                                    <tr style="height: 69px;">
-                                                        <td>
-                                                            <p>Port 3377</p>
-                                                            <p class="info"><span class="GeneralCompanyName">Take Control</span> fails over to this port as an alternative connection method. </p>
-                                                        </td>
-                                                        <td>&#160;</td>
-                                                        <td style="text-align: center;"><b>Ö</b>
-                                                        </td>
-                                                        <td>&#160;</td>
-                                                        <td style="font-weight: bold;text-align: center;">Ö</td>
+                                                    <tr>
+                                                        <td>443</td>
+                                                        <td>TCP</td>
+                                                        <td>-</td>
+                                                        <td>Outbound</td>
+                                                        <td>Required for HTTP connectivity</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>1234</td>
+                                                        <td>UDP</td>
+                                                        <td>-</td>
+                                                        <td>Bidirectional</td>
+                                                        <td>Required for P2P connections</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>1235</td>
+                                                        <td>UDP</td>
+                                                        <td>-</td>
+                                                        <td>Bidirectional</td>
+                                                        <td>Required for P2P connections </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>3377</td>
+                                                        <td>TCP</td>
+                                                        <td>-</td>
+                                                        <td>Outbound</td>
+                                                        <td>Failover port where DPI is enabled</td>
                                                     </tr>
                                                 </tbody>
                                             </table>
+                                            <p class="info">If the agent has a direct TCP port configured, the same port must be open at the agent's firewall and be accessible by the Viewer.</p>
                                             <p>When using <span class="GeneralCompanyName">Take Control</span>, the SolarWinds N-central server must be able to resolve the following domain names:</p>
                                             <ul>
                                                 <li style="font-family: 'Courier New';" value="1">*.mspa.n-able.com</li>
                                                 <li value="2"><span style="font-family: 'Courier New';">sis.n-able.com</span>
                                                 </li>
                                             </ul>
-                                            <h3>UDP Mode (Optional)</h3>
-                                            <p><span class="GeneralCompanyName">Take Control</span> can use the UDP transmission model to connect to devices in addition to TCP.</p>
-                                            <p>Initially, the <span class="GeneralCompanyName">Take Control</span> viewer requires access to port 1234. After the system administrator modifies the firewall to enable the identified IP addresses to communicate with the server, the ports can be random.</p>
-                                            <table style="margin-left: 0;margin-right: auto;">
-                                                <col style="width: 148px;" />
-                                                <col />
-                                                <col />
-                                                <col />
-                                                <col />
-                                                <thead>
-                                                    <tr style="height: 100px;">
-                                                        <th><b>Port number</b>
-                                                        </th>
-                                                        <th colspan="4" style="padding: 0px;">
-                                                            <table style="width: 100%;">
-                                                                <col />
-                                                                <thead>
-                                                                    <tr>
-                                                                        <th><b>Port Location</b>
-                                                                        </th>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <th style="padding: 0px;">
-                                                                            <table style="width: 100%;">
-                                                                                <col style="width: 209px;" />
-                                                                                <col />
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td><b>take control viewer</b>
-                                                                                        </td>
-                                                                                        <td><b>target device</b>
-                                                                                        </td>
-                                                                                    </tr>
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </th>
-                                                                    </tr>
-                                                                </thead>
-                                                                <tbody>
-                                                                    <tr>
-                                                                        <td style="padding: 0px;">
-                                                                            <table style="width: 100%;">
-                                                                                <col style="width: 104px;" />
-                                                                                <col style="width: 105px;" />
-                                                                                <col style="width: 121px;" />
-                                                                                <col />
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <td style="font-weight: bold;">inbound</td>
-                                                                                        <td style="font-weight: bold;text-align: center;">outbound</td>
-                                                                                        <td style="font-weight: bold;">inbound</td>
-                                                                                        <td style="font-weight: bold;">outbound</td>
-                                                                                    </tr>
-                                                                                </tbody>
-                                                                            </table>
-                                                                        </td>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </th>
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
-                                                    <tr style="height: 36px;">
-                                                        <td>
-                                                            <p>Port 1234</p>
-                                                        </td>
-                                                        <td>&#160;</td>
-                                                        <td style="text-align: center;"><b>Ö</b>
-                                                        </td>
-                                                        <td>&#160;</td>
-                                                        <td style="font-weight: bold;text-align: center;">Ö</td>
-                                                    </tr>
-                                                    <tr style="height: 33px;">
-                                                        <td>
-                                                            <p>Port 1235</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>&#160;</p>
-                                                        </td>
-                                                        <td style="text-align: center;"><b>Ö</b>
-                                                        </td>
-                                                        <td>&#160;</td>
-                                                        <td style="font-weight: bold;text-align: center;">Ö</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
                                             <h3>What do you want to do?</h3>
                                             <ul>
                                                 <li value="1"><a href="Getting-started-with-Take-Control.htm" class="MCXref xref">Getting started with Take Control</a>

@@ -304,6 +304,9 @@
       Link="/Content/Remotely-access-Mac-devices.htm">
       <TocEntry
         Title="[%=System.LinkedTitle%]"
+        Link="/Content/Allow-remote-control-MacOS.htm" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
         Link="/Content/Mac-View-menu.htm" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"

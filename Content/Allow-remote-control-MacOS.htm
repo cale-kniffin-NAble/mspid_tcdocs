@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Configure MacOS to allow remote control sessions</h1>
+        <p>Apple has introduced a new security requirement for all remote support solutions as of MacOS 10.14 (Mojave) that limits Remote Access control on devices prior to user approval. Without approval, the Mac device will not allow interaction with the remote desktop and acts as if it is in View Only mode. </p>
+        <p>Additionally, accessing a MacOS 10.15 (Catalina) device with Take Control displays only a Please Wait message.</p>
+        <p>To allow remote control, make&#160;sure your Mac user has Admin Permissions&#160;and follow these steps on the device:</p>
+        <ol>
+            <li>Navigate to <b>System Preferences</b> &gt; <b>Security &amp; Privacy</b>.</li>
+            <li>Select the <b>Privacy</b> tab and click <b>Accessibility</b> from the list of items on the left. </li>
+            <li>Click the padlock icon in the bottom left corner to unlock and allow these settings to be edited. </li>
+            <li>Check the box next to the intended <b>Take Control Agent</b>: <MadCap:variable name="General.CompanyName" /> SolarWinds or TeamViewer, <MadCap:variable name="General.CompanyName" /> Applet or&#160;<MadCap:variable name="General.CompanyName" /> Agent.</li>
+            <p class="info">If the Take Control&#160;Agent&#160;is installed on the computer but not displayed in the list, perform the following steps:</p>
+            <ol style="list-style-type: lower-alpha;">
+                <li>Click the plus icon under the list and use the Finder to navigate to your <b>Applications folder</b>. </li>
+                <li>Select the relevant <MadCap:variable name="General.CompanyName" /> Agent and click <b>Open</b>.</li>
+                <li>The Agent/Applet should appear in the list, check the box next to it. </li>
+            </ol>
+            <li>Close the <b>Security &amp; Privacy</b> window to save your changes. </li>
+        </ol>
+    </body>
+</html>

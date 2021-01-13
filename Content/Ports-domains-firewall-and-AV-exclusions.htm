@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1><MadCap:variable name="General.CompanyName" /> ports, domains, firewall and AV-exclusions</h1>
+        <p>Delete this text and replace it with your own content.</p>
+        <p>1) the IP address lists are massive and dynamic. Not maintainable. We use autoscaling infrastructure and the address "Pool" is of no use</p>
+        <p>2 the the actual IP addresses point to intelligent devices - DB hosts, Machine instances, ELB / ALB load balancers - all of which has traffic directed programmatically- we can't share this. It's internal to the application protocols.</p>
+        <p>3) Any single "IP" represent an attack surface. As in point 2, IP addresses point to specific elements of our network; If mis-used, even by accident, the results could yeild  dreadful ramifications</p>
+        <p>4) the actual Gateways - the elements responsible for our global routing infrastructure - are not all AWS native - they're global and highly dynamic it is NOT possible to curate this list because the IP address is predicated by the geo location of the session host and recipient</p>
+    </body>
+</html>

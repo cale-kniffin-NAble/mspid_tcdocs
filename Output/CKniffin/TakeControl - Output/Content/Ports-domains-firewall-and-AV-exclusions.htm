@@ -12,7 +12,7 @@
 		})(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
         <meta charset="utf-8" />
         <meta name="description" content="" />
-        <meta name="author" content="" /><title>Hardware and software system requirements for Take Control</title>
+        <meta name="author" content="" /><title>Take Control ports, domains, firewall and AV-exclusions</title>
         <meta name="google-site-verification" content="YRX710dJ6U7xnU2cIklsVAdLzvVcR5pSo6zDOLkou5M" />
         <link href="../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" />
         <link href="../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" />
@@ -149,80 +149,16 @@
                                                     </button>
                                                 </div>
                                             </div>
-                                            <div class="nocontent">
-                                                <div class="MCBreadcrumbsBox_0 breadcrumbs" role="navigation" aria-label="Breadcrumbs" data-mc-breadcrumbs-divider=" &gt; " data-mc-breadcrumbs-count="3" data-mc-toc="True"><span class="MCBreadcrumbsPrefix"> &gt; </span>
-                                                </div>
-                                            </div>
                                         </div>
                                         <div class="sideContent">
-                                            <ul class="nocontent menu _Skins_SideMenu mc-component" data-mc-is-context-sensitive="True" data-mc-linked-toc="Data/Tocs/OnlineOutput.js" data-mc-side-menu="True" data-mc-max-depth="1" data-mc-include-icon="False" data-mc-include-indicator="False" data-mc-include-children="True" data-mc-include-siblings="True" data-mc-include-parent="True" data-mc-toc="True">
-                                            </ul>
                                         </div>
                                         <div role="main" id="mc-main-content">
-                                            <h1>Hardware and software system requirements for <span class="GeneralCompanyName">Take Control</span></h1>
-                                            <table style="margin-left: 0;margin-right: auto;">
-                                                <col style="width: 352px;" />
-                                                <col style="width: 741px;" />
-                                                <tbody>
-                                                    <tr>
-                                                        <td style="font-weight: bold;">Hardware &amp; Software</td>
-                                                        <td style="font-weight: bold;">Requirements</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Operating System - Technician Console</td>
-                                                        <td>
-                                                            <ul>
-                                                                <li value="1">Windows XP or later</li>
-                                                                <li value="2">MacOS 10.12 or later</li>
-                                                                <li value="3">Android 4.0 or later</li>
-                                                                <li value="4">iOS 9.0 or later</li>
-                                                            </ul>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Operating System - Agent</td>
-                                                        <td>
-                                                            <ul>
-                                                                <li value="1">Windows XP or later</li>
-                                                                <li value="2">MacOS 10.12 or later</li>
-                                                                <li value="3">Android 4.0 or later</li>
-                                                                <li value="4">iOS 9.0 or later</li>
-                                                                <li value="5">CentOS 7 and 8</li>
-                                                                <li value="6">Fedora 31 and 32</li>
-                                                                <li value="7">Debian 9 and 10</li>
-                                                                <li value="8">Ubuntu 18.04 and 20.04 (LTS variants)</li>
-                                                            </ul>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Network</td>
-                                                        <td>Ability to make direct outgoing TCP connections or availability of an HTTP proxy or a SOCKS server</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Hard drive space</td>
-                                                        <td>20 MB</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>CPU</td>
-                                                        <td>450 MHz</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>RAM</td>
-                                                        <td>128 MB</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                            <p class="warning">In Chrome version 77 and later, the checkbox for "always open these types of links in the associated app" is no longer displayed for URL custom protocols. The impact of this is that for all users on the Chrome browser, there is no longer an option to remember your protocol handling preferences, and the below dialog (or some variation, pending your local settings, etc) will be presented each time a <span class="GeneralCompanyName">Take Control</span> session is launched. This is, in no way a bug, or a fault. Further, there is nothing the <span class="GeneralCompanyName">Take Control</span> team can do to mitigate this. It is simply a change about how custom protocols are handled within the Chrome browser.</p>
-                                            <p class="info">Take Control  uses FIPS (140-2) compliant cryptographic library modules to help secure Windows® device to Windows device remote connections.</p>
-                                            <h3>Access to the <span class="GeneralCompanyName">Take Control</span> network</h3>
-                                            <p class="nugget"><span class="GeneralCompanyName">Take Control</span>'s list of IP addresses is very large and highly dynamic. Many IP address range's point towards the intelligent routing infrastructure that forms part of our global network. Additionally, it is not possible to curate a list of Gateway IP addresses – the components responsible for session connectivity. This type of IP address is negotiated upon session setup and is predicated by the geo-location of both the session host, the session recipient, as well as being subject to available network conditions. To get the best performance out of <span class="GeneralCompanyName">Take Control</span>, please make sure that there is no deep packet inspection applied to the <span class="GeneralCompanyName">Take Control</span> domains. On the Agents' networks, you can also create an exclusion on inspecting outbound traffic on the TCP port 3377.</p>
-                                            <h3>What do you want to do?</h3>
-                                            <ul>
-                                                <li value="1"><a href="Port-access-requirements.htm">Learn about <span class="GeneralCompanyName">Take Control</span> port access requirements for remote sessions </a>
-                                                </li>
-                                                <li value="1"><a href="Take-Control-for-Mojave.htm">Learn about <span class="GeneralCompanyName">Take Control</span> requirements for macOS 10.14 Mojave</a>
-                                                </li>
-                                            </ul>
+                                            <h1><span class="GeneralCompanyName">Take Control</span> ports, domains, firewall and AV-exclusions</h1>
+                                            <p>Delete this text and replace it with your own content.</p>
+                                            <p>1) the IP address lists are massive and dynamic. Not maintainable. We use autoscaling infrastructure and the address "Pool" is of no use</p>
+                                            <p>2 the the actual IP addresses point to intelligent devices - DB hosts, Machine instances, ELB / ALB load balancers - all of which has traffic directed programmatically- we can't share this. It's internal to the application protocols.</p>
+                                            <p>3) Any single "IP" represent an attack surface. As in point 2, IP addresses point to specific elements of our network; If mis-used, even by accident, the results could yeild  dreadful ramifications</p>
+                                            <p>4) the actual Gateways - the elements responsible for our global routing infrastructure - are not all AWS native - they're global and highly dynamic it is NOT possible to curate this list because the IP address is predicated by the geo location of the session host and recipient</p>
                                         </div>
                                         <p>
                                             <!-- Google Analytics -->

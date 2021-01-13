@@ -8,6 +8,8 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
+      Url="Content/Allow-remote-control-MacOS.htm" />
+    <Link
       Url="Content/Resources/Images/new icons/SessionOptionsMenu.png" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/SessionOptions.png" />
@@ -41,6 +43,8 @@
   <LongLinks>
     <Link
       Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Allow-remote-control-MacOS.htm" />
     <Link
       Url="Content/Resources/Images/new icons/SessionOptionsMenu.png" />
     <Link
