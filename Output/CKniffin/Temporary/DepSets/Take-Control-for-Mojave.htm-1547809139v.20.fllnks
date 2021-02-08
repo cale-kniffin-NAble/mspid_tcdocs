@@ -11,6 +11,8 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
+      Url="Content/Resources/Images/MSPanywhere/TCMacScreenRecording.png" />
+    <Link
       Url="Content/Getting-started-with-Take-Control.htm" />
     <Link
       Url="Content/Provide-assistance-to-customers.htm" />
@@ -20,6 +22,8 @@
       Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/TCMacScreenRecording.png" />
     <Link
       Url="Content/Getting-started-with-Take-Control.htm" />
     <Link

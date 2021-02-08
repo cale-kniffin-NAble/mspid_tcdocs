@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPanywhere/TCMacScreenRecording.png" />
     <Url Source="Resources/Images/MSPanywhere/NewPIN.png" />
     <Url Source="Resources/Images/MSPanywhere/MSIinstaller.png" />
     <Url Source="Resources/Images/MSPanywhere/ConfigCmdEnviro.png" />
