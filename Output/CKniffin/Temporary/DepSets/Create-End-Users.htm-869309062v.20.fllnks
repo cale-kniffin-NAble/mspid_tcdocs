@@ -9,11 +9,11 @@
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Access-end-user-area.htm" />
     <Link
-      Url="https://www.solarwindsmsp.com/products/take-control" />
+      Url="https://www.n-able.com/products/take-control" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
@@ -25,11 +25,11 @@
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Access-end-user-area.htm" />
     <Link
-      Url="https://www.solarwindsmsp.com/products/take-control" />
+      Url="https://www.n-able.com/products/take-control" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
@@ -44,7 +44,11 @@
   <IndexControlNames />
   <Variables>
     <Variable
+      Name="URLs.CompanyURL" />
+    <Variable
       Name="General.CompanyName" />
+    <Variable
+      Name="General.Company_sso" />
   </Variables>
   <FileConditions>
     <Condition
@@ -55,8 +59,5 @@
     <Condition
       Tag="Exclude.Comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

@@ -2,45 +2,179 @@
 <CatapultVariableSet
   conditions="">
   <Variable
-    Name="Phone"
-    Comment=""
-    Definition="Some text">Phone 123-456-7890</Variable>
-  <Variable
     Name="CompanyName"
     Comment=""
     Definition="Some text"
     EvaluatedDefinition="Take Control">Take Control</Variable>
   <Variable
-    Name="StreetAddress"
-    Comment=""
-    Definition="Some text"
-    OriginalName="StreetAddress">1234 Lorem Ipsum</Variable>
-  <Variable
-    Name="CityStateZip"
-    Comment=""
-    Definition="Some text">La Jolla, CA 92037</Variable>
-  <Variable
     Name="ProductName"
     Comment=""
     OriginalName="ProductName">FictionSoft Pro</Variable>
   <Variable
-    Name="Tollfree"
-    Comment=""
-    OriginalName="Tollfree">Tollfree 1-234-567-890</Variable>
-  <Variable
-    Name="Fax"
-    Comment=""
-    OriginalName="Fax">Fax 123-987-654</Variable>
-  <Variable
     Name="PDFGuideTitle"
     Comment="">PDF Guide A</Variable>
   <Variable
-    Name="VersionNumber"
-    OriginalName="VersionNumberDot">1.0</Variable>
-  <Variable
-    Name="Year"
+    Name="ProductName_rmm"
     Comment=""
-    Type="DateTime"
-    LastUpdated="2015-12-31T09:25:54.5232336-08:00"
-    EvaluatedDefinition="yyyy">yyyy</Variable>
+    EvaluatedDefinition="N-able Remote Monitoring &amp; Management">N-able Remote Monitoring &amp; Management</Variable>
+  <Variable
+    Name="ProductName_rmm_short"
+    Comment=""
+    EvaluatedDefinition="N-able RMM">N-able RMM</Variable>
+  <Variable
+    Name="Company"
+    Comment=""
+    EvaluatedDefinition="N-able">N-able</Variable>
+  <Variable
+    Name="CompanySSO"
+    Comment=""
+    EvaluatedDefinition="N-able">N-able</Variable>
+  <Variable
+    Name="ProductName_tc"
+    Comment=""
+    EvaluatedDefinition="Take Control">Take Control</Variable>
+  <Variable
+    Name="ProductName_rmm_acronym"
+    Comment=""
+    EvaluatedDefinition="N-able Remote Monitoring &amp; Management (RMM)">N-able Remote Monitoring &amp; Management (RMM)</Variable>
+  <Variable
+    Name="ProductName_br_ui_element"
+    Comment=""
+    EvaluatedDefinition="Backup &amp; Recovery">Backup &amp; Recovery</Variable>
+  <Variable
+    Name="ProductName_bu"
+    Comment=""
+    EvaluatedDefinition="N-able Backup">N-able Backup</Variable>
+  <Variable
+    Name="CustomerSuccessCenter"
+    Comment=""
+    EvaluatedDefinition="Partner Success Center">Partner Success Center</Variable>
+  <Variable
+    Name="ProductName_tc-ui_element"
+    Comment=""
+    EvaluatedDefinition="Take Control">Take Control</Variable>
+  <Variable
+    Name="ProductName_ma"
+    Comment=""
+    EvaluatedDefinition="N-able Mail Assure">N-able Mail Assure</Variable>
+  <Variable
+    Name="ProductName_mspm"
+    Comment=""
+    EvaluatedDefinition="N-able MSP Manager">N-able MSP Manager</Variable>
+  <Variable
+    Name="ProductName_mspm_short"
+    Comment=""
+    EvaluatedDefinition="MSP Manager">MSP Manager</Variable>
+  <Variable
+    Name="ProductName_ri"
+    Comment=""
+    EvaluatedDefinition="Risk Intelligence">Risk Intelligence</Variable>
+  <Variable
+    Name="ProductName_nc"
+    Comment=""
+    EvaluatedDefinition="N-able N-central">N-able N-central</Variable>
+  <Variable
+    Name="ProductName_tc-tv"
+    Comment=""
+    EvaluatedDefinition="Take Control (TeamViewer)">Take Control (TeamViewer)</Variable>
+  <Variable
+    Name="ProductName_tc-sw"
+    Comment=""
+    EvaluatedDefinition="Take Control (N-able)">Take Control (N-able)</Variable>
+  <Variable
+    Name="FeatureRequestPage"
+    Comment=""
+    EvaluatedDefinition="Ideas Forum">Ideas Forum</Variable>
+  <Variable
+    Name="ProductName_nc_short"
+    Comment=""
+    EvaluatedDefinition="N-central">N-central</Variable>
+  <Variable
+    Name="DashboardName_rmm"
+    Comment=""
+    EvaluatedDefinition="N-able RMM Dashboard">N-able RMM Dashboard</Variable>
+  <Variable
+    Name="ProductName_br"
+    Comment=""
+    EvaluatedDefinition="N-able Backup &amp; Recovery">N-able Backup &amp; Recovery</Variable>
+  <Variable
+    Name="ProductName_tc-sa"
+    Comment=""
+    EvaluatedDefinition="Take Control (Standalone)">Take Control (Standalone)</Variable>
+  <Variable
+    Name="ProductName_tc-sa-Long"
+    Comment=""
+    EvaluatedDefinition="N-able Take Control (Standalone)">N-able Take Control (Standalone)</Variable>
+  <Variable
+    Name="ProductName_tc_long"
+    Comment=""
+    EvaluatedDefinition="N-able Take Control">N-able Take Control</Variable>
+  <Variable
+    Name="ProductName_tcp"
+    Comment=""
+    EvaluatedDefinition="N-able Take Control Plus">N-able Take Control Plus</Variable>
+  <Variable
+    Name="ProductName_tcp-sa"
+    Comment=""
+    EvaluatedDefinition="N-able Take Control Plus (Standalone)">N-able Take Control Plus (Standalone)</Variable>
+  <Variable
+    Name="ProductName_tcp-sa_short"
+    Comment=""
+    EvaluatedDefinition="Take Control Plus (Standalone)">Take Control Plus (Standalone)</Variable>
+  <Variable
+    Name="ProductName_tcp_short"
+    Comment=""
+    EvaluatedDefinition="Take Control Plus">Take Control Plus</Variable>
+  <Variable
+    Name="ProductName_tc-v"
+    Comment=""
+    EvaluatedDefinition="Take Control Viewer">Take Control Viewer</Variable>
+  <Variable
+    Name="Company_sso"
+    Comment="Single Sign On"
+    EvaluatedDefinition="N-able SSO">N-able SSO</Variable>
+  <Variable
+    Name="ProductName_msp_rmm_acronym"
+    Comment=""
+    EvaluatedDefinition="MSP Remote Monitoring &amp; Management (MSP RMM)">MSP Remote Monitoring &amp; Management (MSP RMM)</Variable>
+  <Variable
+    Name="ProductName_msp_cn"
+    Comment=""
+    EvaluatedDefinition="MSP Connect">MSP Connect</Variable>
+  <Variable
+    Name="ProductName_sd"
+    Comment=""
+    EvaluatedDefinition="N-able Service Desk">N-able Service Desk</Variable>
+  <Variable
+    Name="email_info"
+    Comment=""
+    EvaluatedDefinition="mspinfo@n-able.com">mspinfo@n-able.com</Variable>
+  <Variable
+    Name="email_sales"
+    Comment=""
+    EvaluatedDefinition="mspsales@n-able.com">mspsales@n-able.com</Variable>
+  <Variable
+    Name="email_billing"
+    Comment=""
+    EvaluatedDefinition="billing@n-able.com">billing@n-able.com</Variable>
+  <Variable
+    Name="email_tc"
+    Comment=""
+    EvaluatedDefinition="mailer.takecontrol@n-able.com">mailer.takecontrol@n-able.com</Variable>
+  <Variable
+    Name="email_@"
+    Comment=""
+    EvaluatedDefinition="@n-able.com">@n-able.com</Variable>
+  <Variable
+    Name="IdeasWebsite"
+    Comment="Used in one topic that specifically address not receiving email from ideas.solarwinds.com"
+    EvaluatedDefinition="ideas.n-able.com">ideas.n-able.com</Variable>
+  <Variable
+    Name="email_ideas"
+    Comment="Not sure if this will be valid with N-able rebrand."
+    EvaluatedDefinition="noreply@ideascale.com">noreply@ideascale.com</Variable>
+  <Variable
+    Name="Company_ui_element"
+    Comment="SolarWinds/N-able used as a clickable item"
+    EvaluatedDefinition="N-able">N-able</Variable>
 </CatapultVariableSet>

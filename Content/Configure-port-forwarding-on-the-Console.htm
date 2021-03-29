@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Provide Assistance to Your Customers|Configure Port Forwarding" MadCap:lastBlockDepth="17" MadCap:lastHeight="484" MadCap:lastWidth="1252" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <head>
-        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
-    </head>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Provide Assistance to Your Customers|Configure Port Forwarding" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <h1>Configure port forwarding on the Console</h1>
         <ol>
             <li value="1">During a support session, click <img src="Resources/Images/MSPanywhere/AdvancedMenu.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;width: 16px;height: 17px;" />  &gt; <b>Port Forward</b> &gt; <b>New</b>.<br /></li>
             <li value="2">In the new window, there are three mandatory parameters:<ol><li value="1"><b>Local Port</b> – the local port number where <MadCap:variable name="General.CompanyName" /> console listens for incoming TCP connections that are forwarded to the remote network. The local port is the port belonging to the machine where the console is running. In order to avoid conflicts, use 0 and a free port is assigned automatically. It is also possible to insert a port range using the following syntax: startport-endport (i.e. 5000-5100). This is useful for <a href="Configure-FTP-connections.htm" class="MCXref xref" xrefformat="{paratext}">Configure an FTP connection</a>. Confirm that range is free on the local machine when using a port range. </li><li value="2"><b>Remote Host</b> – the DNS or IP address where the remote service is located. If the service is on the machine hosting the <MadCap:variable name="General.CompanyName" /> sessions, use localhost or 127.0.0.1. </li><li value="3"><b>Remote Port</b> – the remote service monitors this port for connections. <span class="GeneralCompanyName">Take Control</span> needs both the remote host and the remote port values in order to determine where to route local traffic. Do not use a range on this field. If you insert a port range in the Local Port, that range is forwarded to the remote computer starting from the port defined here. For instance, if the Local port range is 5000-5100, with 1000 set as the remote port, <MadCap:variable name="General.CompanyName" /> forwards the local traffic to 1000-1099 on the remote computer.</li></ol></li>
             <li value="3">Select <b>Enable</b> and click <b>OK</b>. Not having the Enable box checked saves the port forward but you will need to activate it before use.<br /></li>
-            <li value="4"><MadCap:variable name="General.CompanyName" /> also allows you to setup a specific app to be associated with a specific port forward. While any application can use the forwards configured using this feature, this allows you to invoke pre-configured programs from the console. To add an application, click on the folder icon, immediately to the right of the Run Application option.</li>
+            <li value="4">
+                <MadCap:variable name="General.CompanyName" /> also allows you to setup a specific app to be associated with a specific port forward. While any application can use the forwards configured using this feature, this allows you to invoke pre-configured programs from the console. To add an application, click on the folder icon, immediately to the right of the Run Application option.</li>
             <li value="5">Enter the Application Parameters to pass parameters to the application, like the remote address.</li>
             <li value="6">Click <b>OK</b>. </li>
         </ol>
-        <h3>What do you want to do?</h3>
+        <h2>What do you want to do?</h2>
         <ul>
-            <li value="1"><a href="Configure-port-forwarding-for-Agents.htm" class="MCXref xref" xrefformat="{paratext}">Configure port forwarding on the Agent (windows only)</a>
+            <li value="1">
+                <a href="Configure-port-forwarding-for-Agents.htm" class="MCXref xref" xrefformat="{paratext}">Configure port forwarding on the Agent (windows only)</a>
             </li>
-            <li value="2"><a href="Access-TakeControl-viewer.htm" class="MCXref xref" xrefformat="{paratext}">Access the <MadCap:variable name="General.CompanyName" /> console during a support session</a>
+            <li value="2">
+                <a href="Access-TakeControl-viewer.htm" class="MCXref xref" xrefformat="{paratext}">Access the <MadCap:variable name="General.CompanyName" /> console during a support session</a>
             </li>
         </ul>
     </body>

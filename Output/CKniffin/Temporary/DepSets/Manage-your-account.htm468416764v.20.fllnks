@@ -7,8 +7,6 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Create-and-manage- technicians.htm" />
     <Link
       Url="Content/Enable-multi-factor-authentication.htm" />
@@ -28,8 +26,6 @@
       Url="Content/Password-secrets-vaults.htm" />
   </Links>
   <LongLinks>
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/Create-and-manage- technicians.htm" />
     <Link
@@ -58,8 +54,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

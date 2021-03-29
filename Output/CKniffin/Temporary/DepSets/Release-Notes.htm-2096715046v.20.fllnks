@@ -8,15 +8,11 @@
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Project/VariableSets/General.flvar" />
   </Links>
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/General.flvar" />
   </LongLinks>
@@ -38,8 +34,5 @@
     <Condition
       Tag="Exclude.comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

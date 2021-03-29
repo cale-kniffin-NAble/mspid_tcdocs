@@ -27,8 +27,6 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Configure-basic-account-information.htm" />
     <Link
       Url="Content/Create-Email-templates.htm" />
@@ -61,8 +59,6 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Configure-basic-account-information.htm" />
     <Link
       Url="Content/Create-Email-templates.htm" />
@@ -84,8 +80,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

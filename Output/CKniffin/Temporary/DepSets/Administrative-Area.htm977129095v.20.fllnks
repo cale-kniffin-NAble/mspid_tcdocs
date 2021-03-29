@@ -30,8 +30,6 @@
     <Link
       Url="Skins/Fluid/Stylesheets/Mobile.css" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Skins/Default/Stylesheets/Images/home_1.png" />
     <Link
       Url="Resources/Scripts/PIE-no-motw.htc" />
@@ -87,8 +85,6 @@
       Url="Skins/Fluid/Stylesheets/Tablet.css" />
     <Link
       Url="Skins/Fluid/Stylesheets/Mobile.css" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Skins/Default/Stylesheets/Images/home_1.png" />
     <Link
@@ -154,7 +150,5 @@
       Source="Skins/Fluid/Stylesheets/Tablet.css" />
     <Url
       Source="Skins/Fluid/Stylesheets/Mobile.css" />
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

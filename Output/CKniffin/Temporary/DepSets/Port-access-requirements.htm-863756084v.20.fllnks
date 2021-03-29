@@ -28,6 +28,8 @@
   <Variables>
     <Variable
       Name="General.CompanyName" />
+    <Variable
+      Name="General.ProductName_nc" />
   </Variables>
   <FileConditions />
   <FileTags />

@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Administrative Area|Configure your Profile|Configure APIs" MadCap:lastBlockDepth="17" MadCap:lastHeight="3311" MadCap:lastWidth="1312" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Administrative Area|Configure your Profile|Configure APIs" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="products" content="MSP Anywhere;" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta charset="utf-8" />
         <meta name="description" content="" />
-        <meta name="author" content="" /><title>Configure the Validation API</title>
+        <meta name="author" content="" />
+        <title>Configure the Validation API</title>
         <style>/*<![CDATA[*/
 /*&lt;meta /&gt;*/
 .button.home-button
@@ -54,12 +55,12 @@
 
  
 
-/*]]>*/</script><link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" /></head>
+/*]]>*/</script></head>
     <body>
         <h1>Configure the Validation API</h1>
         <p>This API allows <MadCap:variable name="General.CompanyName" /> customers to pre-process the data gathered through the <MadCap:variable name="General.CompanyName" /> Applet prior to the creation of a support request. This pre-processing action provides the ability to validate the client’s data, forward support requests to the right departments or technicians, compare information with the database and automatically identify a client.</p>
         <p>The pre-processing acts as a “webservice”, apart from the <MadCap:variable name="General.CompanyName" /> structure, that must be in compliance with the terms of the present document. That service will be published by the <MadCap:variable name="General.CompanyName" />  client on it's own infrastructure and should be available through via internet access. The corresponding URL is configured by the client. The communication between the  <MadCap:variable name="General.CompanyName" /> Applet and the service can be executed in HTTP - or HTTPS for stronger security.</p>
-        <h3>Input Parameters</h3>
+        <h2>Input Parameters</h2>
         <p>These parameters can be submitted by GET or by POST, depending on the options configured in the <span class="GeneralCompanyName">Take Control</span> Admin Area. Clicking the SUBMIT button to send this form and gather client’s data from the Applet and send it to the webservice.</p>
         <p>
             <img src="Resources/Images/MSPanywhere/ValidationAPIparameters.png" />
@@ -67,13 +68,14 @@
         <p>
             <img src="Resources/Images/MSPanywhere/ValidationAPIparameters2.png" />
         </p>
-        <h3>Response Format</h3>
+        <h2>Response Format</h2>
         <p> This response will be interpreted by the <span class="GeneralCompanyName">Take Control</span> Applet and controls the Applet’s form behavior. Below is a list of the available tags for the response. Depending on the context, not all tags can be specified or will be interpreted simultaneously.</p>
         <p>
             <img src="Resources/Images/MSPanywhere/APIResponseFormat.png" />
         </p>
-        <h3>Tags</h3>
-        <p><b>SUBMIT_SUPPORT_REQUEST (MANDATORY, BOOLEAN)</b>
+        <h2>Tags</h2>
+        <p>
+            <b>SUBMIT_SUPPORT_REQUEST (MANDATORY, BOOLEAN)</b>
         </p>
         <p>This tag is mandatory and determines whether the support request should be created or not. the allowed values are TRUE and FALSE.</p>
         <p style="font-weight: bold;">REQUEST_ROUTE (OPTIONAL)</p>
@@ -99,11 +101,13 @@
         <p>
             <img src="Resources/Images/MSPanywhere/ValidationAPIexample2_504x161.png" style="width: 504;height: 161;" />
         </p>
-        <h3>What do you want to do?</h3>
+        <h2>What do you want to do?</h2>
         <ul>
-            <li value="1"><a href="Configure-New-Session-API.htm">Configure the New Session API</a>
+            <li value="1">
+                <a href="Configure-New-Session-API.htm">Configure the New Session API</a>
             </li>
-            <li value="2"><a href="Configure-Deferred-Support-request-API.htm">Configure the Deferred Support request API</a>
+            <li value="2">
+                <a href="Configure-Deferred-Support-request-API.htm">Configure the Deferred Support request API</a>
             </li>
         </ul>
     </body>

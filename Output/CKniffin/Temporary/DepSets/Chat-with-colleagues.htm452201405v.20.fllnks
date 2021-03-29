@@ -7,8 +7,6 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Resources/Images/MSPanywhere/ChatIcon.png" />
     <Link
       Url="Content/Provide-assistance-to-customers.htm" />
@@ -18,8 +16,6 @@
       Url="Content/Remotely-access-Windows-devices.htm" />
   </Links>
   <LongLinks>
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/ChatIcon.png" />
     <Link
@@ -38,8 +34,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

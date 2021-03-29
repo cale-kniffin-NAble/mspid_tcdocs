@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <meta name="google-site-verification" content="YRX710dJ6U7xnU2cIklsVAdLzvVcR5pSo6zDOLkou5M" /><title></title>
+    </head>
+    <!-- Desktop navigation outside of body -->
+    <div class="navigation-container-desktop">
+        <MadCap:snippetText src="../Snippets/N-ABLE/TopNavigation.flsnp" />
+        <div class="search-filler">
+            <div class="search-filler-right">&#160;
+			</div>
+        </div>
+        <div class="search-container-layout">
+            <div class="search-container"><a name="Search"></a>
+                <div class="banner-container">
+                    <div class="name-container-desktop">
+                        <p><a href="../../../[%=URLs.CurrentStartPage%]" title="Home" alt="Home"><MadCap:variable name="Documents.ProductShortName" /></a>
+                        </p>
+                        <p><a href="../../../[%=URLs.CurrentStartPage%]" title="Home" alt="Home"><span class="N-ablePink"><MadCap:variable name="Documents.DocumentType" /></span></a>
+                        </p>
+                    </div>
+                </div>
+                <div class="search-bar-container">
+                    <MadCap:searchBarProxy data-mc-skin="/Project/Skins/N-ABLE_SearchBar.flskn" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <body>
+        <!-- Mobile navigation inside of body -->
+        <div class="navigation-container-mobile">
+            <MadCap:snippetText src="../Snippets/N-ABLE/TopNavigation.flsnp" />
+            <div class="search-filler">
+                <div class="search-filler-right">&#160;
+				</div>
+            </div>
+            <div class="search-container-layout">
+                <div class="search-container"><a name="Search"></a>
+                    <div class="banner-container">
+                        <div class="name-container-desktop">
+                            <p><a href="../../../[%=URLs.CurrentStartPage%]" title="Home" alt="Home"><MadCap:variable name="Documents.ProductShortName" /></a>
+                            </p>
+                            <p><a href="../../../[%=URLs.CurrentStartPage%]" title="Home" alt="Home"><span class="N-ablePink"><MadCap:variable name="Documents.DocumentType" /></span></a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="search-bar-container">
+                        <MadCap:searchBarProxy data-mc-skin="/Project/Skins/N-ABLE_SearchBar.flskn" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="name-container-mobile">
+                <p><a href="../../../[%=URLs.CurrentStartPage%]" title="Home" alt="Home"><MadCap:variable name="Documents.ProductShortName" />&#160;<span class="N-ablePink"><MadCap:variable name="Documents.DocumentType" /></span></a>
+                </p>
+            </div>
+            <MadCap:bodyProxy />
+            <!-- Google Analytics -->
+            <script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+					j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+					'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-N4L3FXR');/*]]>*/</script>
+        </div>
+        <MadCap:snippetText src="../Snippets/N-ABLE/BottomNavigation.flsnp" />
+    </body>
+</html>

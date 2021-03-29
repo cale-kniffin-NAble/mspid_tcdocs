@@ -1,0 +1,1439 @@
+/*<meta />*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,500;1,700;1,900&display=swap');
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+:root
+{
+	--Black: #000000;
+	--White: #ffffff;
+	--GrayLight: #eeeeee;
+	--GrayDarkest: #282729;
+	--PurpleDark: #9641c0;
+	--PinkMedium: #c046ff;
+	--LetterSpacing: 1px;
+	--FontFamilyPrimary: 'Roboto', Arial, sans-serif;
+	--FontSizeNormal: .9rem;
+	--FontSizeSmaller: .7rem;
+	--FontSizeLarger: 1.1rem;
+	--LineHeightNormal: 1.2rem;
+	--LineHeightSmaller: 1rem;
+	--LineHeightLarger: 1.5rem;
+}
+
+/* Overrides to remove the default navigation items not used in the output. */
+
+div.menu-icon-container
+{
+	display: none;
+	mc-hidden: hidden;
+}
+
+div.row.outer-row.sidenav-layout
+{
+	max-width: 100%;
+	padding-top: 0;
+	mc-hidden: hidden;
+}
+
+div.off-canvas-wrapper-inner
+{
+	max-width: 1200px;
+	margin: auto;
+	mc-hidden: hidden;
+}
+
+/* No shadowing on main text container */
+
+div.inner-wrap
+{
+	border: none;
+	box-shadow: none;
+	max-width: 100%;
+	margin: auto;
+	mc-hidden: hidden;
+}
+
+div.main-section
+{
+	max-width: 100%;
+	margin: auto;
+	mc-hidden: hidden;
+}
+
+/* Disable skin navigation components */
+
+nav.sidenav-container,
+nav.title-bar,
+div.navigation-wrapper
+{
+	display: none;
+	mc-hidden: hidden;
+}
+
+div.height-container-sidenav,
+div.row.outer-row.sidenav-layout
+{
+	margin: 0;
+	padding: 0;
+	mc-hidden: hidden;
+}
+
+/* Switch between navigation layouts in desktop and tablet/mobile. */
+
+div.navigation-container-desktop
+{
+	display: block;
+	mc-hidden: hidden;
+}
+
+div.navigation-container-mobile
+{
+	display: none;
+	mc-hidden: hidden;
+}
+
+/* Maximum width on text; other components must be set to this value too. */
+
+div.body-container
+{
+	max-width: 1200px;
+	margin: auto;
+	mc-hidden: hidden;
+}
+
+/* Container for side menu */
+
+div.sideContent
+{
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	width: 30%;
+	mc-hidden: hidden;
+}
+
+body.NoSideMenu div.sideContent
+{
+	display: none;
+	mc-hidden: hidden;
+}
+
+/* Hide iframe on search results page. */
+
+html[data-mc-runtime-file-type*="Search"] iframe
+{
+	display: none;
+	mc-hidden: hidden;
+}
+
+/* Contains all of the customized top navigation divs. */
+
+nav.top-navigation-layout
+{
+	box-sizing: border-box;
+	width: 100%;
+	height: 80px;
+	position: absolute;
+	top: 0;
+	background-color: #282729;
+	z-index: 5;
+	mc-hidden: hidden;
+}
+
+div.top-navigation-container
+{
+	margin: auto;
+	box-sizing: border-box;
+	max-width: 1200px;
+	height: 80px;
+	padding: 0 15px;
+	background-color: transparent;
+	mc-hidden: hidden;
+}
+
+/* Top-most Partner Success link. */
+
+div.top-link-container
+{
+	width: 100%;
+	height: 25px;
+	background-color: #000000;
+	mc-hidden: hidden;
+}
+
+div.top-link
+{
+	margin: auto;
+	max-width: 1200px;
+	background-color: transparent;
+	height: 25px;
+	padding: 0 15px;
+	mc-hidden: hidden;
+}
+
+div.top-link p
+{
+	float: right;
+	font-size: 13px;
+	line-height: 13px;
+	font-family: 'Roboto', Arial, sans-serif;
+	color: #ffffff;
+	letter-spacing: 1px;
+	text-align: right;
+	margin: 0;
+	padding: 7px 0 0 0;
+	mc-hidden: hidden;
+}
+
+div.top-link p a:link,
+div.top-link p a:visited,
+div.top-link p a:active
+{
+	color: #ffffff;
+	text-decoration: none;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li > ul > li a:link
+{
+	padding: 2px 0;
+	font-weight: normal;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li a:link
+{
+	padding: 80px 0 10px 0;
+}
+
+div.top-link p a:hover
+{
+	color: #ffffff;
+}
+
+ul.menu._Skins_N_ABLE_SideMenu.mc-component li > a:hover
+{
+	border-bottom: 1px solid #282729;
+	/* text-decoration: underline; */
+	color: #282729;
+	background-color: transparent;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component li a:hover
+{
+	color: #c046ff;
+	mc-hidden: hidden;
+}
+
+div.links-menu div.text-link a:hover
+{
+	color: #c046ff;
+	text-decoration: none;
+	mc-hidden: hidden;
+}
+
+/* Holder for logo image because the logo in the skin is not used. */
+
+div.logo-container
+{
+	box-sizing: border-box;
+	width: 135px;
+	border: none;
+	float: left;
+	margin-right: 5px;
+	padding: 10px 0px 0px 0px;
+	mc-hidden: hidden;
+}
+
+div.logo-container p
+{
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	mc-hidden: hidden;
+}
+
+/* Logo size */
+
+p#BannerLogo img
+{
+	height: 30px;
+	width: 125px;
+	mc-hidden: hidden;
+}
+
+/* Holds the top navigation links. Using Flexbox. */
+
+div.links-container
+{
+	margin-right: 0;
+	padding-top: 5px;
+	height: auto;
+	width: auto;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: flex-end;
+	align-content: flex-end;
+	mc-hidden: hidden;
+}
+
+div.text-link
+{
+	box-sizing: border-box;
+	flex: 0 1 auto;
+	width: auto;
+	height: 54px;
+	display: flex;
+	overflow: hidden;
+	text-align: right;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	mc-hidden: hidden;
+}
+
+div.text-link p
+{
+	padding: 0 0 14px 0;
+	margin-left: 100px;
+	text-align: right;
+	color: #ffffff;
+	border-bottom: 2px solid transparent;
+	letter-spacing: 1px;
+	mc-hidden: hidden;
+}
+
+div.text-link p a:link,
+div.text-link p a:visited,
+div.text-link p a:active
+{
+	color: #ffffff;
+	text-decoration: none;
+	mc-hidden: hidden;
+}
+
+div.text-link p:hover
+{
+	cursor: pointer;
+	border-bottom: 2px solid #c046ff;
+	mc-hidden: hidden;
+}
+
+/* Filler to extend search bar backgound color to right edge of screen. */
+
+div.search-filler
+{
+	box-sizing: border-box;
+	position: absolute;
+	top: 80px;
+	z-index: 5;
+	height: 85px;
+	width: 100%;
+	mc-hidden: hidden;
+}
+
+div.search-filler-right
+{
+	box-sizing: border-box;
+	width: 100%;
+	/* 65%*/
+	float: right;
+	height: 85px;
+	background-image: url('../Images/N-ABLE/SearchBackground_desktop.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right top;
+	background-origin: border-box;
+	/* background-color: #9d3ad2; */
+	mc-hidden: hidden;
+}
+
+/* Holds the search bar. */
+
+div.search-container-layout
+{
+	box-sizing: border-box;
+	width: 100%;
+	position: absolute;
+	top: 80px;
+	height: 85px;
+	min-height: 85px;
+	margin: 0;
+	padding: 0;
+	z-index: 10;
+	background-color: transparent;
+	mc-hidden: hidden;
+}
+
+div.search-container
+{
+	max-width: 1200px;
+	height: 85px;
+	margin: auto;
+	padding: 0 15px;
+	mc-hidden: hidden;
+}
+
+/* Banner and search containers together must not exceed 100% width. */
+
+div.search-bar-container
+{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 28px 0 0 45px;
+	width: 65%;
+	height: 100%;
+	float: right;
+	mc-hidden: hidden;
+}
+
+/* Title banner to the left of the search bar container */
+
+div.banner-container
+{
+	width: 30%;
+	float: left;
+	padding-top: 14px;
+	mc-hidden: hidden;
+}
+
+div.name-container-desktop p
+{
+	font-size: 26pt;
+	line-height: 30pt;
+	font-weight: bold;
+	margin: 0 0 4pt 0;
+	letter-spacing: 1px;
+	mc-hidden: hidden;
+}
+
+p.Banner,
+p#BannerLogo
+{
+	mc-hidden: hidden;
+}
+
+div.name-container-mobile
+{
+	width: 100%;
+	height: auto;
+	margin: 0 0 25px 0;
+	background-color: transparent;
+	display: none;
+	mc-hidden: hidden;
+}
+
+div.name-container-mobile p
+{
+	text-align: left;
+	font-size: 24pt;
+	line-height: 28pt;
+	letter-spacing: 1px;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	mc-hidden: hidden;
+}
+
+div.name-container-desktop a,
+div.name-container-mobile a
+{
+	text-decoration: none;
+	color: inherit;
+	background-color: transparent;
+	mc-hidden: hidden;
+}
+
+/* FIX for apparent bug where the search field and search submit button do not align properly. */
+
+input.search-field.needs-pie
+{
+	position: relative;
+	top: -28px;
+	mc-hidden: hidden;
+}
+
+/*
+div.search-submit
+{
+	display: none;
+}
+*/
+
+div.search-bar-container input:focus,
+div.search-bar-container select:focus,
+div.search-bar-container textarea:focus,
+div.search-bar-container button:focus,
+div.search-bar-container span:focus
+{
+	outline: none;
+	mc-hidden: hidden;
+}
+
+/* Div that holds the page content. */
+
+div.content
+{
+	padding: 195px 15px 0 15px;
+	background-image: none;
+	max-width: 1200px;
+	overflow-x: auto;
+	/* min-height: 100vh; */
+	mc-hidden: hidden;
+}
+
+/* Link and hover styling for the side menu in each topic page. */
+
+ul.menu._Skins_N_ABLE_SideMenu.mc-component li
+{
+	margin-top: 2px;
+	margin-bottom: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_SideMenu.mc-component li > a
+{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-bottom: 1px solid transparent;
+	display: inline-block;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_SideMenu.mc-component li > a.selected
+{
+	/* border-bottom: 1px solid var(--PinkMedium); */
+	/* text-decoration: underline; */
+	border-bottom: 1px solid transparent;
+	color: #c046ff;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_SideMenu.mc-component li > a.selected:hover
+{
+	color: #c046ff;
+	border-bottom: 1px solid transparent;
+	font-weight: bold;
+	mc-hidden: hidden;
+}
+
+div.links-menu div.text-link p a.selected:hover
+{
+	color: #c046ff;
+	font-weight: bold;
+	mc-hidden: hidden;
+}
+
+div.ContentFloatLeft
+{
+	float: left;
+	clear: none;
+	width: 30%;
+	margin-left: 15px;
+	padding: 0 10px 10px 0px;
+	mc-hidden: hidden;
+}
+
+div.ContentFloatLeft p
+{
+	margin: 0 0 12pt 0;
+	font-size: 12pt;
+	line-height: 18pt;
+	mc-hidden: hidden;
+}
+
+div.ContentFloatRight
+{
+	float: right;
+	clear: none;
+	width: 65%;
+	margin: 0;
+	padding: 0;
+	mc-hidden: hidden;
+}
+
+/* Flex menu */
+
+div.FlexboxLayout > ul
+{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: flex-start;
+	align-content: space-around;
+	mc-hidden: hidden;
+}
+
+div.FlexboxLayout > ul > li
+{
+	flex: 0 1 24%;
+	background-repeat: no-repeat;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component li > a
+{
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	padding: 0;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component li > ul > li > a
+{
+	text-align: left;
+	margin: 6px 0;
+	font-size: 14px;
+	line-height: 17px;
+	padding: 0;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component
+{
+	break-inside: auto;
+	overflow: hidden;
+	max-height: none;
+	min-height: none;
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component *
+{
+	break-inside: auto;
+	mc-hidden: hidden;
+}
+
+/* Background and positioning for level 1 menu entries */
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li
+{
+	margin: 0 3px 15px 0px;
+	background-repeat: no-repeat;
+	background-size: auto 60px;
+	background-position: center top;
+	mc-hidden: hidden;
+}
+
+/* Drop-down submenu on hover */
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li > ul
+{
+	background-color: #ffffff;
+	border: 1px solid #9641c0;
+	border-radius: 3px;
+	margin: 0px 4px 0 4px;
+	padding: 6px;
+	display: none;
+	box-shadow: 1px 1px 8px 2px rgba(150,65,192,0.2);
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:hover > ul
+{
+	display: block;
+	mc-hidden: hidden;
+}
+
+/* Set background images for each level 1 menu entry */
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(1)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/1.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(2)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/2.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(3)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/3.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(4)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/4.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(5)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/5.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(6)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/6.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(7)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/7.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(8)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/8.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(9)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/9.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(10)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/10.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(11)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/11.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(12)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/12.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(13)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/13.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(14)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/14.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(15)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/15.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(16)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/16.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(17)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/17.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(18)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/18.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(19)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/19.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(20)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/20.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(21)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/21.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(22)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/22.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(23)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/23.png');
+	mc-hidden: hidden;
+}
+
+ul.menu._Skins_N_ABLE_MainMenu.mc-component > li:nth-child(24)
+{
+	background-image: url('../../StartPages/MenuPage/Icons/24.png');
+	mc-hidden: hidden;
+}
+
+div.toolbar-container
+{
+	display: block;
+	height: auto;
+	width: 100%;
+	margin-bottom: 15px;
+	mc-hidden: hidden;
+}
+
+div.toolbar-container div.button-group-container-left
+{
+	padding: 0;
+	mc-hidden: hidden;
+}
+
+div.toolbar-container div.nocontent
+{
+	display: inline-block;
+	mc-hidden: hidden;
+}
+
+div.HomeButton
+{
+	display: inline-block;
+	padding: 2px 0 0 12px;
+	mc-hidden: hidden;
+}
+
+/* CUSTOM NAVIGATION SECTION */
+/* More info containers */
+/* Nav is the master controller; set to block to display in all modes, none to display only in tablet/mobile. */
+
+nav#bottomNavArea
+{
+	display: none;
+	mc-hidden: hidden;
+}
+
+div.moreInfoArea
+{
+	width: 100%;
+	min-height: 40px;
+	padding: 0;
+	position: fixed;
+	bottom: 0px;
+	z-index: 20;
+	background-color: #282729;
+	mc-hidden: hidden;
+}
+
+div.moreInfoScreen
+{
+	margin: auto;
+	min-height: 50px;
+	padding: 0;
+	background-color: #282729;
+	z-index: 25;
+	mc-hidden: hidden;
+}
+
+div.moreInfoContainer
+{
+	margin: auto;
+	min-height: 50px;
+	max-width: 100%;
+	padding: 0;
+	background-color: #282729;
+	z-index: 30;
+	mc-hidden: hidden;
+}
+
+div.moreInfoArea img,
+div.moreInfoContainer img
+{
+	outline: none;
+	mc-hidden: hidden;
+}
+
+div.moreInfoArea a:hover,
+div.moreInfoContainer a:hover,
+div.moreInfoArea a:active,
+div.moreInfoContainer a:active,
+div.moreInfoArea a:focus,
+div.moreInfoContainer a:focus
+{
+	background-color: transparent;
+	outline: none;
+	border: none;
+	mc-hidden: hidden;
+}
+
+/* Hide more info area on search results page. */
+
+html[data-mc-runtime-file-type*="Search"] div.moreInfoArea,
+html[data-mc-runtime-file-type*="Search"] div.toolbar-container
+{
+	display: none;
+	mc-hidden: hidden;
+}
+
+div#mc-main-content
+{
+	margin-top: 20px;
+	mc-hidden: hidden;
+}
+
+div.navButton
+{
+	mc-hidden: hidden;
+}
+
+p.menuWidget
+{
+	color: #c046ff;
+	display: inline-block;
+	width: 30px;
+	height: 40px;
+	margin: 0;
+	padding: 0;
+	background-image: url('../Images/N-ABLE/menu.png');
+	background-repeat: no-repeat;
+	background-position: center 6px;
+	mc-hidden: hidden;
+}
+
+p.MoreInfo
+{
+	font-size: 11pt;
+	line-height: 11pt;
+	font-weight: 600;
+	margin: 0;
+	padding: 0 0 4pt 0;
+	text-align: center;
+	color: #000000;
+	mc-hidden: hidden;
+}
+
+p.MoreInfo a:link,
+p.MoreInfo a:visited,
+p.MoreInfo a:active,
+p.MoreInfo a:hover
+{
+	color: #000000;
+	background-color: transparent;
+	border: none;
+	text-decoration: none;
+	mc-hidden: hidden;
+}
+
+MadCap|dropDown.MoreInfo
+{
+	color: #000000;
+	mc-image-spacing: 0px;
+	mc-disabled: false;
+	mc-closed-image: none;
+	mc-open-image: none;
+	width: 100%;
+	margin-bottom: 0;
+	background-color: #282729;
+	border: none;
+	mc-closed-image-alt-text: 'Menu';
+	mc-open-image-alt-text: 'Menu';
+	mc-image-position: none;
+	mc-hidden: hidden;
+}
+
+MadCap|dropDownHead.MoreInfo,
+div.dropDownMoreInfo .dropDownHead
+{
+	width: 100%;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	color: transparent;
+	background-color: transparent;
+	border: none;
+	outline: none;
+	mc-hidden: hidden;
+}
+
+MadCap|dropDownBody.MoreInfo,
+div.dropDownMoreInfo .dropDownBody
+{
+	border: none;
+	max-height: calc(99vh - 200px);
+	overflow-y: auto;
+	background-color: #282729;
+	padding: 0;
+	margin: 5px 0 10px 0;
+	mc-hidden: hidden;
+}
+
+MadCap|dropDownHotspot.MoreInfo,
+div.dropDownMoreInfo .dropDownHotspot
+{
+	color: transparent;
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+	outline: none;
+	mc-hidden: hidden;
+}
+
+div.dropDownMoreInfo,
+div.dropDownBody,
+div.dropDownHead,
+div.dropDownHotspot,
+div.dropdown
+{
+	mc-hidden: hidden;
+}
+
+table#moreInfoTable,
+table#moreInfoTable td
+{
+	border-color: transparent;
+	mc-hidden: hidden;
+}
+
+div.moreInfoContent
+{
+	padding: 0 0 10px 0;
+	margin: 0;
+	background-color: #ffffff;
+	background-image: url('../Images/N-ABLE/PageBackground.png');
+	background-repeat: repeat-y;
+	background-size: 100% auto;
+	border: 4px solid #c046ff;
+	border-radius: 5px;
+	overflow-y: auto;
+	mc-hidden: hidden;
+}
+
+div.other-resources,
+div.other-topics
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 0;
+	padding: 0;
+	mc-hidden: hidden;
+}
+
+div.other-resources::before,
+div.other-topics::before
+{
+	content: ' ';
+	display: table;
+	mc-hidden: hidden;
+}
+
+div.other-resources::after,
+div.other-topics::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+	mc-hidden: hidden;
+}
+
+div.other-resources > div,
+div.other-topics > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background-color: transparent;
+	padding: 1% 2%;
+	mc-hidden: hidden;
+}
+
+div.other-resources > div:nth-child(1)
+{
+	width: 29%;
+	margin-left: 2%;
+	margin-right: 2%;
+	mc-hidden: hidden;
+}
+
+div.other-resources > div:nth-child(2)
+{
+	width: 29%;
+	margin-left: 2%;
+	margin-right: 2%;
+	mc-hidden: hidden;
+}
+
+div.other-resources > div:nth-child(3)
+{
+	width: 29%;
+	margin-left: 2%;
+	margin-right: 2%;
+	mc-hidden: hidden;
+}
+
+div.other-topics > div:nth-child(1)
+{
+	width: 63%;
+	margin-left: 2%;
+	margin-right: 2%;
+	mc-hidden: hidden;
+}
+
+div.other-topics > div:nth-child(2)
+{
+	width: 29%;
+	margin-left: 2%;
+	margin-right: 2%;
+	mc-hidden: hidden;
+}
+
+div.moreInfoArea a,
+div.moreInfoArea a:hover
+{
+	color: #282729;
+	text-decoration: none;
+	border: none;
+	mc-hidden: hidden;
+}
+
+/* Navigation links in footer menu */
+
+div.links-menu div.links-container
+{
+	margin: 0;
+	padding: 10px 0 10px 8px;
+	height: auto;
+	width: auto;
+	display: flex;
+	flex-direction: column;
+	flext-wrap: nowrap;
+	justify-content: flex-start;
+	background-color: #eeeeee;
+	/* align-items: stretch; */
+	align-content: flex-start;
+	mc-hidden: hidden;
+}
+
+div.links-menu div.text-link
+{
+	box-sizing: border-box;
+	flex: 1 1 auto;
+	width: auto;
+	height: auto;
+	overflow: hidden;
+	mc-hidden: hidden;
+}
+
+/* Resource menu links; matches the side menu skin font sizes. */
+
+div.links-menu div.text-link p
+{
+	padding: 3px 0 3px 0;
+	font-size: 15px;
+	line-height: 18px;
+	margin: 3px 0 3px 6px;
+	color: #000000;
+	border-bottom: none;
+	border-bottom: 1px solid transparent;
+	letter-spacing: 0;
+	mc-hidden: hidden;
+}
+
+div.links-menu div.text-link p a:link,
+div.links-menu div.text-link p a:visited,
+div.links-menu div.text-link p a:active
+{
+	color: inherit;
+	text-decoration: none;
+	mc-hidden: hidden;
+}
+
+div.links-menu div.text-link p:hover
+{
+	color: #282729;
+	border-color: #282729;
+	mc-hidden: hidden;
+}
+
+div.links-menu,
+div.other-resources,
+div.other-topics
+{
+	mc-hidden: hidden;
+}
+
+@media only screen and (max-width: 1097px)
+{
+	div.navigation-container-desktop
+	{
+		display: none;
+		mc-hidden: hidden;
+	}
+
+	div.navigation-container-mobile
+	{
+		display: block;
+		mc-hidden: hidden;
+	}
+
+	div.top-navigation-container
+	{
+		height: 50px;
+		mc-hidden: hidden;
+	}
+
+	div.sideContent
+	{
+		display: none;
+		mc-hidden: hidden;
+	}
+
+	div.banner-container
+	{
+		display: none;
+		mc-hidden: hidden;
+	}
+
+	div.content
+	{
+		padding-top: 100px;
+		mc-hidden: hidden;
+	}
+
+	nav#bottomNavArea
+	{
+		display: block;
+		mc-hidden: hidden;
+	}
+
+	div.links-container
+	{
+		display: none;
+		mc-hidden: hidden;
+	}
+
+	div.name-container-mobile
+	{
+		margin-top: 25px;
+		display: block;
+		mc-hidden: hidden;
+	}
+
+	div.top-link p
+	{
+		margin: 0 5% 0 0;
+		mc-hidden: hidden;
+	}
+
+	div.logo-container
+	{
+		float: none;
+		margin: auto;
+		mc-hidden: hidden;
+	}
+
+	div.height-container-sidenav
+	{
+		padding-bottom: 65px;
+		mc-hidden: hidden;
+	}
+
+	div.search-filler-right
+	{
+		width: 65%;
+		background-size: 100% auto;
+		width: 85%;
+		background-image: url('../Images/N-ABLE/SearchBackground.png');
+		mc-hidden: hidden;
+	}
+
+	div.search-bar-container
+	{
+		padding: 28px 0 0 0px;
+		margin: 0 0 0 15%;
+		width: 72%;
+		height: 100%;
+		float: none;
+		mc-hidden: hidden;
+	}
+
+	div.FlexboxLayout > ul > li
+	{
+		flex: 0 1 49%;
+		mc-hidden: hidden;
+	}
+
+	ul.menu._Skins_N_ABLE_MainMenu.mc-component > li
+	{
+		padding: 80px 0 20px 0;
+	}
+
+	ul.menu._Skins_N_ABLE_MainMenu.mc-component > li a:link
+	{
+		padding: 0;
+	}
+
+	body.NoSideMenu div.other-topics > div:nth-child(1)
+	{
+		display: none;
+		mc-hidden: hidden;
+	}
+
+	body.NoSideMenu div.other-topics > div:nth-child(2)
+	{
+		width: 84%;
+		margin-left: 8%;
+		margin-right: 8%;
+		mc-hidden: hidden;
+	}
+}
+
+@media only screen and (max-width: 667px)
+{
+	div.FlexboxLayout > ul > li
+	{
+		flex: 1 1 98%;
+		mc-hidden: hidden;
+	}
+
+	div.top-link p
+	{
+		margin: 0 2% 0 0;
+		mc-hidden: hidden;
+	}
+
+	div.ContentFloatLeft
+	{
+		float: none;
+		width: 100%;
+		position: static;
+		top: 0;
+		mc-hidden: hidden;
+	}
+
+	div.name-container-mobile
+	{
+		margin-top: 15px;
+	}
+
+	div.name-container-mobile p
+	{
+		text-align: center;
+		font-size: 20pt;
+		line-height: 22pt;
+	}
+
+	div.ContentFloatRight
+	{
+		float: none;
+		width: 100%;
+		margin: 0;
+		padding: 0 3% 10px 3%;
+		mc-hidden: hidden;
+	}
+
+	div.FlexboxLayout
+	{
+		width: 80%;
+		margin: auto;
+	}
+
+	div.FlexboxLayout > ul > li
+	{
+		flex: 0 1 100%;
+		mc-hidden: hidden;
+	}
+
+	div.search-container
+	{
+		height: 75px;
+	}
+
+	div.search-filler-right
+	{
+		background-size: 100% 75px;
+		width: 100%;
+		mc-hidden: hidden;
+	}
+
+	div.search-bar-container
+	{
+		padding: 22px 0 0 0px;
+		margin: 0 0 0 5%;
+		width: 90%;
+		height: 100%;
+		float: none;
+		mc-hidden: hidden;
+	}
+
+	/* FIX for apparent bug where the search field and search submit button do not align properly. */
+
+	input.search-field.needs-pie
+	{
+		position: relative;
+		top: -22px;
+		mc-hidden: hidden;
+	}
+
+	div.other-topics > div:nth-child(1)
+	{
+		width: 94%;
+		margin-left: 3%;
+		margin-right: 3%;
+		mc-hidden: hidden;
+	}
+
+	div.other-topics > div:nth-child(2)
+	{
+		width: 94%;
+		margin-left: 3%;
+		margin-right: 3%;
+		mc-hidden: hidden;
+	}
+
+	nav#bottomNavArea
+	{
+		max-width: 667px;
+		display: block;
+		mc-hidden: hidden;
+	}
+}
+
+@media print
+{
+	div.navigation-container-desktop,
+	div.navigation-container-mobile,
+	div.search-container,
+	div.breadcrumbs,
+	div.toolbar-container,
+	div.sideContent,
+	nav#bottomNavArea,
+	iframe
+	{
+		display: none;
+		mc-hidden: hidden;
+	}
+
+	div.content
+	{
+		padding: 0;
+	}
+}
+

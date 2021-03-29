@@ -27,8 +27,6 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Generate-session-history-report.htm" />
     <Link
       Url="Content/Generate-missed-session-report.htm" />
@@ -55,8 +53,6 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Generate-session-history-report.htm" />
     <Link
       Url="Content/Generate-missed-session-report.htm" />
@@ -72,8 +68,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>
