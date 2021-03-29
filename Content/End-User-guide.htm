@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <head>
-    </head>
+    <head />
     <body>
         <h1>Create End User accounts in Take Control</h1>
         <p>End-User accounts are a special type of <MadCap:variable name="General.CompanyName" /> users that are converted from technician accounts, and have limited access to a number of devices through a special web portal called the End User Area.  End User  accounts are restricted to the <a href="https://enduser.swi-tc.com/login.php" target="_blank">End User Area </a>where they can only access  devices to which they have been granted permission. </p>
         <p>After downloading the <MadCap:variable name="General.CompanyName" /> Viewer, End Users can remotely access their computers and devices, and open Deferred Support Requests for any of those devices. During remote access, these users are limited to the Remote Desktop, and File Transfer tabs, as well as the Computer, Session, View, Commands, and Interactions menus in the Viewer. </p>
         <p>To get started creating End Users, add a new technician to your account. </p>
-        <h3>Add a technician to your account and configure them as an End-User</h3>
+        <h2>Add a technician to your account and configure them as an End-User</h2>
         <ol MadCap:continue="true">
             <li>From the Admin Area, navigate to <b>Management</b> &gt; <b>Technicians</b>, and click <b>Add</b>. </li>
             <li>Enter the Name and Email for the End-User,  select <b>Configure as End User</b> and click&#160;<b>Save</b>. <br /><img src="Resources/Images/MSPanywhere/NewEndUser.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;" /></li>
@@ -19,8 +18,8 @@
         </ol>
         <p>After the new End User is authenticated using the SSO invitation email, they can log in to the here: <a href="https://enduser.swi-tc.com/login.php"><span style="color: #00bfff; font-weight: bold; font-size: 12pt; font-style: normal;">https://enduser.swi-tc.com/login.php</span></a></p>
         <p class="warning">Make sure the new End User <a href="Multi-factor-authentication-End-Users.htm">activates Multifactor Authentication for their end user account.</a> </p>
-        <h3>Create a SolarWinds SSO Account and log in to the End User Area</h3>
-        <p>The new end user will receive an Enrollment Notification email and they can use the <b>Create Login</b> button in the email to set their password and create their new SolarWinds SSO account. After the new SSO account is created, the end user is prompted to download the <MadCap:variable name="General.CompanyName" /> Viewer in order to access the computers to which they were granted access. </p>
+        <h2>Create a <MadCap:variable name="General.Company_sso" /> Account and log in to the End User Area</h2>
+        <p>The new end user will receive an Enrollment Notification email and they can use the <b>Create Login</b> button in the email to set their password and create their new <MadCap:variable name="General.Company_sso" /> account. After the new SSO account is created, the end user is prompted to download the <MadCap:variable name="General.CompanyName" /> Viewer in order to access the computers to which they were granted access. </p>
         <p> This automatically logs the user into the End User area where they can view the devices to which they were granted permission to access.</p>
         <p>
             <img src="Resources/Images/MSPanywhere/EUArea.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;width: 964px;height: 284px;" />
@@ -32,7 +31,7 @@
             <p class="info">If the ticket icon is not displayed next to a device, it means that device is not configured to create  Deferred Support Requests. To grant an End user permission to create  Deferred Support Requests, navigate to the <b>Devices</b> section of the Admin Area, select the device from the list and click <b>Edit</b> to access the Edit Device window. In the <b>Permissions</b> section, make sure <b>Remote user can create Deferred Support Request</b> is turned on. </p>
             <li>Click <img src="Resources/Images/MSPanywhere/EditKnowledgeType.png" style="border-left-style: solid;border-left-width: 0px;border-left-color: #222222;border-right-style: solid;border-right-width: 0px;border-right-color: #222222;border-top-style: solid;border-top-width: 0px;border-top-color: #222222;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #222222;width: 10px;height: 15px;" /> to re-download the Viewer or select <b>Log out</b> to leave the end user area. </li>
         </ol>
-        <h3>What do you want to do?</h3>
+        <h2>What do you want to do?</h2>
         <ul>
             <li>
                 <a href="Multi-factor-authentication-End-Users.htm">Activate Multifactor Authentication for End Users</a>

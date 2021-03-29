@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <nav class="top-navigation-layout">
+			<div class="top-link-container">
+				<div class="top-link">
+					<p><a href="[%=URLs.PartnerURL%]" target="_blank" title="[%=URLs.PartnerScreenTip%]" alt="[%=URLs.PartnerScreenTip%]"><MadCap:variable name="URLs.PartnerText" /></a>
+					</p>
+				</div>
+			</div>
+            <div class="top-navigation-container">
+				
+                <div class="logo-container">
+                    <p id="BannerLogo"><a href="[%=URLs.CompanyURL%]" target="_blank" title="[%=URLs.CompanyScreenTip%]" alt="[%=URLs.CompanyScreenTip%]"><img src="../../Images/N-ABLE/Logo.svg" /></a>
+                    </p>
+                </div>
+                <MadCap:snippetText src="NavigationLinks.flsnp" />
+            </div>
+        </nav>
+    </body>
+</html>

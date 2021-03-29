@@ -1,0 +1,75 @@
+/*<meta />*/
+
+/* Style overrides for start pages */
+/* Border for top navigation active menu item. */
+
+p#TroubleshootingLink
+{
+	border-color: #c046ff;
+	mc-hidden: hidden;
+}
+
+html
+{
+	background-image: url('../Images/N-ABLE/PageBackground.png');
+	background-repeat: repeat-y;
+	background-size: 100% auto;
+	mc-hidden: hidden;
+}
+
+div.links-menu div.text-link p#TroubleshootingLink
+{
+	color: #c046ff;
+	font-weight: bold;
+	border: 1px solid transparent;
+	mc-hidden: hidden;
+}
+
+div.ContentFloatLeft
+{
+	margin-left: 0;
+	mc-hidden: hidden;
+}
+
+div.navButton,
+div.other-resources
+{
+	display: none;
+	mc-hidden: hidden;
+}
+
+div.other-topics > div:nth-child(1)
+{
+	display: none;
+	mc-hidden: hidden;
+}
+
+div.other-topics > div:nth-child(2)
+{
+	width: 84%;
+	margin-left: 8%;
+	margin-right: 8%;
+	mc-hidden: hidden;
+}
+
+div.navButton,
+div.other-resources,
+div.other-topics
+{
+	mc-hidden: hidden;
+}
+
+@media tablet
+{
+	div.content
+	{
+		padding-top: 165px;
+		mc-hidden: hidden;
+	}
+}
+
+@media mobile
+{
+	
+}
+

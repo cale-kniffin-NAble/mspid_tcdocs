@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p>To submit a <MadCap:annotation MadCap:createDate="2021-02-24T14:13:59.0129567-05:00" MadCap:creator="deanne.kelly" MadCap:initials="DE" MadCap:comment="There is a KBA (not in this project) for How to submit a feature request. Consider putting it here." MadCap:editor="deanne.kelly" MadCap:editDate="2021-02-24T14:14:51.0080383-05:00">feature request</MadCap:annotation>, or to vote for or comment on an existing request, go to the <a href="[%=URLs.PartnerURL%]feature-request/" target="_blank"><MadCap:variable name="General.CustomerSuccessCenter" /> <MadCap:variable name="General.FeatureRequestPage" /></a>.  </p>
+    </body>
+</html>

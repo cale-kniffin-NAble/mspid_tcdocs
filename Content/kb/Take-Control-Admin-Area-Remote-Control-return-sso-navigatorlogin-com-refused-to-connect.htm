@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Take Control: Admin Area's Remote Control mode returning "sso.navigatorlogin.com refused to connect" message</h1> <div id="flex"><div id="modified"> <h2>Last Modified</h2><p>Sun Mar 22 23:26 GMT 2020</p></div> <div id="description"> <h2>Description</h2><ul><li>When attempting to click on the Remote Control option via the Admin Area, a blank square is loaded and an error message is received:
+	<ul><li>Error: sso.navigatorlogin.com refused connection!</li></ul></li></ul></div> <div id="environment"> <h2>Environment</h2><ul><li><MadCap:variable name="General.ProductName_tc_long" />/<MadCap:variable name="General.ProductName_tcp-sa_short" />:
+	<ul><li>Admin Area's Remote Control mode.</li></ul></li></ul></div> <div id="solution"> <h2>Solution</h2><ul><li>Happens with a technician who's Single Sign-On Status is Enrolled:
+	<ul><li>The browser's settings, add-ons or security software are likely blocking cookies/traffic. Please ensure that web traffic from the following domains is allowed:
+		<ul><li>sso.navigatorlogin.com</li><li>widget.swi-rc.com</li><li>admin.swi-tc.com</li></ul></li></ul></li><li>Happens regardless of browser and browser settings in use and the Technician's Single Sign-On Status is Uninvited/Invited:
+	<ul><li>This issue occurs due to the Technician attempting to use Remote Control mode not having completed their SSO Sign-up via Take Control.</li><li>Re-send the Take Control invitation for the technician to complete their SSO Sign-up. For more information, see <MadCap:xref href="Take-Control-Standalone-SSO-Email-Invitation-How-to-resend-the-SSO-Email-Invitation.htm">[%=General.ProductName_tc-sa%]: SSO Email Invitation/How to resend the SSO Email Invitation</MadCap:xref>.</li></ul></li></ul></div> <div id="internal"> <div MadCap:conditions="Default.Ignore"><p><b>Article Number:</b> 109961</p><p><b>Internal notes:</b> also see: https://logicnow.my.salesforce.com/articles/KB_Article/INTERNAL-ONLY-Refuse-to-connect-to-integrated-cloudbackup-management-Cloud-Asset-Tracking-in-Chrome</p><p /></div></div> </div> </body>
+</html>

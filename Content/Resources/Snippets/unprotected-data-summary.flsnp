@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="155" MadCap:lastWidth="802">
+    <head>
+    </head>
+    <body>
+        <ul>
+            <li class="Level2"><b>Elapsed Time for the scan</b> - The amount of time the scan took to run.</li>
+            <li class="Level2"><b>Number of Files Scanned</b> - Total number of files scanned.</li>
+            <li class="Level2"><b>Number of Files with Violation</b> - The number of files containing findings (credit card instances, social security numbers etc.).</li>
+            <li class="Level2"><b>Number of Total Violations</b> - The total number of unique findings (credit card instances, social security numbers etc.) found in the <b>Number of Files with Violation</b>.</li>
+        </ul>
+    </body>
+</html>

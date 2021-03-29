@@ -27,8 +27,6 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
       Url="https://api.swi-rc.com/integration/tickets_api.php" />
@@ -57,8 +55,6 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
       Url="https://api.swi-rc.com/integration/tickets_api.php" />
@@ -79,8 +75,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

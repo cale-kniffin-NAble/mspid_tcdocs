@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\tc_userguide\mspid_tcdocs\Content\troubleshooting\Take-Control-All-Versions-Remote-Printing.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\tc_userguide\mspid_tcdocs\Content\Resources\Snippets\SubmitVoteFeatureRequest_Idea.flsnp" />
+    </Dialog>
+</RecentLinks>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ObjectList>
+    <Object Value="General.email_@" />
+    <Object Value="General.ProductName_nc" />
+    <Object Value="General.Company" />
+    <Object Value="General.Company_sso" />
+    <Object Value="General.Company_ui_element" />
+    <Object Value="General.email_ideas" />
+    <Object Value="General.IdeasWebsite" />
+    <Object Value="URLs.TakeControlHelpURL" />
+    <Object Value="General.ProductName_rmm_short" />
+    <Object Value="General.ProductName_tc_long" />
+    <Object Value="General.ProductName_tc-sw" />
+    <Object Value="System.LinkedTitle" />
+</ObjectList>

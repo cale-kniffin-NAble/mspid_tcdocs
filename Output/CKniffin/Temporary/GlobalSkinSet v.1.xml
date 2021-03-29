@@ -74,7 +74,9 @@
       <Class
         Name="CurrentTopicIndex" />
       <Class
-        Name="EditUserProfile" />
+        Name="NextTopic" />
+      <Class
+        Name="PreviousTopic" />
       <Class
         Name="home" />
       <Class
@@ -83,6 +85,8 @@
         Name="Print" />
       <Class
         Name="Feedback" />
+      <Class
+        Name="EditUserProfile" />
       <Class
         Name="AccordionTitle" />
       <Class
@@ -121,10 +125,6 @@
         Name="SelectCommunity" />
       <Class
         Name="AddTopicToFavorites" />
-      <Class
-        Name="PreviousTopic" />
-      <Class
-        Name="NextTopic" />
       <Class
         Name="Separator" />
       <Class
@@ -166,9 +166,9 @@
       <Class
         Name="4th Level" />
       <Class
-        Name="1st Level" />
-      <Class
         Name="Selected" />
+      <Class
+        Name="1st Level" />
     </Tag>
     <Tag
       Name="Menu" />
@@ -187,7 +187,22 @@
     <Tag
       Name="Search Pagination Item" />
     <Tag
-      Name="Menu Item (hover)" />
+      Name="Menu Item (hover)">
+      <Class
+        Name="1st Level" />
+      <Class
+        Name="Selected" />
+    </Tag>
+    <Tag
+      Name="Search Micro Content Response Path" />
+    <Tag
+      Name="Search Micro Content Result" />
+    <Tag
+      Name="Search Micro Content Response" />
+    <Tag
+      Name="Search Micro Content Response Link" />
+    <Tag
+      Name="Toolbar" />
     <Tag
       Name="Navigation Link" />
     <Tag
@@ -204,8 +219,6 @@
       Name="Feedback Comment Username" />
     <Tag
       Name="TocEntry" />
-    <Tag
-      Name="Toolbar" />
     <Tag
       Name="Home Button" />
     <Tag
@@ -232,10 +245,6 @@
         Name="Glossary Page Definition" />
       <Class
         Name="Search Results Page" />
-      <Class
-        Name="Index Heading" />
-      <Class
-        Name="Glossary Heading" />
     </Tag>
     <Tag
       Name="Item Count">
@@ -373,6 +382,22 @@
       Source="../Project/Skins/HTML5.flskn" />
     <Url
       Source="../Project/Skins/HTML5TopNavigation.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_Favicon.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_MainMenu.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_MainSkin.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_SearchBar.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_SideMenu.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_Toolbar-Next.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_Toolbar-Prev.flskn" />
+    <Url
+      Source="../Project/Skins/N-ABLE_ToolBar.flskn" />
     <Url
       Source="../Project/Skins/SideMenu.flskn" />
     <Url

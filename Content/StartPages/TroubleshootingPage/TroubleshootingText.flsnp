@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Popular Topics</h1>
+        <ul>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/How-to-configure-macOS-10-14-Mojave-or-10-15-Catalina-for-Take-Control.htm">How to configure macOS 10.14 (Mojave) or 10.15 (Catalina) for Take Control?</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Take-Control-Standalone-Ports-and-Domains-Firewall-and-AV-Exclusions.htm">[%=General.ProductName_tc-sa%]: Ports and Domains/Firewall and AV Exclusions</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm">How to Perform a Clean Uninstall and Reinstall of [%=General.ProductName_tc-sw%] macOS in [%=General.ProductName_rmm_short%]</MadCap:xref> </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Take-Control-Black-screen-without-Please-wait.htm">Take Control: Black screen without Please wait</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Take-Control-Standalone-Agent-Silent-Install.htm">[%=General.ProductName_tc-sa%]: Agent Silent Install</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Take-Control-Standalone-Lost-recovery-code-and-need-to-reset-or-revoke-2FA.htm">[%=General.ProductName_tc-sa%]: Lost recovery code and need to reset or revoke 2FA</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm">Deploy Take Control Agent with Group Policy and Active Directory Deployment</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Take-Control-All-Versions-Remote-Printing.htm">Take Control (All Versions): Remote Printing</MadCap:xref>
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

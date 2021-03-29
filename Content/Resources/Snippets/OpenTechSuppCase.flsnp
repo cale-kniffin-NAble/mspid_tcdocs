@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>To open a <MadCap:annotation MadCap:createDate="2021-02-24T15:38:19.2663994-05:00" MadCap:creator="deanne.kelly" MadCap:initials="DE" MadCap:comment="There is a KBA article How to raise a support case via the success center but I couldn't xref to it so I used this snippet instead. Review " MadCap:editor="deanne.kelly" MadCap:editDate="2021-02-24T15:39:08.4522878-05:00">Technical Support </MadCap:annotation>case, go to the <a href="[%=URLs.PartnerURL%]feature-request/" target="_blank"><MadCap:variable name="General.CustomerSuccessCenter" /></a> and click <b>Need Assistance?</b>.</body>
+</html>

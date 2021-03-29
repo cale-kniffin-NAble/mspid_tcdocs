@@ -7,8 +7,6 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/ConfigCmdEnviro.png" />
@@ -22,8 +20,6 @@
       Url="Content/Administrative-Area.htm" />
   </Links>
   <LongLinks>
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
@@ -49,8 +45,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

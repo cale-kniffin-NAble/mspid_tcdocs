@@ -1,26 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Provide Assistance to Your Customers|Remotely access your customers' computers" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <head>
-        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
-    </head>
     <body>
         <div class="content">
             <h1>Use the System Shell to support your customers</h1>
             <p>There are some remote support and system administration tasks that do not require a full remote desktop connection. For these scenarios, a command line is not only faster and more flexible, but it also requires less bandwidth. There are also situations during support sessions, in which the remote graphical environment may be damaged or unresponsive. <MadCap:variable name="General.CompanyName" /> provides a real-time command line environment that can speed up common tasks.</p>
             <p>You can use the System Shell as a standard windows CMD prompt or a Powershell prompt. Both options have full administrative privileges and can run batch files or WSH (Windows Scripting Host) scripts.</p>
             <p>With the latest update to both the Command Prompt and PowerShell environments, the new interface contains  tools and capabilities such as, command history, tab-to-autocomplete, copy/paste, control-commands (CTRL/C to stop a ping, etc.) command shell colors. </p>
-            <h3>System Shell menu options<br /></h3>
+            <h2>System Shell menu options<br /></h2>
             <p>Select the <b>Advanced Options</b> menu to choose from actions to restart the shell or execute commands:</p>
             <p>
                 <img src="Resources/Images/MSPanywhere/ConfigCmdEnviro.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;" />
             </p>
             <ul>
-                <li value="1"><b>Restart Shell</b> – terminates the shell process and starts another. </li>
-                <li value="2"><b style="font-style: normal; font-weight: bold;">CTRL + Break</b> – stops a process from executing inside the shell, without terminating the shell.</li>
-                <li value="3"><b>Clear Output</b> – clears the current output of the shell.</li>
-                <li><b>Run &gt; Run Local Batch</b> – executes a script loaded from the technician’s computer. This is compatible with any Windows Scripting Host languages.</li>
-                <li><b>Start Interactive Command Prompt</b> – launches real-time command line environment.</li>
-                <li><b>Start Interactive PowerShell</b> – launches real-time PowerShell environment.</li>
+                <li value="1">
+                    <b>Restart Shell</b> – terminates the shell process and starts another. </li>
+                <li value="2">
+                    <b style="font-style: normal; font-weight: bold;">CTRL + Break</b> – stops a process from executing inside the shell, without terminating the shell.</li>
+                <li value="3">
+                    <b>Clear Output</b> – clears the current output of the shell.</li>
+                <li>
+                    <b>Run &gt; Run Local Batch</b> – executes a script loaded from the technician’s computer. This is compatible with any Windows Scripting Host languages.</li>
+                <li>
+                    <b>Start Interactive Command Prompt</b> – launches real-time command line environment.</li>
+                <li>
+                    <b>Start Interactive PowerShell</b> – launches real-time PowerShell environment.</li>
             </ul>
             <p class="info">For the Mac Remote Viewer, these options are available by clicking <b>End</b> at the bottom of the System Shell window. </p>
             <p>The <b>Shell Type</b> option defines the type of shell to be executed. Changing from one type to another terminates the first type. It is not possible to have two shell types open simultaneously.</p>
@@ -28,23 +31,31 @@
                 <img src="Resources/Images/MSPanywhere/PowerShellvsCmdPrompt.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;" />
             </p>
             <ul MadCap:continue="true">
-                <li><b>Windows PowerShell</b> – uses the Windows PowerShell, if available. <MadCap:variable name="General.CompanyName" /> is compatible with any version of PowerShell.</li>
-                <li><b>Standard Command Prompt</b> – uses the Windows Command Processor (cmd.exe).</li>
+                <li>
+                    <b>Windows PowerShell</b> – uses the Windows PowerShell, if available. <MadCap:variable name="General.CompanyName" /> is compatible with any version of PowerShell.</li>
+                <li>
+                    <b>Standard Command Prompt</b> – uses the Windows Command Processor (cmd.exe).</li>
             </ul>
             <p class="info">For the Mac Remote Viewer, these options are available by clicking <b>Type</b> at the bottom of the System Shell window. </p>
             <p>Click <img src="Resources/Images/new icons/RunCommand.png" style="width: 25px;height: 25px;" /> to execute the command. </p>
             <p>Use the following keys to access the command history in the command box:</p>
             <ul>
-                <li value="1"><b>Ctrl+Home</b> – displays the first command inserted.</li>
-                <li value="2"><b>Ctrl+End</b> – displays the last command inserted.</li>
-                <li value="3"><b>Ctrl+Up</b> – displays the previous command history.</li>
-                <li value="4"><b>Ctrl+Down</b> – displays the next command history.</li>
+                <li value="1">
+                    <b>Ctrl+Home</b> – displays the first command inserted.</li>
+                <li value="2">
+                    <b>Ctrl+End</b> – displays the last command inserted.</li>
+                <li value="3">
+                    <b>Ctrl+Up</b> – displays the previous command history.</li>
+                <li value="4">
+                    <b>Ctrl+Down</b> – displays the next command history.</li>
             </ul>
-            <h3>What do you want to do?</h3>
+            <h2>What do you want to do?</h2>
             <ul>
-                <li style="font-weight: normal;" value="1"><a href="Provide-assistance-to-customers.htm" class="MCXref xref" xrefformat="{paratext}">Provide assistance to your customers</a>
+                <li style="font-weight: normal;" value="1">
+                    <a href="Provide-assistance-to-customers.htm" class="MCXref xref" xrefformat="{paratext}">Provide assistance to your customers</a>
                 </li>
-                <li value="2"><a href="Administrative-Area.htm" class="MCXref xref" xrefformat="{paratext}">Access the Administrative Area</a>
+                <li value="2">
+                    <a href="Administrative-Area.htm" class="MCXref xref" xrefformat="{paratext}">Access the Administrative Area</a>
                 </li>
             </ul>
         </div>

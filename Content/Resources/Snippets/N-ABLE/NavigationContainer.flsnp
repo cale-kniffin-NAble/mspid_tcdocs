@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<head>
+</head>
+<body>
+		<MadCap:snippetText src="TopNavigation.flsnp" />
+		<div class="search-filler">
+			<div class="search-filler-right">&#160;
+			</div>
+		</div>
+		<div class="search-container-layout">
+			<div class="search-container"><a name="Search"></a>
+				<div class="banner-container">
+					<div class="name-container-desktop">
+						<p ><a href="../../../[%=URLs.CurrentStartPage%]" title="Home" alt="Home"><MadCap:variable name="Documents.ProductShortName" /></a>
+						</p>
+						<p ><a href="../../../[%=URLs.CurrentStartPage%]" title="Home" alt="Home"><span class="N-ablePink"><MadCap:variable name="Documents.DocumentType" /></span></a>
+						</p>
+					</div>
+				</div>
+				<div class="search-bar-container">
+					<div class="search-bar-float">
+						<MadCap:searchBarProxy data-mc-skin="/Project/Skins/N-ABLE_SearchBar.flskn" />
+					</div>
+				</div>
+			</div>
+		</div>
+</body>
+</html>

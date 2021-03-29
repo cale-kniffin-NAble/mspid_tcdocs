@@ -9,8 +9,6 @@
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Manage-devices.htm" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/MonitorReport.png" />
@@ -22,8 +20,6 @@
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/Manage-devices.htm" />
     <Link
@@ -48,8 +44,5 @@
     <Condition
       Tag="Exclude.comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

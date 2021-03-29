@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="ToolbarItem">
+        <Properties>
+          <Property
+            Name="BoxShadowVShadow">0px</Property>
+          <Property
+            Name="BorderTop">solid 0px #000000</Property>
+          <Property
+            Name="BorderRight">solid 0px #000000</Property>
+          <Property
+            Name="BorderBottom">solid 0px #000000</Property>
+          <Property
+            Name="BorderLeft">solid 0px #000000</Property>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+          <Property
+            Name="BackgroundGradient">vertical transparent transparent</Property>
+          <Property
+            Name="BackgroundColor">transparent</Property>
+          <Property
+            Name="Width">30px</Property>
+          <Property
+            Name="Height">30px</Property>
+        </Properties>
+        <Classes>
+          <StyleClass
+            Name="PreviousTopic">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#ffffff</Property>
+              <Property
+                Name="BackgroundImage">url('ArrowLeftSmall.png')</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="MarginTop">0px</Property>
+          <Property
+            Name="MarginBottom">0px</Property>
+        </Properties>
+      </Style>
+    </Styles>
+    <Resources>
+      <Resource
+        Name="ArrowLeftSmall.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0hIgzMEGJB+U2/4AUmxJ3u4uDP9BcMHe5ZOBIpwFHpHFDAzcwiDMyDBrDkgPe4mnryv7UyZhfiWpx3uLnwOFZDNDIkqc83NzU/NKGEDAuSg1sSQ1RaE8syRDwd3TNyBFL5WdgYHRwdPFMcTj+NZrttqtiTLHP5631BNUSlE4eWABj4jnqeCkwE8BXVcXTG6fkRJwKmGiUvrG+RdPb5DYw3y4Utzs9NI8K4v20/l737/+vft///W5xf+VtnYtLWI+ViAq1HzbsDlWx9GD5Vwy++0ZTnd/b57AsK+T+0v4o9Z4J+lkrTzDH3d3L3QrEE/b2P4y61yL1sGvGgnCk7fWhKxg2tdsXPJfbelD7gxhscL2eftNHH+wvDtow2cwb1GrM4u5+4uoOQdSuI4G/ZRQf3GCz0Pr6ccG9z2/2J/emx67MWReR+asbtnJ1xSCXxTmHEnM8pq4iF8r56vtQxHmQtElvQ+6vxY0p25RMT8h0ftAgPuFb94EQ6mjWSbZa3ey2a/ccPV7z+eIxaefCIZ0rOC9HrFeJFDv6tJ4nantSbemPXo77ZpCskmPqMxC4+/++3UrtyT+5714J/zk58WnQNHF4Onq57LOKaEJAPrrPVbcAQAA</Resource>
+    </Resources>
+  </Stylesheet>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic" />
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="ToolbarItem">
+            <Classes>
+              <StyleClass
+                Name="PreviousTopic">
+                <Properties>
+                  <Property
+                    Name="Tooltip">Display previous topic</Property>
+                </Properties>
+              </StyleClass>
+            </Classes>
+          </Style>
+        </Styles>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+</CatapultSkin>

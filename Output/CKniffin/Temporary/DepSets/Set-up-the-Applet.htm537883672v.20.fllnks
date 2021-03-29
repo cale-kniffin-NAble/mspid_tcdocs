@@ -7,8 +7,6 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="https://www.youtube.com/watch" />
     <Link
       Url="https://youtu.be/zN7z69g8Vm8" />
@@ -22,8 +20,6 @@
       Url="Content/Configure-integration-options.htm" />
   </Links>
   <LongLinks>
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="https://www.youtube.com/watch?v=0UvjnsB4W7o&amp;feature=youtu.be" />
     <Link
@@ -46,8 +42,5 @@
   <FileConditions />
   <FileTags />
   <AllConditions />
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

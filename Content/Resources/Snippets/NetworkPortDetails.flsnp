@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="155" MadCap:lastWidth="801">
+    <head>
+    </head>
+    <body>
+        <ul>
+            <li><b>Network Port Details</b> - Displays listening TCP/IP ports on your system. Listening ports indicate that a service is listening for external communication from a remote computer.</li>
+            <li class="Level2">Review the list of open ports to determine if they are absolutely necessary.</li>
+            <li class="Level2">Disable any unnecessary services to reduce the risk of compromise from malware or attackers. We recommend that you back up your system before making any changes.</li>
+            <li class="Level2">Your local IT administrator will be able to provide you with guidance on managing your network ports.</li>
+        </ul>
+    </body>
+</html>

@@ -20,6 +20,8 @@
   <Variables>
     <Variable
       Name="General.CompanyName" />
+    <Variable
+      Name="General.Company_ui_element" />
   </Variables>
   <FileConditions />
   <FileTags />

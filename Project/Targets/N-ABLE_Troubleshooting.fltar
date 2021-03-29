@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  MasterPage="/Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp"
+  ResultsPerPage="10"
+  ConditionTagExpression="exclude[Default.Ignore or Exclude.comment]"
+  SearchBarSkin="/Project/Skins/N-ABLE_SearchBar.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/N-ABLE_CustomStyles.css"
+  GenerateAllSkins="false"
+  Skin="/Project/Skins/N-ABLE_MainSkin.flskn"
+  EnableSitemap="true"
+  SitemapWebUrl="https://documentation.n-able.com/takecontrol/troubleshooting/"
+  MenuSkin="/Project/Skins/N-ABLE_SideMenu.flskn"
+  ExcludeUnreferencedContent="true"
+  IncludeGlossarySearchResults="false"
+  EquationsOutputType="PNG"
+  MasterStylesheetOverride="true"
+  SearchEngine="MadCapSearch"
+  ResolveCssVariables="true"
+  MasterToc="/Project/TOCs/N-ABLE_Troubleshooting_TOC.fltoc"
+  TabletBreakpoint="1097"
+  FaviconSkin="/Project/Skins/N-ABLE_Favicon.flskn"
+  DefaultUrl="/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm"
+  MobileBreakpoint="667"
+  ContentInclusionType="Toc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <MetaTags>
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge" />
+    <meta
+      name="products"
+      content="Take Control" />
+  </MetaTags>
+  <Variables>
+    <Variable
+      Name="Documents/DocumentType">Troubleshooting</Variable>
+    <Variable
+      Name="Documents/Category">Troubleshooting</Variable>
+    <Variable
+      Name="Documents/ProductNamePath">takecontrol</Variable>
+  </Variables>
+</CatapultTarget>

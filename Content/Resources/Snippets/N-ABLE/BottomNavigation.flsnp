@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <nav id="bottomNavArea" aria-label="Navigation Links">
+            <div class="moreInfoArea" xmlns="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+                <div class="moreInfoScreen">
+                    <div class="moreInfoContainer">
+                        <table id="moreInfoTable" style="width: 100%;border-spacing: 12px 0px;margin-left: auto;margin-right: auto;">
+                            <col style="width: 30px;" />
+                            <col />
+                            <col style="width: 30px;" />
+                            <tbody>
+                                <tr>
+                                    <td style="text-align: left;vertical-align: middle;">
+                                        <div class="navButton">
+                                            <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" data-mc-skin="/Project/Skins/N-ABLE_Toolbar-Prev.flskn" />
+                                        </div>
+                                    </td>
+                                    <td style="background-repeat: no-repeat;background-position-x: center;background-position-y: top;background-image: none;vertical-align: middle;">
+                                        <MadCap:dropDown class="MoreInfo">
+                                            <MadCap:dropDownHead>
+                                                <MadCap:dropDownHotspot aria-label="Show Navigation Links">
+                                                    <p class="menuWidget">&#160;</p>
+                                                </MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <div class="moreInfoContent">
+                                                    <div class="other-resources">
+                                                        <div>
+                                                            <!--
+                                                            <p class="MoreInfo"><a href="[%=URLs.CompanyURL%]" title="Visit N-Able" alt="Visit N-Able" xmlns="" target="_blank"><img src="../../Images/N-ABLE/index.png" style="vertical-align: middle;width: 47px;height: 47px;" xmlns="" /></a> <a id="Link2" href="[%=URLs.CompanyURL%]" title="Visit N-Able" alt="Visit N-Able" xmlns="" target="_blank">N-Able Home</a></p>
+-->
+                                                        </div>
+                                                        <div>
+                                                            <p class="MoreInfo"><a href="../../[%=URLs.CurrentStartPage%]" title="Go to the start page" alt="Go to the start page" xmlns=""><img src="../../Images/N-ABLE/start.png" style="vertical-align: middle;width: 32px;height: 32px;" xmlns="" /></a> <!--<a id="Link1" href="../../[%=URLs.CurrentStartPage%]" title="Go to the start page" alt="Go to the start page" xmlns="">Start Page</a>--></p>
+                                                        </div>
+                                                        <div>
+                                                            <!--
+                                                            <p class="MoreInfo"><a href="#Search" xmlns="" alt="Search topics" title="Search topics"><img src="../../Images/N-ABLE/search.png" style="vertical-align: middle;width: 47px;height: 47px;" xmlns="" /></a> <a id="Link3" href="#Search" alt="Search topics" title="Search topics" xmlns="">Search</a></p>
+-->
+                                                        </div>
+                                                    </div>
+                                                    <div class="other-topics">
+                                                        <div>
+                                                            <p class="MoreInfo">Topics</p>
+                                                            <MadCap:menuProxy mc-linked-toc="/Project/TOCs/N-ABLE_TOC.fltoc" style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                                                        </div>
+                                                        <div>
+                                                            <p class="MoreInfo"><a href="../../QuickLinks/QuickLinksStart.htm" xmlns="">Resources</a>
+                                                            </p>
+                                                            <div class="links-menu">
+                                                                <MadCap:snippetText src="NavigationLinks.flsnp" />
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </MadCap:dropDownBody>
+                                            <p>&#160;</p>
+                                        </MadCap:dropDown>
+                                    </td>
+                                    <td style="text-align: right;vertical-align: middle;">
+                                        <div class="navButton">
+                                            <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" data-mc-skin="/Project/Skins/N-ABLE_Toolbar-Next.flskn" />
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </body>
+</html>

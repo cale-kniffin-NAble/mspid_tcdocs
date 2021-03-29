@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="http://admin.corporate.beanywhere.com/admin_area/login.php" />
+    <Link
+      Url="https://enduser.swi-tc.com/login.php" />
+    <Link
+      Url="https://admin.swi-tc.com/admin_area_/login.php" />
+    <Link
+      Url="https://documentation.n-able.com/take-control/userguide/Multi-factor-authentication.htm" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="http://admin.corporate.beanywhere.com/admin_area/login.php" />
+    <Link
+      Url="https://enduser.swi-tc.com/login.php" />
+    <Link
+      Url="https://admin.swi-tc.com/admin_area_/login.php" />
+    <Link
+      Url="https://documentation.n-able.com/take-control/userguide/Multi-factor-authentication.htm?" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_tcp_short" />
+    <Variable
+      Name="General.ProductName_tc_long" />
+    <Variable
+      Name="General.ProductName_tcp-sa_short" />
+    <Variable
+      Name="General.CompanySSO" />
+    <Variable
+      Name="General.Company" />
+    <Variable
+      Name="URLs.TakeControlHelpURL" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

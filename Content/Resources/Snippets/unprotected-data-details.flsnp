@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="745" MadCap:lastWidth="668">
+    <head>
+    </head>
+    <body>
+        <ul>
+            <li class="Level2">Focus on particular data by using the filters at the top of the panel: Bank details, Cards, Date of Birth, Licenses and Social Security numbers.</li>
+        </ul>
+        <div class="info"><b>Note</b> - Any filters set only apply to the current session. If you leave the page, your filters are not retained and you will need to re-select them.</div>
+        <div class="warning"><b>Important</b> - When you choose to download the PDF or CVS files, any filters are ignored and the full unfiltered data is downloaded.</div>
+        <ul>
+            <li class="Level2">Expand files to view: the file hash for the file in each of the hash formats (MD5, SHA1 and SHA256); a table containing the user groups that have access to the file (and what level of access they have - see <MadCap:xref href="../../scanning/scanresults/view-suspec-datafile-user-access-permissions.htm"><span style="color: #0079c1;" class="mcFormatColor"><u>View Suspect Data File User Access Permissions</u></span></MadCap:xref>); a list of the violations found in the file. </li>
+        </ul>
+        <div class="warning"><b>Important</b> - The listed, violated files are masked. No unmasked data leaves the system that is scanned.</div>
+        <p style="text-align: center;">
+            <img src="../../Images/unprot-data-details-expanded-file.png">
+            </img>
+        </p>
+        <ul>
+            <li class="Level2">
+                <MadCap:xref href="../../scanning/scanresults/create-file-removal-script.htm"><span style="color: #0079c1;" class="mcFormatColor"><u>Create File Removal Script to Delete Unprotected Data Files from Device</u></span>
+                </MadCap:xref>
+            </li>
+            <li class="Level2">
+                <MadCap:xref href="../../scanning/exclude-files-from-data-scans-on-individual-hosts.htm"><span style="color: #0079c1;" class="mcFormatColor"><u>Exclude Files from Data Scans on Individual Hosts</u></span>
+                </MadCap:xref>
+            </li>
+        </ul>
+    </body>
+</html>

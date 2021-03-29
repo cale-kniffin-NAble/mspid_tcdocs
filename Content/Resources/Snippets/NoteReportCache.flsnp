@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="88" MadCap:lastWidth="1004">
+    <head>
+    </head>
+    <body>
+        <div class="Note"><b>Note</b> - Once the report has been generated, the data is cached for 15 minutes to save time building the report. This means that if you run the report again within 15 minutes, the cached data is used - after 15 minutes the report is built using new data.</div>
+    </body>
+</html>

@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <head>
-        <link href="Resources/Stylesheets/SWI_CustomStyles.css" rel="stylesheet" type="text/css" />
-    </head>
     <body>
         <h1>Hardware and software system requirements for <MadCap:variable name="General.CompanyName" /></h1>
         <table style="margin-left: 0;margin-right: auto;">
@@ -60,15 +57,18 @@
                     <td>
                         <p>1Byte/s
 and 5KB every 5
-seconds</p> <span class="warning">Actual B/W for sessions is dependent on resolution and quality settings.</span></td>
+seconds</p>
+                    </td>
                 </tr>
             </tbody>
         </table>
+        <p class="nugget">Actual bandwidth for sessions is dependent on resolution and quality settings.</p>
         <p class="warning">In Chrome version 77 and later, the checkbox for "always open these types of links in the associated app" is no longer displayed for URL custom protocols. The impact of this is that for all users on the Chrome browser, there is no longer an option to remember your protocol handling preferences, and the below dialog (or some variation, pending your local settings, etc) will be presented each time a <MadCap:variable name="General.CompanyName" /> session is launched. This is, in no way a bug, or a fault. Further, there is nothing the <MadCap:variable name="General.CompanyName" /> team can do to mitigate this. It is simply a change about how custom protocols are handled within the Chrome browser.</p>
         <p class="info">Take Control  uses FIPS (140-2) compliant cryptographic library modules to help secure Windows® device to Windows device remote connections.</p>
-        <h3>Access to the <MadCap:variable name="General.CompanyName" /> network</h3>
-        <p class="nugget"><MadCap:variable name="General.CompanyName" />'s list of IP addresses is very large and highly dynamic. Many IP address range's point towards the intelligent routing infrastructure that forms part of our global network. Additionally, it is not possible to curate a list of Gateway IP addresses – the components responsible for session connectivity. This type of IP address is negotiated upon session setup and is predicated by the geo-location of both the session host, the session recipient, as well as being subject to available network conditions. To get the best performance out of <MadCap:variable name="General.CompanyName" />, please make sure that there is no deep packet inspection applied to the <MadCap:variable name="General.CompanyName" /> domains. On the Agents' networks, you can also create an exclusion on inspecting outbound traffic on the TCP port 3377.</p>
-        <h3>What do you want to do?</h3>
+        <h2>Access to the <MadCap:variable name="General.CompanyName" /> network</h2>
+        <p><MadCap:variable name="General.CompanyName" />'s list of IP addresses is very large and highly dynamic. Many IP address ranges point towards the intelligent routing infrastructure that forms part of our global network. Additionally, it is not possible to curate a list of Gateway IP addresses – the components responsible for session connectivity. This type of IP address is negotiated upon session setup and is predicated by the geo-location of both the session host, the session recipient, as well as being subject to available network conditions. </p>
+        <p>To get the best performance out of <MadCap:variable name="General.CompanyName" />, please make sure that there is no deep packet inspection applied to the <MadCap:variable name="General.CompanyName" /> domains. On the Agents' networks, you can also create an exclusion on inspecting outbound traffic on the TCP port 3377.</p>
+        <h2>What do you want to do?</h2>
         <ul>
             <li value="1"><a href="Port-access-requirements.htm">Learn about <MadCap:variable name="General.CompanyName" /> port access requirements for remote sessions </a>
             </li>

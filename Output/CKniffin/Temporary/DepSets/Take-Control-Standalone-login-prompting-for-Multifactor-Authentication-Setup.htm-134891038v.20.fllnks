@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="https://logicnow--c.na84.content.force.com/servlet/rtaImage" />
+    <Link
+      Url="Content/troubleshooting/How-to-enable-two-factor-authentication-on-Take-Control-Take-Control-Plus.htm" />
+    <Link
+      Url="Content/troubleshooting/SolarWinds-Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
+    <Link
+      Url="Content/troubleshooting/Take-Control-Standalone-How-to-enable-Tech-Console-features-and-grant-permissions-to-technicians.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="https://logicnow--c.na84.content.force.com/servlet/rtaImage?eid=kaD1T000000PW86^&amp;feoid=00N1T00000AKHVR^&amp;refid=0EM1T0000010ar1" />
+    <Link
+      Url="https://logicnow--c.na84.content.force.com/servlet/rtaImage?eid=kaD1T000000PW86^&amp;feoid=00N1T00000AKHVR^&amp;refid=0EM1T0000010arG" />
+    <Link
+      Url="https://logicnow--c.na84.content.force.com/servlet/rtaImage?eid=kaD1T000000PW86^&amp;feoid=00N1T00000AKHVR^&amp;refid=0EM1T0000010arL" />
+    <Link
+      Url="Content/troubleshooting/How-to-enable-two-factor-authentication-on-Take-Control-Take-Control-Plus.htm" />
+    <Link
+      Url="Content/troubleshooting/SolarWinds-Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
+    <Link
+      Url="Content/troubleshooting/Take-Control-Standalone-How-to-enable-Tech-Console-features-and-grant-permissions-to-technicians.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_tc-sa" />
+    <Variable
+      Name="General.ProductName_tcp_short" />
+    <Variable
+      Name="General.ProductName_tc_long" />
+    <Variable
+      Name="General.ProductName_tcp-sa_short" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

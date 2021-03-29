@@ -29,8 +29,6 @@
     <Link
       Url="Skins/Fluid/Stylesheets/Mobile.css" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Skins/Default/Stylesheets/Images/home_1.png" />
     <Link
       Url="Resources/Scripts/PIE-no-motw.htc" />
@@ -51,11 +49,13 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="https://www.solarwindsmsp.com/products/take-control" />
+      Url="https://www.n-able.com/products/take-control" />
     <Link
-      Url="https://www.solarwindsmsp.com/sites/solarwindsmsp/files/resources/SW_MSP_Assets_ComparisonChart_Take_Control.pdf" />
+      Url="Project/VariableSets/URLs.flvar" />
     <Link
-      Url="https://www.solarwindsmsp.com/sites/solarwindsmsp/files/resources/SW_MSP_Take_Control_Quick_Start_Guide.pdf" />
+      Url="https://www.n-able.com/sites/solarwindsmsp/files/resources/SW_MSP_Assets_ComparisonChart_Take_Control.pdf" />
+    <Link
+      Url="https://www.n-able.com/sites/solarwindsmsp/files/resources/SW_MSP_Take_Control_Quick_Start_Guide.pdf" />
     <Link
       Url="https://admin.swi-tc.com/admin_area_/home.php" />
     <Link
@@ -95,8 +95,6 @@
     <Link
       Url="Skins/Fluid/Stylesheets/Mobile.css" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Skins/Default/Stylesheets/Images/home_1.png" />
     <Link
       Url="Resources/Scripts/PIE-no-motw.htc" />
@@ -117,11 +115,13 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="https://www.solarwindsmsp.com/products/take-control" />
+      Url="https://www.n-able.com/products/take-control" />
     <Link
-      Url="https://www.solarwindsmsp.com/sites/solarwindsmsp/files/resources/SW_MSP_Assets_ComparisonChart_Take_Control.pdf" />
+      Url="Project/VariableSets/URLs.flvar" />
     <Link
-      Url="https://www.solarwindsmsp.com/sites/solarwindsmsp/files/resources/SW_MSP_Take_Control_Quick_Start_Guide.pdf" />
+      Url="https://www.n-able.com/sites/solarwindsmsp/files/resources/SW_MSP_Assets_ComparisonChart_Take_Control.pdf" />
+    <Link
+      Url="https://www.n-able.com/sites/solarwindsmsp/files/resources/SW_MSP_Take_Control_Quick_Start_Guide.pdf" />
     <Link
       Url="https://admin.swi-tc.com/admin_area_/home.php" />
     <Link
@@ -147,6 +147,8 @@
   <Variables>
     <Variable
       Name="General.CompanyName" />
+    <Variable
+      Name="URLs.CompanyURL" />
   </Variables>
   <FileConditions />
   <FileTags />
@@ -172,7 +174,5 @@
       Source="Skins/Fluid/Stylesheets/Tablet.css" />
     <Url
       Source="Skins/Fluid/Stylesheets/Mobile.css" />
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

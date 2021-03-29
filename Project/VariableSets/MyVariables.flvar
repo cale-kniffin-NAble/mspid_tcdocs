@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="t"
+    EvaluatedDefinition="SolarWinds">SolarWinds</Variable>
+  <Variable
+    Name="ACM"
+    Comment=""
+    Definition="Some text">Administrator Guide</Variable>
+  <Variable
+    Name="Guide Title"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="Admin Guide">Admin Guide</Variable>
+  <Variable
+    Name="Build"
+    Definition="Some text"
+    EvaluatedDefinition="Build: 2017.11.1">Build: 2017.11.1</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="2017">2017</Variable>
+  <Variable
+    Name="AV"
+    Comment="">Antivirus</Variable>
+  <Variable
+    Name="PM"
+    Comment="">Patch Management</Variable>
+  <Variable
+    Name="AT"
+    Comment="">Asset Tracking</Variable>
+  <Variable
+    Name="MG"
+    Comment="">Monitoring</Variable>
+  <Variable
+    Name="TV"
+    Comment="">TeamViewer</Variable>
+  <Variable
+    Name="Agents"
+    Comment="">Agents</Variable>
+  <Variable
+    Name="WP"
+    Comment="">Web Protection</Variable>
+  <Variable
+    Name="RM"
+    Comment="">Remote Management</Variable>
+  <Variable
+    Name="TT"
+    Comment="">ThreatTrack Security</Variable>
+  <Variable
+    Name="D"
+    Comment="">Dashboard</Variable>
+  <Variable
+    Name="SSP"
+    Comment="">Self-serve User Portal</Variable>
+  <Variable
+    Name="SU"
+    Comment="">Staff Agent</Variable>
+  <Variable
+    Name="KB"
+    Comment="">Knowledge Base</Variable>
+  <Variable
+    Name="QSG"
+    Comment="">Quick Start Guide</Variable>
+  <Variable
+    Name="SD"
+    Comment="">Service Desk</Variable>
+  <Variable
+    Name="Product Name"
+    Comment=""
+    EvaluatedDefinition="Risk Intelligence">Risk Intelligence</Variable>
+  <Variable
+    Name="RI"
+    Comment=""
+    EvaluatedDefinition="Risk Intelligence">Risk Intelligence</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTimeFileSaved"
+    LastUpdated="2016-08-16T14:31:57.8488649+01:00"
+    EvaluatedDefinition="dd.MM.yyyy">dd.MM.yyyy</Variable>
+  <Variable
+    Name="Product Name"
+    Comment=""
+    EvaluatedDefinition="Security Assessment">Security Assessment</Variable>
+</CatapultVariableSet>

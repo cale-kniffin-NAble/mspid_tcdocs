@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="290" MadCap:lastWidth="796">
+    <head>
+        <link href="../TableStyles/TableSnippetSequence.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="border-spacing: 100px 100px;border-left-style: solid;border-left-width: 2px;border-left-color: #ffffff;border-right-style: solid;border-right-width: 2px;border-right-color: #ffffff;border-top-style: solid;border-top-width: 2px;border-top-color: #ffffff;border-bottom-style: solid;border-bottom-width: 2px;border-bottom-color: #ffffff;mc-table-style: url('../TableStyles/TableSnippetSequence.css');margin-left: auto;margin-right: auto;width: 80%;" class="TableStyle-TableSnippetSequence" cellspacing="0">
+            <col class="TableStyle-TableSnippetSequence-Column-Column1" />
+            <tbody>
+                <tr class="TableStyle-TableSnippetSequence-Body-Body1">
+                    <td class="TableStyle-TableSnippetSequence-BodyA-Column1-Body1">
+                        <p>The <b>Permissions</b> table displays which user groups have access to the suspected data, and what access rights they have. The following lists all available access types:</p>
+                        <ul>
+                            <li class="Level2">F - Full</li>
+                            <li class="Level2">M - Modify</li>
+                            <li class="Level2">X - Execute</li>
+                            <li class="Level2">R - Read</li>
+                            <li class="Level2">W - Write</li>
+                            <li class="Level2">S - Special - Windows-only permission</li>
+                        </ul>
+                        <p>&#160;</p>
+                        <p> - Half circle means that at least one of the users in the group has access at that level</p>
+                        <p> - Full circle means that all users in the group have access at that level</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

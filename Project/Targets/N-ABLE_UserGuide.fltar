@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  MasterPage="/Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp"
+  ResultsPerPage="10"
+  ConditionTagExpression="include[Default.Online]exclude[Default.PDF]"
+  SearchBarSkin="/Project/Skins/N-ABLE_SearchBar.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/N-ABLE_CustomStyles.css"
+  GenerateAllSkins="false"
+  Skin="/Project/Skins/N-ABLE_MainSkin.flskn"
+  EnableSitemap="true"
+  SitemapWebUrl="https://documentation.n-able.com/takecontrol/userguide/"
+  MenuSkin="/Project/Skins/N-ABLE_SideMenu.flskn"
+  ExcludeUnreferencedContent="true"
+  IncludeGlossarySearchResults="false"
+  EquationsOutputType="PNG"
+  MasterStylesheetOverride="true"
+  SearchEngine="MadCapSearch"
+  ResolveCssVariables="true"
+  MasterToc="/Project/TOCs/N-ABLE_TOC.fltoc"
+  TabletBreakpoint="1097"
+  FaviconSkin="/Project/Skins/N-ABLE_Favicon.flskn"
+  DefaultUrl="/Content/StartPages/MenuPage/GuideStart.htm"
+  MobileBreakpoint="667"
+  ContentInclusionType="Referenced"
+  UseDeviceWidth="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <MetaTags>
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge" />
+    <meta
+      name="products"
+      content="Take Control" />
+  </MetaTags>
+  <Variables>
+    <Variable
+      Name="Documents/ProductLongName">N-able Take Control</Variable>
+    <Variable
+      Name="Documents/ProductNamePath">takecontrol</Variable>
+    <Variable
+      Name="Documents/ProductShortName">Take Control</Variable>
+    <Variable
+      Name="URLs/TroubleshootingPath">troubleshooting/Content/StartPages/TroubleshootingPage</Variable>
+  </Variables>
+</CatapultTarget>

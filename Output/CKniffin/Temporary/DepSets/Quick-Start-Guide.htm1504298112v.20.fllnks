@@ -29,8 +29,6 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="https://admin.swi-tc.com/admin_area_/home.php" />
     <Link
       Url="Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram_428x137.png" />
@@ -87,8 +85,6 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="https://admin.swi-tc.com/admin_area_/home.php" />
     <Link
       Url="Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram_428x137.png" />
@@ -138,8 +134,5 @@
     <Condition
       Tag="Exclude.comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

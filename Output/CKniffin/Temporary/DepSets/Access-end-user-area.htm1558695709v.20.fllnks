@@ -9,8 +9,6 @@
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-    <Link
       Url="Content/Create-End-Users.htm" />
     <Link
       Url="https://enduser.swi-tc.com/login.php" />
@@ -28,8 +26,6 @@
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
-    <Link
-      Url="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
     <Link
       Url="Content/Create-End-Users.htm" />
     <Link
@@ -60,8 +56,5 @@
     <Condition
       Tag="Exclude.Comment" />
   </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/SWI_CustomStyles.css" />
-  </Stylesheets>
+  <Stylesheets />
 </CatapultFileLinkSet>

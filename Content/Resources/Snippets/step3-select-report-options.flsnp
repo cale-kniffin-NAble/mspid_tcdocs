@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p><b>Step 3 - Select Report Options</b> is displayed. Choose your report name, any email recipients of the report and any automatic scheduling of the report.  </p>
+        <p>To attach the CSV file to the emailed report, select the <b>Attach CSV to emailed report</b> option.</p>
+        <div class="info">
+            <p>The system will add the CSV file to the emailed report in one of the following ways:</p>
+            <ul>
+                <li>0-5MB - If the file is between 0-5MB, the file is attached to the email</li>
+                <li>5-10MB - If the file is between 5-10MB, the file is zipped and attached to the email</li>
+                <li>10MB+ - If the file is over 10MB, a link to the file is added to the email to the email</li>
+            </ul>
+        </div>
+        <p>If you want the system to automatically generate a shared URL for the report, select the <b>Automatically Generate Shared URL for Report</b> option.</p>
+    </body>
+</html>

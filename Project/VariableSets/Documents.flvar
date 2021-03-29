@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="ProductNamePath"
+    Comment="Product name used in URLs to guides or troubleshooting docs."
+    EvaluatedDefinition="takecontrol">takecontrol</Variable>
+  <Variable
+    Name="ProductLongName"
+    Comment="Long name used in titles."
+    EvaluatedDefinition="N-able Take Control">N-able Take Control</Variable>
+  <Variable
+    Name="ProductShortName"
+    Comment="Short name used in titles."
+    EvaluatedDefinition="Take Control">Take Control</Variable>
+  <Variable
+    Name="DocumentType"
+    Comment=""
+    EvaluatedDefinition="User Guide">User Guide</Variable>
+  <Variable
+    Name="DocumentType"
+    Comment=""
+    EvaluatedDefinition="Troubleshooting">Troubleshooting</Variable>
+</CatapultVariableSet>
