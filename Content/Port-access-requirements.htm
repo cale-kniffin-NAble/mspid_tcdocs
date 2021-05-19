@@ -3,11 +3,54 @@
     <head />
     <body>
         <h1>Take Control Port Access requirements</h1>
-        <p>The ports identified in the tables below must be accessible for <MadCap:variable name="General.CompanyName" />  remote control connections.</p>
+        <p>The ports identified below must be accessible for <MadCap:variable name="General.CompanyName" />  remote control connections and all Agents must have internet access. </p>
         <p>If the agent has a direct TCP port configured, the same port must be open at the agent's firewall and be accessible by the viewer. </p>
-        <p>Additionally, <MadCap:variable name="General.CompanyName" /> can use the UDP transmission model to connect to devices as well as TCP. Initially, the <MadCap:variable name="General.CompanyName" /> Viewer requires access to port 1234. After the system administrator modifies the firewall to enable the identified IP addresses to communicate with the server, the ports can be random.</p>
+        <p MadCap:conditions="Exclude.comment">Additionally, <MadCap:variable name="General.CompanyName" /> can use the UDP transmission model to connect to devices as well as TCP. Initially, the <MadCap:variable name="General.CompanyName" /> Viewer requires access to port 1234. After the system administrator modifies the firewall to enable the identified IP addresses to communicate with the server, the ports can be random.</p>
         <p class="nugget">MacOS uses TCP Mode only.</p>
-        <table style="margin-left: 0;margin-right: auto;">
+        <h2>Ports</h2>
+        <ul>
+            <li>HTTP (TCP 80)</li>
+            <li>HTTPS (TCP 443)</li>
+        </ul>
+        <p class="info">No SSL inspection on TCP 443 for traffic regarding the necessary domains.</p>
+        <p><MadCap:variable name="General.CompanyName" /> validates the HTTPS certificates when communicating with our web servers. If the firewall/proxy intercepts this traffic through a transparent proxy and encrypts it again with the firewall/proxy's certificate, it will fail and an exception for our domains is required.</p>
+        <h2>Domains</h2>
+        <ul>
+            <li>.beanywhere.com</li>
+            <li>.mspa.n-able.com</li>
+            <li>.pubnub.com</li>
+            <li>.swi-rc.com</li>
+            <li>.swi-tc.com - mandatory for using <a href="Password-secrets-vaults.htm">Password Secrets Vaults</a> and <a href="Administrative-Area.htm">accessing the Admin Area</a></li>
+            <li>swi-rc.cdn-sw.net (necessary for update downloads)</li>
+        </ul>
+        <h2>Additional notes for Firewalls/Proxies</h2>
+        <p class="info">All Agents require internet access.</p>
+        <p class="nugget"><MadCap:variable name="General.CompanyName" /> validates HTTPS certificates when communicating with web servers. If the firewall/proxy's certificate  fails, create an exception for the domain: *.mspa.n-able.com.</p>
+        <ul>
+            <li>
+                <p> Some firewalls will interpret non-HTTPS traffic on 443 as malicious, as a result any protocol fingerprinting should be excluded for the following domains:</p>
+                <ul>
+                    <li>*.mspa.n-able.com</li>
+                    <li>*.beanywhere.com </li>
+                    <li>*.pubnub.com </li>
+                    <li>*.swi-tc.com</li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>Add components to AV exclusion list (only necessary if being actively blocked by AV)<ul><li>Applet: BASupApp.exe and BASupSrvc.exe</li><li>Agent: BASupSrvcCnfg.exe and BASupTSHelper.exe</li></ul></li>
+        </ul>
+        <ul>
+            <li>
+                <p>If you are unable to access devices on the Technician Side of the remote connection,  you also should exclude:</p>
+                <ul>
+                    <li>
+                        <p>BASEClient.exe</p>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <table style="margin-left: 0;margin-right: auto;" MadCap:conditions="Exclude.comment">
             <col style="width: 81px;" />
             <col />
             <col style="width: 115px;" />
@@ -62,21 +105,19 @@
                 </tr>
             </tbody>
         </table>
-        <p class="info">If the agent has a direct TCP port configured, the same port must be open at the agent's firewall and be accessible by the Viewer.</p>
-        <p>When using <MadCap:variable name="General.CompanyName" />, the <MadCap:variable name="General.ProductName_nc" /> server must be able to resolve the following domain names:</p>
+        <p class="info" MadCap:conditions="Exclude.comment">If the agent has a direct TCP port configured, the same port must be open at the agent's firewall and be accessible by the Viewer.</p>
+        <p MadCap:conditions="Exclude.comment">When using <MadCap:variable name="General.CompanyName" />, the <MadCap:variable name="General.ProductName_nc" /> server must be able to resolve the following domain names:</p>
         <ul>
-            <li style="font-family: 'Courier New';">*.mspa.n-able.com</li>
-            <li>
-                <span style="font-family: 'Courier New';">sis.n-able.com</span>
+            <li style="font-family: 'Courier New';" MadCap:conditions="Exclude.comment">*.mspa.n-able.com</li>
+            <li MadCap:conditions="Exclude.comment"><span style="font-family: 'Courier New';">sis.n-able.com</span>
             </li>
         </ul>
+        <p MadCap:conditions="Exclude.comment">These ports are valid for the technician and also for the end user receiving support.</p>
         <h2>What do you want to do?</h2>
         <ul>
-            <li value="1">
-                <a href="Getting-started-with-Take-Control.htm" class="MCXref xref" xrefformat="{paratext}">Get started with <MadCap:variable name="General.CompanyName" /></a>
+            <li value="1"><a href="Getting-started-with-Take-Control.htm" class="MCXref xref" xrefformat="{paratext}">Get started with <MadCap:variable name="General.CompanyName" /></a>
             </li>
-            <li value="2">
-                <a href="Provide-assistance-to-customers.htm" class="MCXref xref" xrefformat="{paratext}">Provide assistance to your customers</a>
+            <li value="2"><a href="Provide-assistance-to-customers.htm" class="MCXref xref" xrefformat="{paratext}">Provide assistance to your customers</a>
             </li>
         </ul>
     </body>

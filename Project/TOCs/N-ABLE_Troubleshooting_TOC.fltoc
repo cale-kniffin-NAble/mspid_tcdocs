@@ -408,6 +408,9 @@
     Link="/Content/kb/Take-Control-All-Versions-Differences-between-Closing-and-Disconnecting-a-session.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
+    Link="/Content/kb/Take-Control-All-Versions-Digital-Certificate-Update.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
     Link="/Content/kb/Take-Control-All-Versions-Disappearing-Missing-Menus-Bar.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"

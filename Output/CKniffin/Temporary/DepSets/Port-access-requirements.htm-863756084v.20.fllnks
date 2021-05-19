@@ -8,6 +8,12 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
+      Url="Content/Password-secrets-vaults.htm" />
+    <Link
+      Url="Content/Administrative-Area.htm" />
+    <Link
       Url="Content/Getting-started-with-Take-Control.htm" />
     <Link
       Url="Content/Provide-assistance-to-customers.htm" />
@@ -15,6 +21,12 @@
   <LongLinks>
     <Link
       Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
+      Url="Content/Password-secrets-vaults.htm" />
+    <Link
+      Url="Content/Administrative-Area.htm" />
     <Link
       Url="Content/Getting-started-with-Take-Control.htm" />
     <Link
@@ -33,6 +45,9 @@
   </Variables>
   <FileConditions />
   <FileTags />
-  <AllConditions />
+  <AllConditions>
+    <Condition
+      Tag="Exclude.comment" />
+  </AllConditions>
   <Stylesheets />
 </CatapultFileLinkSet>

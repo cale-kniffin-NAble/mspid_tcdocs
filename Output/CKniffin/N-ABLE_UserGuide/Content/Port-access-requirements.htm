@@ -361,70 +361,50 @@ div.links-menu div.text-link p#GuideLink
                                         </div>
                                         <div role="main" id="mc-main-content">
                                             <h1>Take Control Port Access requirements</h1>
-                                            <p>The ports identified in the tables below must be accessible for <span class="mc-variable General.CompanyName variable">Take Control</span>  remote control connections.</p>
+                                            <p>The ports identified below must be accessible for <span class="mc-variable General.CompanyName variable">Take Control</span>  remote control connections and all Agents must have internet access. </p>
                                             <p>If the agent has a direct TCP port configured, the same port must be open at the agent's firewall and be accessible by the viewer. </p>
-                                            <p>Additionally, <span class="mc-variable General.CompanyName variable">Take Control</span> can use the UDP transmission model to connect to devices as well as TCP. Initially, the <span class="mc-variable General.CompanyName variable">Take Control</span> Viewer requires access to port 1234. After the system administrator modifies the firewall to enable the identified IP addresses to communicate with the server, the ports can be random.</p>
                                             <p class="nugget">MacOS uses TCP Mode only.</p>
-                                            <table style="margin-left: 0;margin-right: auto;">
-                                                <col style="width: 81px;" />
-                                                <col />
-                                                <col style="width: 115px;" />
-                                                <col style="width: 144px;" />
-                                                <col style="width: 343px;" />
-                                                <tbody>
-                                                    <tr>
-                                                        <td style="border-left-style: solid;border-left-width: 1px;border-left-color: #ABD5E3;border-right-style: solid;border-right-width: 1px;border-right-color: #ABD5E3;border-top-style: solid;border-top-width: 2px;border-top-color: #ABD5E3;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #ABD5E3;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;text-align: center;font-weight: bold;">Port</td>
-                                                        <td style="text-align: center;font-weight: bold;">Protocol </td>
-                                                        <td style="text-align: center;font-weight: bold;">Service</td>
-                                                        <td style="text-align: center;font-weight: bold;">Direction</td>
-                                                        <td style="text-align: center;font-weight: bold;">
-                                                            <p>Description</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>80</p>
-                                                        </td>
-                                                        <td>TCP</td>
-                                                        <td>-</td>
-                                                        <td>Outbound</td>
-                                                        <td>Required for HTTP connectivity</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>443</td>
-                                                        <td>TCP</td>
-                                                        <td>-</td>
-                                                        <td>Outbound</td>
-                                                        <td>Required for HTTP connectivity</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>1234</td>
-                                                        <td>UDP</td>
-                                                        <td>-</td>
-                                                        <td>Bidirectional</td>
-                                                        <td>Required for P2P connections</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>1235</td>
-                                                        <td>UDP</td>
-                                                        <td>-</td>
-                                                        <td>Bidirectional</td>
-                                                        <td>Required for P2P connections </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>3377</td>
-                                                        <td>TCP</td>
-                                                        <td>-</td>
-                                                        <td>Outbound</td>
-                                                        <td>Failover port where DPI is enabled</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                            <p class="info">If the agent has a direct TCP port configured, the same port must be open at the agent's firewall and be accessible by the Viewer.</p>
-                                            <p>When using <span class="mc-variable General.CompanyName variable">Take Control</span>, the <span class="mc-variable General.ProductName_nc variable">N-able N-central</span> server must be able to resolve the following domain names:</p>
+                                            <h2>Ports</h2>
                                             <ul>
-                                                <li style="font-family: 'Courier New';">*.mspa.n-able.com</li>
-                                                <li><span style="font-family: 'Courier New';">sis.n-able.com</span>
+                                                <li>HTTP (TCP 80)</li>
+                                                <li>HTTPS (TCP 443)</li>
+                                            </ul>
+                                            <p class="info">No SSL inspection on TCP 443 for traffic regarding the necessary domains.</p>
+                                            <p><span class="mc-variable General.CompanyName variable">Take Control</span> validates the HTTPS certificates when communicating with our web servers. If the firewall/proxy intercepts this traffic through a transparent proxy and encrypts it again with the firewall/proxy's certificate, it will fail and an exception for our domains is required.</p>
+                                            <h2>Domains</h2>
+                                            <ul>
+                                                <li>.beanywhere.com</li>
+                                                <li>.mspa.n-able.com</li>
+                                                <li>.pubnub.com</li>
+                                                <li>.swi-rc.com</li>
+                                                <li>.swi-tc.com - mandatory for using <a href="Password-secrets-vaults.htm">Password Secrets Vaults</a> and <a href="Administrative-Area.htm">accessing the Admin Area</a></li>
+                                                <li>swi-rc.cdn-sw.net (necessary for update downloads)</li>
+                                            </ul>
+                                            <h2>Additional notes for Firewalls/Proxies</h2>
+                                            <p class="info">All Agents require internet access.</p>
+                                            <p class="nugget"><span class="mc-variable General.CompanyName variable">Take Control</span> validates HTTPS certificates when communicating with web servers. If the firewall/proxy's certificate  fails, create an exception for the domain: *.mspa.n-able.com.</p>
+                                            <ul>
+                                                <li>
+                                                    <p> Some firewalls will interpret non-HTTPS traffic on 443 as malicious, as a result any protocol fingerprinting should be excluded for the following domains:</p>
+                                                    <ul>
+                                                        <li>*.mspa.n-able.com</li>
+                                                        <li>*.beanywhere.com </li>
+                                                        <li>*.pubnub.com </li>
+                                                        <li>*.swi-tc.com</li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li>Add components to AV exclusion list (only necessary if being actively blocked by AV)<ul><li>Applet: BASupApp.exe and BASupSrvc.exe</li><li>Agent: BASupSrvcCnfg.exe and BASupTSHelper.exe</li></ul></li>
+                                            </ul>
+                                            <ul>
+                                                <li>
+                                                    <p>If you are unable to access devices on the Technician Side of the remote connection,  you also should exclude:</p>
+                                                    <ul>
+                                                        <li>
+                                                            <p>BASEClient.exe</p>
+                                                        </li>
+                                                    </ul>
                                                 </li>
                                             </ul>
                                             <h2>What do you want to do?</h2>

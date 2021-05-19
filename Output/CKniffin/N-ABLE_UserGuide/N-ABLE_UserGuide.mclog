@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated N-ABLE_UserGuide.fltar" Date="2021-03-26T17:51:01.2867400-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated N-ABLE_UserGuide.fltar" Date="2021-04-23T15:13:26.1182705-05:00">
     <Messages>Compiling target N-ABLE_UserGuide...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: Default.Online
@@ -8,6 +8,7 @@ Gathering Glossary information...
 Gathering Auto-index information...
 Loading Master TOC...
 Processing Master TOC...
+Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Mass-Agent-deployment.htm.
 Generating Glossary...
 Collecting source files...
 Processing source files...
@@ -34,20 +35,6 @@ Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPag
 Processing CSS: Resources\Stylesheets\N-ABLE_StartPageGuide.css...
 Generating output files...
 Processing topic: Getting-started-with-Take-Control.htm...
-Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css
-Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css
-Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css
-Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css
-Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css
-Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css
 Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
@@ -62,6 +49,12 @@ Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
 Link points outside project file:///C:/Bitbucket/Default.htm
 Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
 Generated Learn-about-Take-Control-components.htm
+Processing topic: Upgrade-your-account.htm...
+Applying master page N-ABLE_GuideTopics.flmsp...
+Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
+Link points outside project file:///C:/Bitbucket/Default.htm
+Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
+Generated Upgrade-your-account.htm
 Processing topic: System-requirements.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
@@ -80,12 +73,6 @@ Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
 Link points outside project file:///C:/Bitbucket/Default.htm
 Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
 Generated Take-Control-for-Mojave.htm
-Processing topic: Upgrade-your-account.htm...
-Applying master page N-ABLE_GuideTopics.flmsp...
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
-Link points outside project file:///C:/Bitbucket/Default.htm
-Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
-Generated Upgrade-your-account.htm
 Processing topic: Billing-info.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
@@ -99,13 +86,6 @@ Link points outside project file:///C:/Bitbucket/Default.htm
 Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
 Generated Multi-factor-authentication.htm
 Processing topic: Administrative-Area.htm...
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css
 Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
@@ -136,12 +116,6 @@ Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
 Link points outside project file:///C:/Bitbucket/Default.htm
 Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
 Generated Create-and-manage- technicians.htm
-Processing topic: Mass-Agent-deployment.htm...
-Applying master page N-ABLE_GuideTopics.flmsp...
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
-Link points outside project file:///C:/Bitbucket/Default.htm
-Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
-Generated Mass-Agent-deployment.htm
 Processing topic: Enable-multi-factor-authentication.htm...
 Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png
 Applying master page N-ABLE_GuideTopics.flmsp...
@@ -310,12 +284,6 @@ Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
 Link points outside project file:///C:/Bitbucket/Default.htm
 Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
 Generated Generate-session-report.htm
-Processing topic: Generate-audit-report.htm...
-Applying master page N-ABLE_GuideTopics.flmsp...
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
-Link points outside project file:///C:/Bitbucket/Default.htm
-Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
-Generated Generate-audit-report.htm
 Processing topic: View-script-jobs-history.htm...
 Applying master page N-ABLE_GuideTopics.flmsp...
 Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
@@ -764,12 +732,6 @@ Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
 Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Default.htm
 Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\QuickLinks\QuickLinksStart.htm
 Generated StartPages\MenuPage\GuideStart.htm
-Processing topic: Alerts-and-Monitoring.htm...
-Applying master page N-ABLE_GuideTopics.flmsp...
-Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm
-Link points outside project file:///C:/Bitbucket/Default.htm
-Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
-Generated Alerts-and-Monitoring.htm
 Generating output skins...
 Generating synonyms file...
 Generating alias file...
@@ -795,8 +757,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
-Ignored Compiler Warnings: 974
-Output generated in 2 minute(s) and 24 second(s).
+Ignored Compiler Warnings: 950
+Output generated in 2 minute(s) and 49 second(s).
 
 Done
 Saving log to "C:\Bitbucket\mspid_tcdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE_UserGuide.mclog"
@@ -821,20 +783,6 @@ Saving log to "C:\Bitbucket\mspid_tcdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE
         <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\22.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\23.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\24.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10001" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_UserGuide" ErrorID="10010" />
-        <LogEntry Message="Missing linked stylesheet file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="N-ABLE_UserGuide" ErrorID="10010" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Getting-started-with-Take-Control.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
@@ -861,17 +809,7 @@ Saving log to "C:\Bitbucket\mspid_tcdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Administrative-Area.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
@@ -971,9 +909,6 @@ Saving log to "C:\Bitbucket\mspid_tcdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Generate-session-report.htm" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Skins/Default/Stylesheets/Images/home_1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
@@ -1202,9 +1137,6 @@ Saving log to "C:\Bitbucket\mspid_tcdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_StartPages.flmsp" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_StartPages.flmsp" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_StartPages.flmsp" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\QuickLinks\QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry Message="Linked index term &quot;Images&quot; is not in the index, skipping the link &quot;Pictures&quot;...&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10069" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/mspid_tcdocs/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_UserGuide" ErrorID="10056" />

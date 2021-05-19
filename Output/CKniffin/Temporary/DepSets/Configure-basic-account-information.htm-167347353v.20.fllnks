@@ -9,6 +9,8 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
       Url="https://www.youtube.com/watch" />
     <Link
       Url="Content/Calling-Cards.htm" />
@@ -26,6 +28,8 @@
   <LongLinks>
     <Link
       Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
       Url="https://www.youtube.com/watch?v=bUWfE5IK2HU&amp;feature=youtu.be" />
     <Link
@@ -54,6 +58,9 @@
   </Variables>
   <FileConditions />
   <FileTags />
-  <AllConditions />
+  <AllConditions>
+    <Condition
+      Tag="Exclude.comment" />
+  </AllConditions>
   <Stylesheets />
 </CatapultFileLinkSet>

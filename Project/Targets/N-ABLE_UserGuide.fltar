@@ -10,7 +10,7 @@
   EnableResponsiveOutput="true"
   MasterPage="/Content/Resources/MasterPages/N-ABLE_GuideTopics.flmsp"
   ResultsPerPage="10"
-  ConditionTagExpression="include[Default.Online]exclude[Default.PDF]"
+  ConditionTagExpression="include[Default.Online], exclude[Exclude.comment or Default.PDF]"
   SearchBarSkin="/Project/Skins/N-ABLE_SearchBar.flskn"
   MasterStylesheet="/Content/Resources/Stylesheets/N-ABLE_CustomStyles.css"
   GenerateAllSkins="false"

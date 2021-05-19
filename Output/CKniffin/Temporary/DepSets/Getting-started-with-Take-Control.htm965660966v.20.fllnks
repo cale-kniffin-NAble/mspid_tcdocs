@@ -9,26 +9,6 @@
   FileDescription="">
   <Links>
     <Link
-      Url="Skins/Default/Stylesheets/Slideshow.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/TextEffects.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Topic.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Styles.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Tablet.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Mobile.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/foundation.6.2.3.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Styles.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Tablet.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Mobile.css" />
-    <Link
       Url="Skins/Default/Stylesheets/Images/home_1.png" />
     <Link
       Url="Resources/Scripts/PIE-no-motw.htc" />
@@ -47,27 +27,35 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
       Url="https://www.n-able.com/products/take-control" />
     <Link
       Url="Project/VariableSets/URLs.flvar" />
     <Link
-      Url="https://www.n-able.com/sites/solarwindsmsp/files/resources/SW_MSP_Assets_ComparisonChart_Take_Control.pdf" />
+      Url="https://www.n-able.com/resources/n-able-take-control-vs-take-control-plus-whats-right-for-your-business" />
     <Link
-      Url="https://www.n-able.com/sites/solarwindsmsp/files/resources/SW_MSP_Take_Control_Quick_Start_Guide.pdf" />
+      Url="https://liveshare.seismic.com/i/GBnPeNUMA2hNRMejif5sn1a3jpIeho99mMzMuEijZKv5Ya44U3Kq24KHoIUsg99bte8qwWaCwJquBLqvqUamYabI1Fp1kkbstiuSs2___WKOMEQUALSIGN" />
     <Link
       Url="https://admin.swi-tc.com/admin_area_/home.php" />
     <Link
       Url="Content/Resources/Images/icons/FeatureGuides_21x19.png" />
     <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+    <Link
       Url="Content/Multi-factor-authentication.htm" />
     <Link
-      Url="Content/Billing-info.htm" />
+      Url="Content/Learn-about-Take-Control-components.htm" />
     <Link
       Url="Content/Upgrade-your-account.htm" />
     <Link
+      Url="Content/System-requirements.htm" />
+    <Link
       Url="Content/Administrative-Area.htm" />
+    <Link
+      Url="Content/Billing-info.htm" />
     <Link
       Url="Content/Configure-Profile.htm" />
     <Link
@@ -75,26 +63,6 @@
   </Links>
   <LongLinks>
     <Link
-      Url="Skins/Default/Stylesheets/Slideshow.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/TextEffects.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Topic.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Styles.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Tablet.css" />
-    <Link
-      Url="Skins/Default/Stylesheets/Components/Mobile.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/foundation.6.2.3.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Styles.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Tablet.css" />
-    <Link
-      Url="Skins/Fluid/Stylesheets/Mobile.css" />
-    <Link
       Url="Skins/Default/Stylesheets/Images/home_1.png" />
     <Link
       Url="Resources/Scripts/PIE-no-motw.htc" />
@@ -113,27 +81,35 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
       Url="https://www.n-able.com/products/take-control" />
     <Link
       Url="Project/VariableSets/URLs.flvar" />
     <Link
-      Url="https://www.n-able.com/sites/solarwindsmsp/files/resources/SW_MSP_Assets_ComparisonChart_Take_Control.pdf" />
+      Url="https://www.n-able.com/resources/n-able-take-control-vs-take-control-plus-whats-right-for-your-business" />
     <Link
-      Url="https://www.n-able.com/sites/solarwindsmsp/files/resources/SW_MSP_Take_Control_Quick_Start_Guide.pdf" />
+      Url="https://liveshare.seismic.com/i/GBnPeNUMA2hNRMejif5sn1a3jpIeho99mMzMuEijZKv5Ya44U3Kq24KHoIUsg99bte8qwWaCwJquBLqvqUamYabI1Fp1kkbstiuSs2___WKOMEQUALSIGN" />
     <Link
       Url="https://admin.swi-tc.com/admin_area_/home.php" />
     <Link
       Url="Content/Resources/Images/icons/FeatureGuides_21x19.png" />
     <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+    <Link
       Url="Content/Multi-factor-authentication.htm" />
     <Link
-      Url="Content/Billing-info.htm" />
+      Url="Content/Learn-about-Take-Control-components.htm" />
     <Link
       Url="Content/Upgrade-your-account.htm" />
     <Link
+      Url="Content/System-requirements.htm" />
+    <Link
       Url="Content/Administrative-Area.htm" />
+    <Link
+      Url="Content/Billing-info.htm" />
     <Link
       Url="Content/Configure-Profile.htm" />
     <Link
@@ -149,30 +125,14 @@
       Name="General.CompanyName" />
     <Variable
       Name="URLs.CompanyURL" />
+    <Variable
+      Name="General.ProductName_tcp_short" />
   </Variables>
   <FileConditions />
   <FileTags />
   <AllConditions />
   <Stylesheets>
     <Url
-      Source="Skins/Default/Stylesheets/Slideshow.css" />
-    <Url
-      Source="Skins/Default/Stylesheets/TextEffects.css" />
-    <Url
-      Source="Skins/Default/Stylesheets/Topic.css" />
-    <Url
-      Source="Skins/Default/Stylesheets/Components/Styles.css" />
-    <Url
-      Source="Skins/Default/Stylesheets/Components/Tablet.css" />
-    <Url
-      Source="Skins/Default/Stylesheets/Components/Mobile.css" />
-    <Url
-      Source="Skins/Fluid/Stylesheets/foundation.6.2.3.css" />
-    <Url
-      Source="Skins/Fluid/Stylesheets/Styles.css" />
-    <Url
-      Source="Skins/Fluid/Stylesheets/Tablet.css" />
-    <Url
-      Source="Skins/Fluid/Stylesheets/Mobile.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

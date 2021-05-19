@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\MSPanywhere\AdvancedSessionMenu.png" />
+        <Link Value="C:\Bitbucket\mspid_tcdocs\Content\Resources\Images\MSPanywhere\PINCodePermissions.png" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="C:\Bitbucket\mspid_tcdocs\Content\Generate-reports.htm" />
+        <Link Value="C:\Bitbucket\mspid_tcdocs\Content\System-requirements.htm" />
     </Dialog>
     <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
         <Link Value="C:\Bitbucket\mspid_tcdocs\Content\kb\How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm" />
