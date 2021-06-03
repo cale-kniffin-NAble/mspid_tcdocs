@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://www.microsoft.com/en-us/download/confirmation.aspx" />
+    <Link
+      Url="http://www.microsoft.com/en-us/download/confirmation.aspx" />
+    <Link
+      Url="https://www.microsoft.com/ean-us/download/details.aspx" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://www.microsoft.com/en-us/download/confirmation.aspx?id=15697" />
+    <Link
+      Url="http://www.microsoft.com/en-us/download/confirmation.aspx?id=15697" />
+    <Link
+      Url="https://www.microsoft.com/ean-us/download/details.aspx?id=6276" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_tc-v" />
+    <Variable
+      Name="General.ProductName_rmm_short" />
+    <Variable
+      Name="General.ProductName_tc-sw" />
+    <Variable
+      Name="General.ProductName_tc_long" />
+    <Variable
+      Name="General.ProductName_tcp-sa_short" />
+    <Variable
+      Name="General.ProductName_nc" />
+    <Variable
+      Name="General.ProductName_rmm_acronym" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-How-to-reset-Password.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Console-install-update-Tech-getting-Login-Password-error-after-with-SSO.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-How-to-reset-Password.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Console-install-update-Tech-getting-Login-Password-error-after-with-SSO.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_tc-sa" />
+    <Variable
+      Name="General.ProductName_tc_long" />
+    <Variable
+      Name="General.ProductName_tcp-sa_short" />
+    <Variable
+      Name="General.Company_sso" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

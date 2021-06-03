@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="topic"
+  FileTitle="Getting started with Take Control"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="">
+  <Links>
+    <Link
+      Url="Skins/Default/Stylesheets/Images/home_1.png" />
+    <Link
+      Url="Resources/Scripts/PIE-no-motw.htc" />
+    <Link
+      Url="Resources/Scripts/custom.modernizr.js" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.6.2.3_custom.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://www.n-able.com/products/take-control" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="https://www.n-able.com/resources/n-able-take-control-vs-take-control-plus-whats-right-for-your-business" />
+    <Link
+      Url="https://liveshare.seismic.com/i/GBnPeNUMA2hNRMejif5sn1a3jpIeho99mMzMuEijZKv5Ya44U3Kq24KHoIUsg99bte8qwWaCwJquBLqvqUamYabI1Fp1kkbstiuSs2___WKOMEQUALSIGN" />
+    <Link
+      Url="https://admin.swi-tc.com/admin_area_/home.php" />
+    <Link
+      Url="Content/Resources/Images/icons/FeatureGuides_21x19.png" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+    <Link
+      Url="Content/Multi-factor-authentication.htm" />
+    <Link
+      Url="Content/Learn-about-Take-Control-components.htm" />
+    <Link
+      Url="Content/Upgrade-your-account.htm" />
+    <Link
+      Url="Content/System-requirements.htm" />
+    <Link
+      Url="Content/Administrative-Area.htm" />
+    <Link
+      Url="Content/Billing-info.htm" />
+    <Link
+      Url="Content/Configure-Profile.htm" />
+    <Link
+      Url="Content/Start-a-support-session.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Skins/Default/Stylesheets/Images/home_1.png" />
+    <Link
+      Url="Resources/Scripts/PIE-no-motw.htc" />
+    <Link
+      Url="Resources/Scripts/custom.modernizr.js" />
+    <Link
+      Url="Resources/Scripts/jquery.min.js" />
+    <Link
+      Url="Resources/Scripts/require.min.js" />
+    <Link
+      Url="Resources/Scripts/require.config.js" />
+    <Link
+      Url="Resources/Scripts/foundation.6.2.3_custom.js" />
+    <Link
+      Url="Resources/Scripts/plugins.min.js" />
+    <Link
+      Url="Resources/Scripts/MadCapAll.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://www.n-able.com/products/take-control" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="https://www.n-able.com/resources/n-able-take-control-vs-take-control-plus-whats-right-for-your-business" />
+    <Link
+      Url="https://liveshare.seismic.com/i/GBnPeNUMA2hNRMejif5sn1a3jpIeho99mMzMuEijZKv5Ya44U3Kq24KHoIUsg99bte8qwWaCwJquBLqvqUamYabI1Fp1kkbstiuSs2___WKOMEQUALSIGN" />
+    <Link
+      Url="https://admin.swi-tc.com/admin_area_/home.php" />
+    <Link
+      Url="Content/Resources/Images/icons/FeatureGuides_21x19.png" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+    <Link
+      Url="Content/Multi-factor-authentication.htm" />
+    <Link
+      Url="Content/Learn-about-Take-Control-components.htm" />
+    <Link
+      Url="Content/Upgrade-your-account.htm" />
+    <Link
+      Url="Content/System-requirements.htm" />
+    <Link
+      Url="Content/Administrative-Area.htm" />
+    <Link
+      Url="Content/Billing-info.htm" />
+    <Link
+      Url="Content/Configure-Profile.htm" />
+    <Link
+      Url="Content/Start-a-support-session.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.CompanyName" />
+    <Variable
+      Name="URLs.CompanyURL" />
+    <Variable
+      Name="General.ProductName_tcp_short" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

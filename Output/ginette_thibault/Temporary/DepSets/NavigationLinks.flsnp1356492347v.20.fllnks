@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/GuideStart.htm" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="Project/VariableSets/Documents.flvar" />
+    <Link
+      Url="https://documentation.n-able.com/takecontrol/troubleshooting/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm" />
+    <Link
+      Url="https://status.n-able.com/release-notes/" />
+    <Link
+      Url="https://status.n-able.com/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/GuideStart.htm" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="Project/VariableSets/Documents.flvar" />
+    <Link
+      Url="https://documentation.n-able.com/takecontrol/troubleshooting/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm" />
+    <Link
+      Url="https://status.n-able.com/release-notes/" />
+    <Link
+      Url="https://status.n-able.com/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="URLs.DocURL" />
+    <Variable
+      Name="Documents.ProductNamePath" />
+    <Variable
+      Name="URLs.GuidePath" />
+    <Variable
+      Name="URLs.GuideStartPage" />
+    <Variable
+      Name="URLs.GuideScreenTip" />
+    <Variable
+      Name="URLs.GuideText" />
+    <Variable
+      Name="URLs.TroubleshootingPath" />
+    <Variable
+      Name="URLs.TroubleshootingStartPage" />
+    <Variable
+      Name="URLs.TroubleshootingScreenTip" />
+    <Variable
+      Name="URLs.TroubleshootingText" />
+    <Variable
+      Name="URLs.NotesURL" />
+    <Variable
+      Name="URLs.NotesScreenTip" />
+    <Variable
+      Name="URLs.NotesText" />
+    <Variable
+      Name="URLs.StatusURL" />
+    <Variable
+      Name="URLs.StatusScreenTip" />
+    <Variable
+      Name="URLs.StatusText" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

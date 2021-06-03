@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://www.n-able.com/products/take-control/trial" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="https://documentation.n-able.com/takecontrol/userguide/Content/End-User-guide.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://www.n-able.com/products/take-control/trial" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="https://documentation.n-able.com/takecontrol/userguide/Content/End-User-guide.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_tcp_short" />
+    <Variable
+      Name="General.CompanySSO" />
+    <Variable
+      Name="General.ProductName_tc_long" />
+    <Variable
+      Name="General.ProductName_tcp-sa_short" />
+    <Variable
+      Name="URLs.CompanyURL" />
+    <Variable
+      Name="URLs.TakeControlHelpURL" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
