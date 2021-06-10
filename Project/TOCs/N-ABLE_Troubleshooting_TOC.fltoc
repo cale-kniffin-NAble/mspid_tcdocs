@@ -216,37 +216,37 @@
     Link="/Content/kb/Many-instances-of-BASupSrvcCnfg-exe-present-on-Terminal-Server-with-Take-Control-installed.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/kb/MSP-Anywhere---Characters-Supportability.htm" />
+    Link="/Content/kb/MSP-Take-Control-Characters-Supportability.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/kb/MSP-Anywhere-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm" />
+    Link="/Content/kb/MSP-Take-Control-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/kb/Take-Control-Agent-reverts-button-Cancel-Request-to-Request-Assist-while-Request-still-pending.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/kb/MSP-Anywhere-Applet-wait-time.htm" />
+    Link="/Content/kb/MSP-Take-Control-Applet-wait-time.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/kb/MSP-Anywhere-Cannot-cancel-support-requests.htm" />
+    Link="/Content/kb/MSP-Take-Control-Cannot-cancel-support-requests.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/kb/MSP-Anywhere-Change-Admin-Area-Language.htm" />
+    Link="/Content/kb/MSP-Take-Control-Change-Admin-Area-Language.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/kb/MSP-Anywhere-during-a-remote-support-session-viewer-window-always-staying-in-the-foreground.htm" />
+    Link="/Content/kb/MSP-Take-Control-during-a-remote-support-session-viewer-window-always-staying-in-the-foreground.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/kb/Take-Control-Enduser-macOS-cannot-connect-remote-devices-PC-not-Recieve-TCP-Conn.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/kb/MSP-Anywhere-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
+    Link="/Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/kb/MSP-Anywhere-How-can-a-technician-create-support-tickets-for-clients.htm" />
+    Link="/Content/kb/MSP-Take-Control-How-can-a-technician-create-support-tickets-for-clients.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/kb/MSP-Anywhere-How-to-add-questions-to-surveys.htm" />
+    Link="/Content/kb/MSP-Take-Control-How-to-add-questions-to-surveys.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/kb/MSP-Anywhere-How-to-block-users-from-disabling-features-during-a-remote-support-session.htm" />

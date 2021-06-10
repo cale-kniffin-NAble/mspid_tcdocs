@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head><title></title>
+        <link href="../Resources/Stylesheets/N-ABLE_Structure.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/N-ABLE_StartPageGuide.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <h1><MadCap:variable name="General.ProductName_tc" />: Agent reverts button from Cancel Request to Request Assistance after some time while the Request is still pending</h1> <div id="flex"><div id="modified"> <h2>Last Modified</h2><p>Wed Apr 11 12:33 GMT 2018</p></div> <div id="description"> <h2>Description</h2><ul><li>After a client presses the Request Assistance button on an Agent and some time has passed, the button reverts from Cancel Request back to Request Assistance;</li><li>The issue is still pending on my console, but the button appears as "Request Assistance" on the client's end;</li></ul></div> <div id="environment"> <h2>Environment</h2><ul><li><MadCap:variable name="General.ProductName_tc-sa-Long" /></li><li>Windows</li></ul></div> <div id="solution"> <h2>Solution</h2><ul><li>After approximately 150 seconds, the Agent defaults it's interface to display the Request Assistance button - even if a request is still pending.</li><li>This is done by design to prevent the Agent from perpetually displaying a Pending Request, as requests submitted from the <MadCap:variable name="General.ProductName_tc" /> Agent do not expire (until accepted or rejected by a Technician).</li></ul></div> <div id="internal"> <div MadCap:conditions="Default.Ignore"><p><b>Article Number:</b> 124700</p><p><b>Internal notes:</b> </p><p /></div></div> </div> </body>

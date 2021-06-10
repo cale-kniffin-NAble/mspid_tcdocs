@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://documentation.n-able.com/takecontrol/userguide/Content/Wake-on-LAN.htm" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="https://documentation.n-able.com/takecontrol/userguide/Content/Wake-on-LAN.htm" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_tcp" />
+    <Variable
+      Name="General.ProductName_tcp_short" />
+    <Variable
+      Name="General.ProductName_rmm_short" />
+    <Variable
+      Name="General.ProductName_nc" />
+    <Variable
+      Name="URLs.TakeControlHelpURL" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Ignore" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

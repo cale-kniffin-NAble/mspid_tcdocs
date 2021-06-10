@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/LessMore_43x23.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/greater_60x22.png" />
+    <Link
+      Url="Content/Create-and-deploy-Scripts.htm" />
+    <Link
+      Url="Content/Audit-devices.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/LessMore_43x23.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/greater_60x22.png" />
+    <Link
+      Url="Content/Create-and-deploy-Scripts.htm" />
+    <Link
+      Url="Content/Audit-devices.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.CompanyName" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Exclude.comment" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Exclude.comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

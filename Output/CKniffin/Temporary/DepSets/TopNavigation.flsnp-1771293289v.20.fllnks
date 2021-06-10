@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://success.n-able.com/" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="https://www.n-able.com/" />
+    <Link
+      Url="Content/Resources/Images/N-ABLE/Logo.svg" />
+    <Link
+      Url="Content/Resources/Snippets/N-ABLE/NavigationLinks.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://success.n-able.com/" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="https://www.n-able.com/" />
+    <Link
+      Url="Content/Resources/Images/N-ABLE/Logo.svg" />
+    <Link
+      Url="Content/Resources/Snippets/N-ABLE/NavigationLinks.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="URLs.PartnerURL" />
+    <Variable
+      Name="URLs.PartnerScreenTip" />
+    <Variable
+      Name="URLs.PartnerText" />
+    <Variable
+      Name="URLs.CompanyURL" />
+    <Variable
+      Name="URLs.CompanyScreenTip" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

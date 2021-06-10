@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="">
+  <Links>
+    <Link
+      Url="Content/Resources/Snippets/N-ABLE/TopNavigation.flsnp" />
+    <Link
+      Url="Default.htm" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="Project/VariableSets/Documents.flvar" />
+    <Link
+      Url="Project/Skins/N-ABLE_SearchBar.flskn" />
+    <Link
+      Url="Project/Skins/N-ABLE_ToolBar.flskn" />
+    <Link
+      Url="Content/Resources/Images/N-ABLE/home.png" />
+    <Link
+      Url="Project/Skins/N-ABLE_SideMenu.flskn" />
+    <Link
+      Url="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS" />
+    <Link
+      Url="Content/Resources/Snippets/N-ABLE/BottomNavigation.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Snippets/N-ABLE/TopNavigation.flsnp" />
+    <Link
+      Url="Default.htm" />
+    <Link
+      Url="Project/VariableSets/URLs.flvar" />
+    <Link
+      Url="Project/VariableSets/Documents.flvar" />
+    <Link
+      Url="Project/Skins/N-ABLE_SearchBar.flskn" />
+    <Link
+      Url="Project/Skins/N-ABLE_ToolBar.flskn" />
+    <Link
+      Url="Content/Resources/Images/N-ABLE/home.png" />
+    <Link
+      Url="Project/Skins/N-ABLE_SideMenu.flskn" />
+    <Link
+      Url="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS" />
+    <Link
+      Url="Content/Resources/Snippets/N-ABLE/BottomNavigation.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Search" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="URLs.CurrentStartPage" />
+    <Variable
+      Name="Documents.ProductShortName" />
+    <Variable
+      Name="Documents.DocumentType" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
