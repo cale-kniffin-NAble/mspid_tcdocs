@@ -27,9 +27,10 @@
   MasterToc="/Project/TOCs/N-ABLE_Troubleshooting_TOC.fltoc"
   TabletBreakpoint="1097"
   FaviconSkin="/Project/Skins/N-ABLE_Favicon.flskn"
-  DefaultUrl="/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm"
   MobileBreakpoint="667"
-  ContentInclusionType="Toc">
+  ContentInclusionType="Toc"
+  OutputFolder="C:\TCTS"
+  DefaultUrl="/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

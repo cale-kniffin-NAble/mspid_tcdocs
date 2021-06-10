@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
+      Url="Content/Password-secrets-vaults.htm" />
+    <Link
+      Url="Content/Administrative-Area.htm" />
+    <Link
+      Url="Content/Getting-started-with-Take-Control.htm" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
+      Url="Content/Password-secrets-vaults.htm" />
+    <Link
+      Url="Content/Administrative-Area.htm" />
+    <Link
+      Url="Content/Getting-started-with-Take-Control.htm" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.CompanyName" />
+    <Variable
+      Name="General.ProductName_nc" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Exclude.comment" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
