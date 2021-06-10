@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/kb/How-to-configure-macOS-10-14-Mojave-or-10-15-Catalina-for-Take-Control.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Ports-and-Domains-Firewall-and-AV-Exclusions.htm" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Black-screen-without-Please-wait.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Agent-Silent-Install.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Lost-recovery-code-and-need-to-reset-or-revoke-2FA.htm" />
+    <Link
+      Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
+    <Link
+      Url="Content/kb/Take-Control-All-Versions-Remote-Printing.htm" />
+    <Link
+      Url="Content/kb/Blank-Screen-results-in-Windows-lock-on-remote-end.htm" />
+    <Link
+      Url="Content/kb/Adding-a-Take-Control-standalone-applet-to-the-Request-Help-Link-for-N-central.htm" />
+    <Link
+      Url="Content/kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm" />
+    <Link
+      Url="Content/kb/MSP-Take-Control-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm" />
+    <Link
+      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
+    <Link
+      Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
+    <Link
+      Url="Content/kb/Taking-control-of-device-using-Chrome-always-pops-up-with-Open-Take-Control.htm" />
+    <Link
+      Url="Content/kb/Uploading-a-technician-profile-photo-results-in-error-upload-failed.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Remote-Support-Session-Options.htm" />
+    <Link
+      Url="Content/kb/Take-Control-How-to-send-a-survey-to-a-customer.htm" />
+    <Link
+      Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
+    <Link
+      Url="Content/kb/Stop-the-Take-Control-Agent-Standalone-from-launching-a-process-per-user-on-a-terminal-server.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/kb/How-to-configure-macOS-10-14-Mojave-or-10-15-Catalina-for-Take-Control.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Ports-and-Domains-Firewall-and-AV-Exclusions.htm" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Black-screen-without-Please-wait.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Agent-Silent-Install.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Lost-recovery-code-and-need-to-reset-or-revoke-2FA.htm" />
+    <Link
+      Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
+    <Link
+      Url="Content/kb/Take-Control-All-Versions-Remote-Printing.htm" />
+    <Link
+      Url="Content/kb/Blank-Screen-results-in-Windows-lock-on-remote-end.htm" />
+    <Link
+      Url="Content/kb/Adding-a-Take-Control-standalone-applet-to-the-Request-Help-Link-for-N-central.htm" />
+    <Link
+      Url="Content/kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm" />
+    <Link
+      Url="Content/kb/MSP-Take-Control-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm" />
+    <Link
+      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
+    <Link
+      Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
+    <Link
+      Url="Content/kb/Taking-control-of-device-using-Chrome-always-pops-up-with-Open-Take-Control.htm" />
+    <Link
+      Url="Content/kb/Uploading-a-technician-profile-photo-results-in-error-upload-failed.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Remote-Support-Session-Options.htm" />
+    <Link
+      Url="Content/kb/Take-Control-How-to-send-a-survey-to-a-customer.htm" />
+    <Link
+      Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
+    <Link
+      Url="Content/kb/Stop-the-Take-Control-Agent-Standalone-from-launching-a-process-per-user-on-a-terminal-server.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName_tc-sa" />
+    <Variable
+      Name="General.ProductName_tc-sw" />
+    <Variable
+      Name="General.ProductName_rmm_short" />
+    <Variable
+      Name="General.ProductName_nc_short" />
+    <Variable
+      Name="General.ProductName_tc" />
+    <Variable
+      Name="General.ProductName_tc_long" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

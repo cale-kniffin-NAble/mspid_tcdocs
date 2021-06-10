@@ -44,6 +44,66 @@
                     <MadCap:xref href="../../kb/Take-Control-All-Versions-Remote-Printing.htm">Take Control (All Versions): Remote Printing</MadCap:xref>
                 </p>
             </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Blank-Screen-results-in-Windows-lock-on-remote-end.htm">Blank Screen results in Windows lock on remote end</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Adding-a-Take-Control-standalone-applet-to-the-Request-Help-Link-for-N-central.htm">Adding a [%=General.ProductName_tc-sa%] applet to the Request Help Link for [%=General.ProductName_nc_short%]</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm">Enable direct UDP (P2P) Connection in [%=General.ProductName_tc%]</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/MSP-Take-Control-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm">[%=General.ProductName_tc%]: Admin Area login shows Error: "Sorry. This page was not found."</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm">Take Control: Generating an Agent Installer for a Specific Group</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Where-can-I-find-information-about-upcoming-releases.htm">Where can I find information about upcoming releases?</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Taking-control-of-device-using-Chrome-always-pops-up-with-Open-Take-Control.htm">Taking control of a device using Chrome always pops up with "Open [%=General.ProductName_tc_long%]?"</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Uploading-a-technician-profile-photo-results-in-error-upload-failed.htm">Uploading a technician profile photo results in error: upload failed</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Take-Control-Standalone-Remote-Support-Session-Options.htm">[%=General.ProductName_tc-sa%]: Remote Support Session Options</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Take-Control-How-to-send-a-survey-to-a-customer.htm">Take Control: How to send a survey to a customer?</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Not-able-to-view-tickets-at-support-com.htm">Not able to view tickets at success.n-able.com</MadCap:xref>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:xref href="../../kb/Stop-the-Take-Control-Agent-Standalone-from-launching-a-process-per-user-on-a-terminal-server.htm">Stop the Take Control Agent (Standalone) from launching a process per user on a terminal server</MadCap:xref>
+                </p>
+            </li>
         </ul>
     </body>
 </html>

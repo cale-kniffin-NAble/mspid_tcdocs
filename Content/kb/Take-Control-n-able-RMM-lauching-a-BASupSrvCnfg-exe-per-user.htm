@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head><title></title>
+        <link href="../Resources/Stylesheets/N-ABLE_Structure.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/N-ABLE_StartPageGuide.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <h1><MadCap:variable name="General.ProductName_tc-sw" /> (<MadCap:variable name="General.ProductName_rmm_short" />): lauching a BASupSrvCnfg.exe per user</h1> <div id="flex"><div id="modified"> <h2>Last Modified</h2><p>Fri Dec 20 16:01 GMT 2019</p></div> <div id="description"> <h2>Description</h2><ul><li>The Agent installs the necessary services to the utilization of the application, namely the Agent Service and the Update Service.</li><li>Besides the described services, the Agent will have a configurator process running on the machine (BASupSrvcCnfg.exe).</li><li>Although the Agent is a one-off process per machine, the configurator is a single process per user.</li><li>That is, there is a need to include the configurator process in each guest/user session, to allow the use of the Agent configurator. This happens to allow interaction in each user session running on the server.</li><li>Therefore is not unusual to see several BASupSrvcCnfg.exe processes running o a machine. You'll have one to each user/guest on the server host.</li></ul></div> <div id="environment"> <h2>Environment</h2><ul><li><MadCap:variable name="General.ProductName_rmm_acronym" /></li><li><MadCap:variable name="General.ProductName_tc-sw" /></li></ul></div> <div id="solution"> <h2>Solution</h2><ul><li>If you do not want to have the process BASupSrvcCnfg.exe running on a machine, you can block its execution at the Start of the machine.

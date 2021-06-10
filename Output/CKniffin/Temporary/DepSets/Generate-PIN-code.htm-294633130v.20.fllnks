@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/PINCodePermissions.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/NewPIN.png" />
+    <Link
+      Url="http://www.startcontrol.com/" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+    <Link
+      Url="Content/Share-and-transfer-sessions.htm" />
+    <Link
+      Url="Content/Generate-unattended-support-link.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/PINCodePermissions.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/NewPIN.png" />
+    <Link
+      Url="http://www.startcontrol.com/" />
+    <Link
+      Url="Content/Provide-assistance-to-customers.htm" />
+    <Link
+      Url="Content/Share-and-transfer-sessions.htm" />
+    <Link
+      Url="Content/Generate-unattended-support-link.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

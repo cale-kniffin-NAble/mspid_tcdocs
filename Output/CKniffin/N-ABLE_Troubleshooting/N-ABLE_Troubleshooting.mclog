@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated N-ABLE_Troubleshooting.fltar" Date="2021-03-29T21:51:42.5374145-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_Troubleshooting.fltar" Date="2021-06-04T15:22:47.7836608-05:00">
     <Messages>Compiling target N-ABLE_Troubleshooting...
 Removing previously generated content...
 Loading skin info...
@@ -14,150 +14,151 @@ Generating output files...
 Processing topic: StartPages\TroubleshootingPage\TroubleshootingStart.htm...
 Processing CSS: Resources\Stylesheets\N-ABLE_CustomStyles.css...
 Processing CSS: Resources\Stylesheets\N-ABLE_Structure.css...
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\7.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\8.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\9.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\10.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\11.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\12.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\13.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\14.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\15.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\16.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\17.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\18.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\19.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\20.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\21.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\22.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\23.png
-Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\24.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\7.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\8.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\9.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\10.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\11.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\12.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\13.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\14.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\15.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\16.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\17.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\18.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\19.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\20.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\21.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\22.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\23.png
+Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\24.png
 Processing CSS: Resources\Stylesheets\N-ABLE_StartPageTroubleshooting.css...
 Topic marked 'not searchable': StartPages\TroubleshootingPage\TroubleshootingStart.htm...
 Applying master page N-ABLE_StartPages.flmsp...
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/QuickLinks/QuickLinksStart.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Default.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Default.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/QuickLinks/QuickLinksStart.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Default.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Default.htm.
 Processing sub-toc: N-ABLE_TOC.fltoc...
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Getting-started-with-Take-Control.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Learn-about-Take-Control-components.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/System-requirements.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Port-access-requirements.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Take-Control-for-Mojave.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Upgrade-your-account.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Billing-info.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Multi-factor-authentication.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Administrative-Area.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Admin-area-homepage.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Use-panic-button.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Manage-your-account.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Create-and-manage- technicians.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Mass-Agent-deployment.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Enable-multi-factor-authentication.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Set-up-departments.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Create-surveys.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Create-and-manage-calling-cards.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-deferred-support-request-form.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Create-and-deploy-Scripts.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Create-mobile-config-files.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Password-secrets-vaults.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/End-User-guide.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Multi-factor-authentication-End-Users.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/View-running-sessions.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-Profile.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-basic-account-information.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Create-Email-templates.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Set-up-the-Applet.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Set-up-the-Agent.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-APIs.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-New-Session-API.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-Deferred-Support-request-API.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-Validation-API.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-Session-History-API.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-integration-options.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Generate-reports.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Generate-session-history-report.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Generate-missed-session-report.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Generate-tech-performance-report.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Generate-session-report.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/View-script-jobs-history.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Create-survey-report.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Generate-deferred-support-report.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Manage-devices.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Generate-MSI-installer.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Install-Linux-Agent.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Audit-devices.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Start-a-support-session.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Generate-PIN-code.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Send-support-link.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Calling-Cards.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Create-Calling-Card-from-the-console.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Create-batches-of-calling-cards.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Manage-multiple-Calling-Cards.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Unattended-support.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Generate-unattended-support-link.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Add-devices-during-session.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-the-Agent.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Share-and-transfer-sessions.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Transfer-session-before-creating-PIN.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Transfer-before-accepting-new-support-request.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Share-support-session-with-another-technician.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Provide-assistance-to-customers.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Learn-about-the-technician-console.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-My-Computers.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/View-pending-requests.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Accept-a-support-request.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Transfer-support-request.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Reject-support-requests.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-TakeControl-viewer.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-the-Advanced-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-the-Computer-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-the-Session-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Chat-with-customers-and-colleagues.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Chat-with-customers-during-remote-sessions.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Chat-with-customers-before-a remote-session.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Chat-with-colleagues.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Remotely-access-computers-devices-landing-page.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Remotely-access-Windows-devices.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-View-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-the-Commands-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-the-Interactions-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Use-the-System-Shell.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Transfer-files-during-support-session.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/View-customers-system-info.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Registry-editor.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Learn-about-the-status-bar.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-the-Monitors-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-the-preferences-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-Passportal-vaults.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Remotely-access-Mac-devices.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Allow-remote-control-MacOS.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Mac-View-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Mac-Commands-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Mac-Interactions-menu.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Take-Control-mobile-app.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-mobie-devices.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Make-VoIP-calls.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Call-Customers.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Call-other-technicians.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Access-log-files.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-Port-Fowarding.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-port-forwarding-for-Agents.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-port-forwarding-on-the-Console.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-FTP-connections.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Windows-Viewer-shortcuts.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Enhance-the-Agents-security.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Wake-on-LAN.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Wake-on-LAN-prerequisites.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Wake-remote-computer.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Use-Take-Control-Proxy.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Install-Take-Control-Proxy.htm.
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/Content/Configure-Take-Control-Proxy.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Getting-started-with-Take-Control.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Learn-about-Take-Control-components.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Upgrade-your-account.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/System-requirements.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Port-access-requirements.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Take-Control-for-Mojave.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Billing-info.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Multi-factor-authentication.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Administrative-Area.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Admin-area-homepage.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Use-panic-button.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Manage-your-account.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Create-and-manage- technicians.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Mass-Agent-deployment.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Enable-multi-factor-authentication.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Set-up-departments.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Create-surveys.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Create-and-manage-calling-cards.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-deferred-support-request-form.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Create-and-deploy-Scripts.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Create-mobile-config-files.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Password-secrets-vaults.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/End-User-guide.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Multi-factor-authentication-End-Users.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/View-running-sessions.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-Profile.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-basic-account-information.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Create-Email-templates.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Set-up-the-Applet.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Set-up-the-Agent.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-APIs.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-New-Session-API.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-Deferred-Support-request-API.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-Validation-API.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-Session-History-API.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-integration-options.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Generate-reports.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Generate-session-history-report.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Generate-missed-session-report.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Generate-tech-performance-report.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Generate-session-report.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/View-script-jobs-history.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Create-survey-report.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Generate-deferred-support-report.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Manage-devices.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Generate-MSI-installer.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Install-Linux-Agent.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Audit-devices.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Start-a-support-session.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Generate-PIN-code.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Send-support-link.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Calling-Cards.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Create-Calling-Card-from-the-console.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Create-batches-of-calling-cards.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Manage-multiple-Calling-Cards.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Unattended-support.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Generate-unattended-support-link.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Add-devices-during-session.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-the-Agent.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Share-and-transfer-sessions.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Transfer-session-before-creating-PIN.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Transfer-before-accepting-new-support-request.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Share-support-session-with-another-technician.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Provide-assistance-to-customers.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Learn-about-the-technician-console.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-My-Computers.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/View-pending-requests.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Accept-a-support-request.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Transfer-support-request.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Reject-support-requests.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-TakeControl-viewer.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-the-Advanced-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-the-Computer-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-the-Session-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Chat-with-customers-and-colleagues.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Chat-with-customers-during-remote-sessions.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Chat-with-customers-before-a remote-session.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Chat-with-colleagues.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Remotely-access-computers-devices-landing-page.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Remotely-access-Windows-devices.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-View-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-the-Commands-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-the-Interactions-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Use-the-System-Shell.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Transfer-files-during-support-session.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/View-customers-system-info.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Registry-editor.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Learn-about-the-status-bar.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-the-Monitors-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-the-preferences-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-Passportal-vaults.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Remotely-access-Mac-devices.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Allow-remote-control-MacOS.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Mac-View-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Mac-Commands-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Mac-Interactions-menu.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Take-Control-mobile-app.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-mobie-devices.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Make-VoIP-calls.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Call-Customers.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Call-other-technicians.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Access-log-files.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-Port-Fowarding.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-port-forwarding-for-Agents.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-port-forwarding-on-the-Console.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-FTP-connections.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Windows-Viewer-shortcuts.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Enhance-the-Agents-security.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Wake-on-LAN.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Wake-on-LAN-prerequisites.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Wake-remote-computer.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Use-Take-Control-Proxy.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Install-Take-Control-Proxy.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/Content/Configure-Take-Control-Proxy.htm.
 Image right.png was not found.
 Generated StartPages\TroubleshootingPage\TroubleshootingStart.htm
 Processing topic: kb\A-connection-to-Take-Control-using-the-n-able-Engine-gives-server-may-be-down-or-unavailable.htm...
+Processing CSS: Resources\Stylesheets\N-ABLE_StartPageGuide.css...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Excluded from output:file:///C:/Bitbucket/mspid_tcdocs/QuickLinks/QuickLinksStart.htm.
+Excluded from output:file:///C:/GitHub/mspid_tcdocs/QuickLinks/QuickLinksStart.htm.
 Generated kb\A-connection-to-Take-Control-using-the-n-able-Engine-gives-server-may-be-down-or-unavailable.htm
 Processing topic: kb\Adding-a-Take-Control-standalone-applet-to-the-Request-Help-Link-for-N-central.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
@@ -366,39 +367,39 @@ Generated kb\Lock-Device-option-not-working.htm
 Processing topic: kb\Many-instances-of-BASupSrvcCnfg-exe-present-on-Terminal-Server-with-Take-Control-installed.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Many-instances-of-BASupSrvcCnfg-exe-present-on-Terminal-Server-with-Take-Control-installed.htm
-Processing topic: kb\MSP-Anywhere---Characters-Supportability.htm...
+Processing topic: kb\MSP-Take-Control-Characters-Supportability.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Generated kb\MSP-Anywhere---Characters-Supportability.htm
-Processing topic: kb\MSP-Anywhere-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm...
+Generated kb\MSP-Take-Control-Characters-Supportability.htm
+Processing topic: kb\MSP-Take-Control-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Generated kb\MSP-Anywhere-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm
+Generated kb\MSP-Take-Control-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm
 Processing topic: kb\Take-Control-Agent-reverts-button-Cancel-Request-to-Request-Assist-while-Request-still-pending.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Take-Control-Agent-reverts-button-Cancel-Request-to-Request-Assist-while-Request-still-pending.htm
-Processing topic: kb\MSP-Anywhere-Applet-wait-time.htm...
+Processing topic: kb\MSP-Take-Control-Applet-wait-time.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Generated kb\MSP-Anywhere-Applet-wait-time.htm
-Processing topic: kb\MSP-Anywhere-Cannot-cancel-support-requests.htm...
+Generated kb\MSP-Take-Control-Applet-wait-time.htm
+Processing topic: kb\MSP-Take-Control-Cannot-cancel-support-requests.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Generated kb\MSP-Anywhere-Cannot-cancel-support-requests.htm
-Processing topic: kb\MSP-Anywhere-Change-Admin-Area-Language.htm...
+Generated kb\MSP-Take-Control-Cannot-cancel-support-requests.htm
+Processing topic: kb\MSP-Take-Control-Change-Admin-Area-Language.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Generated kb\MSP-Anywhere-Change-Admin-Area-Language.htm
-Processing topic: kb\MSP-Anywhere-during-a-remote-support-session-viewer-window-always-staying-in-the-foreground.htm...
+Generated kb\MSP-Take-Control-Change-Admin-Area-Language.htm
+Processing topic: kb\MSP-Take-Control-during-a-remote-support-session-viewer-window-always-staying-in-the-foreground.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Generated kb\MSP-Anywhere-during-a-remote-support-session-viewer-window-always-staying-in-the-foreground.htm
+Generated kb\MSP-Take-Control-during-a-remote-support-session-viewer-window-always-staying-in-the-foreground.htm
 Processing topic: kb\Take-Control-Enduser-macOS-cannot-connect-remote-devices-PC-not-Recieve-TCP-Conn.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\Take-Control-Enduser-macOS-cannot-connect-remote-devices-PC-not-Recieve-TCP-Conn.htm
-Processing topic: kb\MSP-Anywhere-Generating-an-Agent-Installer-for-a-Specific-Group.htm...
+Processing topic: kb\MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Generated kb\MSP-Anywhere-Generating-an-Agent-Installer-for-a-Specific-Group.htm
-Processing topic: kb\MSP-Anywhere-How-can-a-technician-create-support-tickets-for-clients.htm...
+Generated kb\MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm
+Processing topic: kb\MSP-Take-Control-How-can-a-technician-create-support-tickets-for-clients.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Generated kb\MSP-Anywhere-How-can-a-technician-create-support-tickets-for-clients.htm
-Processing topic: kb\MSP-Anywhere-How-to-add-questions-to-surveys.htm...
+Generated kb\MSP-Take-Control-How-can-a-technician-create-support-tickets-for-clients.htm
+Processing topic: kb\MSP-Take-Control-How-to-add-questions-to-surveys.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Generated kb\MSP-Anywhere-How-to-add-questions-to-surveys.htm
+Generated kb\MSP-Take-Control-How-to-add-questions-to-surveys.htm
 Processing topic: kb\MSP-Anywhere-How-to-block-users-from-disabling-features-during-a-remote-support-session.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
 Generated kb\MSP-Anywhere-How-to-block-users-from-disabling-features-during-a-remote-support-session.htm
@@ -1378,11 +1379,10 @@ Generating Template Topics...
 Generating Search.htm...
 Topic marked 'not searchable': Search.htm...
 Applying master page N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp...
-Link points outside project file:///C:/Bitbucket/Default.htm
-Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm
+Link points outside project file:///C:/GitHub/Default.htm
+Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm
 Generated Search.htm
 Resolving links in output files...
-Failed to update: The process cannot access the file 'C:\Bitbucket\mspid_tcdocs\Output\CKniffin\N-ABLE_Troubleshooting\Content\kb\How-to-enable-two-factor-authentication-on-Take-Control-Take-Control-Plus.htm' because it is being used by another process.
 Generating Search Database...
 Writing search entry cache...
 Generating final output...
@@ -1391,35 +1391,34 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 2833
-Output generated in 2 minute(s) and 4 second(s).
+Output generated in 3 minute(s) and 41 second(s).
 
 Done
-Saving log to "C:\Bitbucket\mspid_tcdocs\Output\CKniffin\N-ABLE_Troubleshooting\N-ABLE_Troubleshooting.mclog"
+Saving log to "C:\GitHub\mspid_tcdocs\Output\CKniffin\N-ABLE_Troubleshooting\N-ABLE_Troubleshooting.mclog"
 </Messages>
     <Warnings>
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\7.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\8.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\9.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\10.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\11.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\12.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\13.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\14.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\15.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\16.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\17.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\18.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\19.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\20.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\21.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\22.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\23.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\Bitbucket\mspid_tcdocs\Content\StartPages\MenuPage\Icons\24.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\7.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\8.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\9.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\10.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\11.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\12.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\13.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\14.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\15.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\16.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\17.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\18.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\19.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\20.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\21.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\22.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\23.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/Stylesheets/N-ABLE_Structure.css" Message="Missing linked source file: C:\GitHub\mspid_tcdocs\Content\StartPages\MenuPage\Icons\24.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10001" />
         <LogEntry File="../../../Project/Skins/N-ABLE_MainSkin.flskn" Message="Image right.png was not found.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="20011" />
         <LogEntry Message="Linked index term &quot;Images&quot; is not in the index, skipping the link &quot;Pictures&quot;...&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10069" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp" Message="Link points outside project file:///C:/Bitbucket/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp" Message="Link points outside project file:///C:/Bitbucket/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10056" />
-        <LogEntry File="Content/kb/Take-Control-Standalone-login-prompting-for-Multifactor-Authentication-Setup.htm" Message="Failed to update: The process cannot access the file 'C:\Bitbucket\mspid_tcdocs\Output\CKniffin\N-ABLE_Troubleshooting\Content\kb\How-to-enable-two-factor-authentication-on-Take-Control-Take-Control-Plus.htm' because it is being used by another process.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Resolver" Target="N-ABLE_Troubleshooting" ErrorID="20001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp" Message="Link points outside project file:///C:/GitHub/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp" Message="Link points outside project file:///C:/GitHub/QuickLinks/QuickLinksStart.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="N-ABLE_Troubleshooting" ErrorID="10056" />
     </Warnings>
     <Errors />
 </MadCapLog>

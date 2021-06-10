@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <head />
+    <head>
+        <link href="Resources/Stylesheets/N-ABLE_Structure.css" rel="stylesheet" type="text/css" />
+        <link href="Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" rel="stylesheet" type="text/css" />
+        <link href="Resources/Stylesheets/N-ABLE_StartPageGuide.css" rel="stylesheet" type="text/css" />
+        <link href="Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
     <body>
         <h1>Configure the Session History API</h1>
         <p>The Session History API returns post-session data and details about a session or set of sessions according to the configured filtering options.</p>
         <h2>URL for Session History API</h2>
         <ul>
-            <li>
-                <a href="https://api.swi-rc.com/integration/get_history_api.php">https://api.swi-rc.com/integration/get_history_api.php</a>
+            <li><a href="https://api.swi-rc.com/integration/get_history_api.php">https://api.swi-rc.com/integration/get_history_api.php</a>
             </li>
         </ul>
         <h2>Input Parameters</h2>
@@ -240,19 +244,11 @@
         <h2>Error handling</h2>
         <p>The error messages are returned by the function within the XML structure in the following format:</p>
         <p class="TermDefinition">&lt;response&gt;&lt;error_msg&gt; Error message.&lt;/error_msg&gt;&lt;/response&gt;</p>
-        <p>These are some other examples:</p>
-        <pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_HAS_VIDEOS setting.&lt;/error_msg&gt;&lt;/response&gt;</pre>
-        <pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_START_METHOD setting.&lt;/error_msg&gt;&lt;/response&gt;</pre>
-        <pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_START_METHOD setting.&lt;/error_msg&gt;&lt;/response&gt;</pre>
-        <pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_DATE_START_INI value.&lt;/error_msg&gt;&lt;/response&gt;</pre>
-        <pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_DATE_START_END value.&lt;/error_msg&gt;&lt;/response&gt;</pre>
+        <p>These are some other examples:</p><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_HAS_VIDEOS setting.&lt;/error_msg&gt;&lt;/response&gt;</pre><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_START_METHOD setting.&lt;/error_msg&gt;&lt;/response&gt;</pre><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_START_METHOD setting.&lt;/error_msg&gt;&lt;/response&gt;</pre><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_DATE_START_INI value.&lt;/error_msg&gt;&lt;/response&gt;</pre><pre>&lt;response&gt;&lt;error_msg&gt;Invalid FILTER_DATE_START_END value.&lt;/error_msg&gt;&lt;/response&gt;</pre>
         <h2>Examples</h2>
-        <p>This example returns the fields selected in VARS from all the ANSWERED sessions created after 2011-01-01 UTC:</p>
-        <pre>get_session_history.php?KEY=xxxxx&amp;VARS=ID CUSTOMER_NUMBER DATE_START DATE_END <br />TECH_USERNAME&amp;FILTER_DATE_START_INI=2011-01-01&amp;FILTER_PROCESSED=ANSWERED</pre>
-        <p>This example returns the fields selected in VARS from all the ANSWERED by tech mytech@techplace.com requests created after 2011-01-01 UTC:</p>
-        <pre>get_session_history.php?KEY=xxxxx&amp;VARS=ID CUSTOMER_NUMBER <br />DATE_START&amp;FILTER_DATE_START_INI=2011-01-01&amp; <br />FILTER_PROCESSED=ANSWERED&amp;FILTER_TECH_USERNAME=mytech@techplace.com</pre>
-        <p>This example returns the fields selected in VARS from request ID 12334:</p>
-        <pre>get_session_history.php?KEY=xxxxx&amp;VARS=CUSTOMER_NAME CUSTOMER_NUMBER<br />COMPUTER_NAME COMPUTER_DOMAIN PROBLEM_DESCRIPTION TECH_USERNAME DATE_START<br />DATE_END HAS_VIDEOS COMPUTER_OS NOTES&amp;FILTER_ID=12334</pre>
+        <p>This example returns the fields selected in VARS from all the ANSWERED sessions created after 2011-01-01 UTC:</p><pre>get_session_history.php?KEY=xxxxx&amp;VARS=ID CUSTOMER_NUMBER DATE_START DATE_END <br />TECH_USERNAME&amp;FILTER_DATE_START_INI=2011-01-01&amp;FILTER_PROCESSED=ANSWERED</pre>
+        <p>This example returns the fields selected in VARS from all the ANSWERED by tech mytech@techplace.com requests created after 2011-01-01 UTC:</p><pre>get_session_history.php?KEY=xxxxx&amp;VARS=ID CUSTOMER_NUMBER <br />DATE_START&amp;FILTER_DATE_START_INI=2011-01-01&amp; <br />FILTER_PROCESSED=ANSWERED&amp;FILTER_TECH_USERNAME=mytech@techplace.com</pre>
+        <p>This example returns the fields selected in VARS from request ID 12334:</p><pre>get_session_history.php?KEY=xxxxx&amp;VARS=CUSTOMER_NAME CUSTOMER_NUMBER<br />COMPUTER_NAME COMPUTER_DOMAIN PROBLEM_DESCRIPTION TECH_USERNAME DATE_START<br />DATE_END HAS_VIDEOS COMPUTER_OS NOTES&amp;FILTER_ID=12334</pre>
         <p>&#160;</p>
         <p>&#160;</p>
     </body>

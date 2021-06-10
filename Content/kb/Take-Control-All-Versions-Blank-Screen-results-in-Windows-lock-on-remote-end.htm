@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head><title></title>
+        <link href="../Resources/Stylesheets/N-ABLE_Structure.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/N-ABLE_StartPageGuide.css" rel="stylesheet" type="text/css" />
+        <link href="../Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <h1>Take Control (All Versions): Blank Screen results in Windows lock on remote end</h1> <div id="flex"><div id="modified"> <h2>Last Modified</h2><p>Tue 12 Jan 17:32 GMT 2021</p></div> <div id="description"> <h2>Description</h2><ul><li>Attempting to use the Blank Screen option during a Take Control session locks the remote Windows device.</li></ul></div> <div id="environment"> <h2>Environment</h2><ul><li><MadCap:variable name="General.ProductName_tc_long" />/<MadCap:variable name="General.ProductName_tcp-sa_short" /></li><li><MadCap:variable name="General.ProductName_nc" /><ul><li>Take Control</li></ul></li><li><MadCap:variable name="General.ProductName_rmm_acronym" /><ul><li><MadCap:variable name="General.ProductName_tc-sw" /></li></ul></li></ul></div> <div id="solution"> <h2>Solution</h2><ul><li>This is caused by the remote device's Sign-In settings requiring a Windows Sign-In when waking from sleep (which is triggered by the attempt at sleeping the display with the blank screen option).</li><li>A change on the remote device's windows settings will be required:<ol><li>Open the <b>Settings </b>option (this option will usually be located in the Start menu/screen - you can also search for Settings or Users to skip step 2);</li><li>Select <b>Users </b>(or <b>Accounts</b> if Windows 10);</li><li>Select <b>Change </b>(or <b>Sign-in Options</b> if Windows 10);</li><li>Set Require Sign-In to <b>Never</b> (as opposed to When PC wakes up from Sleep).</li></ol></li></ul></div> <div id="internal"> <div MadCap:conditions="Default.Ignore"><p><b>Article Number:</b> 123502</p><p><b>Internal notes:</b> </p><p /></div></div> </div> </body>

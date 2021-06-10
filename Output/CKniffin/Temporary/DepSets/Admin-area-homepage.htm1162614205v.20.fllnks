@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/AccessTechConsole.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ProvideFeedback.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/SearchAdminArea.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ViewAlerts.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/EnableRemoteControl.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/RemoteControlMode.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/UserIcon.png" />
+    <Link
+      Url="Content/Enable-multi-factor-authentication.htm" />
+    <Link
+      Url="Content/Use-panic-button.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ChangeLanguage.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Unattended-support.htm" />
+    <Link
+      Url="Content/Create-and-manage- technicians.htm" />
+    <Link
+      Url="Content/Set-up-the-Agent.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
+      Url="Content/Resources/Images/icons/FeatureGuides.png" />
+    <Link
+      Url="Content/Manage-devices.htm" />
+    <Link
+      Url="Content/Configure-Profile.htm" />
+    <Link
+      Url="Content/Manage-your-account.htm" />
+    <Link
+      Url="Content/Generate-reports.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/AccessTechConsole.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ProvideFeedback.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/SearchAdminArea.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ViewAlerts.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/EnableRemoteControl.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/RemoteControlMode.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/UserIcon.png" />
+    <Link
+      Url="Content/Enable-multi-factor-authentication.htm" />
+    <Link
+      Url="Content/Use-panic-button.htm" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/ChangeLanguage.png" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Unattended-support.htm" />
+    <Link
+      Url="Content/Create-and-manage- technicians.htm" />
+    <Link
+      Url="Content/Set-up-the-Agent.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
+      Url="Content/Resources/Images/icons/FeatureGuides.png" />
+    <Link
+      Url="Content/Manage-devices.htm" />
+    <Link
+      Url="Content/Configure-Profile.htm" />
+    <Link
+      Url="Content/Manage-your-account.htm" />
+    <Link
+      Url="Content/Generate-reports.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.CompanyName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Exclude.Comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
