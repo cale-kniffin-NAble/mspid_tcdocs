@@ -10,7 +10,7 @@
   EnableResponsiveOutput="true"
   MasterPage="/Content/Resources/MasterPages/N-ABLE_TroubleshootingTopics-NoSideMenu.flmsp"
   ResultsPerPage="10"
-  ConditionTagExpression="exclude[Default.Ignore or Exclude.comment]"
+  ConditionTagExpression="include[Default.UserGuide], exclude[Default.Ignore or Default.Troubleshooting or Exclude.comment]"
   SearchBarSkin="/Project/Skins/N-ABLE_SearchBar.flskn"
   MasterStylesheet="/Content/Resources/Stylesheets/N-ABLE_CustomStyles.css"
   GenerateAllSkins="false"

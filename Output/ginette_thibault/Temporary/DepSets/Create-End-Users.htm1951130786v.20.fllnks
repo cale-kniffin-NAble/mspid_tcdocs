@@ -9,6 +9,14 @@
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
       Url="Content/Access-end-user-area.htm" />
     <Link
       Url="https://www.n-able.com/products/take-control" />
@@ -24,6 +32,14 @@
   <LongLinks>
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/Access-end-user-area.htm" />
     <Link
@@ -59,5 +75,14 @@
     <Condition
       Tag="Exclude.Comment" />
   </AllConditions>
-  <Stylesheets />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+  </Stylesheets>
 </CatapultFileLinkSet>

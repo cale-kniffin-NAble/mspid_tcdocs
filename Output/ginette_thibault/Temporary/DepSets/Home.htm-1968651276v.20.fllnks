@@ -7,7 +7,13 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/Getting-started-with-Take-Control.htm" />
     <Link
@@ -59,7 +65,13 @@
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+      Url="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/Getting-started-with-Take-Control.htm" />
     <Link
@@ -120,6 +132,12 @@
   <AllConditions />
   <Stylesheets>
     <Url
-      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+      Source="Content/Resources/Stylesheets/N-ABLE_Structure.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
   </Stylesheets>
 </CatapultFileLinkSet>

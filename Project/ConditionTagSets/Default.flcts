@@ -24,4 +24,12 @@
     BackgroundColor="#00bfff"
     Name="Ignore"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Troubleshooting"
+    Comment="To show/hide the Troubleshooting Guide tab" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="UserGuide"
+    Comment="To show/hide the User Guide tab" />
 </CatapultConditionTagSet>
