@@ -6,91 +6,91 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/kb/How-to-configure-macOS-10-14-Mojave-or-10-15-Catalina-for-Take-Control.htm" />
-    <Link
-      Url="Content/kb/Take-Control-Standalone-Ports-and-Domains-Firewall-and-AV-Exclusions.htm" />
+      Url="Content/kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="Content/kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm" />
+      Url="Content/kb/Interactive-services-error.htm" />
     <Link
-      Url="Content/kb/Take-Control-Black-screen-without-Please-wait.htm" />
+      Url="Content/kb/How-to-silent-install-the-Take-Control-Technician-Console.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-Agent-Silent-Install.htm" />
+      Url="Content/kb/How-to-use-the-computer-name-as-the-agent-name-on-MSP-Anywhere.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-Lost-recovery-code-and-need-to-reset-or-revoke-2FA.htm" />
+      Url="Content/kb/No-popup-with-MSP-Connect-when-technician-tries-to-control-end-user-s-screen.htm" />
     <Link
-      Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
+      Url="Content/kb/Reboot-remote-session-in-Safe-Mode.htm" />
     <Link
-      Url="Content/kb/Take-Control-All-Versions-Remote-Printing.htm" />
+      Url="Content/kb/Take-Control-Admin-Area-Deferred-Support-Request-Survey-not-loading-Internet-Explorer.htm" />
     <Link
-      Url="Content/kb/Blank-Screen-results-in-Windows-lock-on-remote-end.htm" />
+      Url="Content/kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
     <Link
-      Url="Content/kb/Adding-a-Take-Control-standalone-applet-to-the-Request-Help-Link-for-N-central.htm" />
-    <Link
-      Url="Content/kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm" />
-    <Link
-      Url="Content/kb/MSP-Take-Control-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm" />
-    <Link
-      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
-    <Link
-      Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
-    <Link
-      Url="Content/kb/Taking-control-of-device-using-Chrome-always-pops-up-with-Open-Take-Control.htm" />
-    <Link
-      Url="Content/kb/Uploading-a-technician-profile-photo-results-in-error-upload-failed.htm" />
-    <Link
-      Url="Content/kb/Take-Control-Standalone-Remote-Support-Session-Options.htm" />
+      Url="Content/kb/How-to-preset-password-on-Take-Control-MSP-Anywhere.htm" />
     <Link
       Url="Content/kb/Take-Control-How-to-send-a-survey-to-a-customer.htm" />
     <Link
+      Url="Content/kb/Many-instances-of-BASupSrvcCnfg-exe-present-on-Terminal-Server-with-Take-Control-installed.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Grant-Permissions-to-a-Technician-to-access-a-group-of-computers.htm" />
+    <Link
+      Url="Content/kb/View-scripts-executed-from-MSP-anywhere-at-a-given-time.htm" />
+    <Link
+      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
+    <Link
+      Url="Content/kb/What-is-the-Crashcrusher-folder-in-the-Documents-folder-on-a-Mac.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Plus-Disable-an-End-User.htm" />
+    <Link
       Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
     <Link
-      Url="Content/kb/Stop-the-Take-Control-Agent-Standalone-from-launching-a-process-per-user-on-a-terminal-server.htm" />
+      Url="Content/kb/Take-Control-False-Positive-AV-detection-of-Take-Control-Agent-as-a-threat.htm" />
+    <Link
+      Url="Content/kb/Take-Control-standalone-SSO-login-return-Invalid-Creds.htm" />
+    <Link
+      Url="Content/kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/kb/How-to-configure-macOS-10-14-Mojave-or-10-15-Catalina-for-Take-Control.htm" />
-    <Link
-      Url="Content/kb/Take-Control-Standalone-Ports-and-Domains-Firewall-and-AV-Exclusions.htm" />
+      Url="Content/kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="Content/kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm" />
+      Url="Content/kb/Interactive-services-error.htm" />
     <Link
-      Url="Content/kb/Take-Control-Black-screen-without-Please-wait.htm" />
+      Url="Content/kb/How-to-silent-install-the-Take-Control-Technician-Console.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-Agent-Silent-Install.htm" />
+      Url="Content/kb/How-to-use-the-computer-name-as-the-agent-name-on-MSP-Anywhere.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-Lost-recovery-code-and-need-to-reset-or-revoke-2FA.htm" />
+      Url="Content/kb/No-popup-with-MSP-Connect-when-technician-tries-to-control-end-user-s-screen.htm" />
     <Link
-      Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
+      Url="Content/kb/Reboot-remote-session-in-Safe-Mode.htm" />
     <Link
-      Url="Content/kb/Take-Control-All-Versions-Remote-Printing.htm" />
+      Url="Content/kb/Take-Control-Admin-Area-Deferred-Support-Request-Survey-not-loading-Internet-Explorer.htm" />
     <Link
-      Url="Content/kb/Blank-Screen-results-in-Windows-lock-on-remote-end.htm" />
+      Url="Content/kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
     <Link
-      Url="Content/kb/Adding-a-Take-Control-standalone-applet-to-the-Request-Help-Link-for-N-central.htm" />
-    <Link
-      Url="Content/kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm" />
-    <Link
-      Url="Content/kb/MSP-Take-Control-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm" />
-    <Link
-      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
-    <Link
-      Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
-    <Link
-      Url="Content/kb/Taking-control-of-device-using-Chrome-always-pops-up-with-Open-Take-Control.htm" />
-    <Link
-      Url="Content/kb/Uploading-a-technician-profile-photo-results-in-error-upload-failed.htm" />
-    <Link
-      Url="Content/kb/Take-Control-Standalone-Remote-Support-Session-Options.htm" />
+      Url="Content/kb/How-to-preset-password-on-Take-Control-MSP-Anywhere.htm" />
     <Link
       Url="Content/kb/Take-Control-How-to-send-a-survey-to-a-customer.htm" />
     <Link
+      Url="Content/kb/Many-instances-of-BASupSrvcCnfg-exe-present-on-Terminal-Server-with-Take-Control-installed.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Grant-Permissions-to-a-Technician-to-access-a-group-of-computers.htm" />
+    <Link
+      Url="Content/kb/View-scripts-executed-from-MSP-anywhere-at-a-given-time.htm" />
+    <Link
+      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
+    <Link
+      Url="Content/kb/What-is-the-Crashcrusher-folder-in-the-Documents-folder-on-a-Mac.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Plus-Disable-an-End-User.htm" />
+    <Link
       Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
     <Link
-      Url="Content/kb/Stop-the-Take-Control-Agent-Standalone-from-launching-a-process-per-user-on-a-terminal-server.htm" />
+      Url="Content/kb/Take-Control-False-Positive-AV-detection-of-Take-Control-Agent-as-a-threat.htm" />
+    <Link
+      Url="Content/kb/Take-Control-standalone-SSO-login-return-Invalid-Creds.htm" />
+    <Link
+      Url="Content/kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -99,17 +99,19 @@
   <IndexControlNames />
   <Variables>
     <Variable
-      Name="General.ProductName_tc-sa" />
+      Name="General.ProductName_tc" />
+    <Variable
+      Name="General.ProductName_msp_cn" />
+    <Variable
+      Name="General.ProductName_tc_long" />
     <Variable
       Name="General.ProductName_tc-sw" />
     <Variable
-      Name="General.ProductName_rmm_short" />
+      Name="General.ProductName_tc-sa" />
     <Variable
-      Name="General.ProductName_nc_short" />
+      Name="General.ProductName_tcp_short" />
     <Variable
-      Name="General.ProductName_tc" />
-    <Variable
-      Name="General.ProductName_tc_long" />
+      Name="General.ProductName_tc-sa-Long" />
   </Variables>
   <FileConditions />
   <FileTags />

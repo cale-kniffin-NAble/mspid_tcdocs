@@ -6,103 +6,63 @@
         <h1>Popular Topics</h1>
         <ul>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/How-to-configure-macOS-10-14-Mojave-or-10-15-Catalina-for-Take-Control.htm">How to configure macOS 10.14 (Mojave) or 10.15 (Catalina) for Take Control?</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm">Enable direct UDP (P2P) Connection in [%=General.ProductName_tc%]</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Take-Control-Standalone-Ports-and-Domains-Firewall-and-AV-Exclusions.htm">[%=General.ProductName_tc-sa%]: Ports and Domains/Firewall and AV Exclusions</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Interactive-services-error.htm">Interactive services error</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm">How to Perform a Clean Uninstall and Reinstall of [%=General.ProductName_tc-sw%] macOS in [%=General.ProductName_rmm_short%]</MadCap:xref> </p>
+                <MadCap:xref href="../../kb/How-to-silent-install-the-Take-Control-Technician-Console.htm">How to silent install the Take Control Technician Console</MadCap:xref> </li>
+            <li>
+                <MadCap:xref href="../../kb/How-to-use-the-computer-name-as-the-agent-name-on-MSP-Anywhere.htm">Take Control: Set Agent installs to use the device's actual name</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Take-Control-Black-screen-without-Please-wait.htm">Take Control: Black screen without Please wait</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/No-popup-with-MSP-Connect-when-technician-tries-to-control-end-user-s-screen.htm">No popup with [%=General.ProductName_msp_cn%] when technician tries to control end user's screen</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Take-Control-Standalone-Agent-Silent-Install.htm">[%=General.ProductName_tc-sa%]: Agent Silent Install</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Reboot-remote-session-in-Safe-Mode.htm">Take Control: Reboot remote session in Safe Mode</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Take-Control-Standalone-Lost-recovery-code-and-need-to-reset-or-revoke-2FA.htm">[%=General.ProductName_tc-sa%]: Lost recovery code and need to reset or revoke 2FA</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Take-Control-Admin-Area-Deferred-Support-Request-Survey-not-loading-Internet-Explorer.htm">Take Control: Admin Area/Deferred Support Request interface/Survey not loading correctly on Internet Explorer</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm">Deploy Take Control Agent with Group Policy and Active Directory Deployment</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm">[%=General.ProductName_tc_long%]: How to copy permissions from a technician to another</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Take-Control-All-Versions-Remote-Printing.htm">Take Control (All Versions): Remote Printing</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/How-to-preset-password-on-Take-Control-MSP-Anywhere.htm">How to preset a password on [%=General.ProductName_tc-sw%]</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Blank-Screen-results-in-Windows-lock-on-remote-end.htm">Blank Screen results in Windows lock on remote end</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Take-Control-How-to-send-a-survey-to-a-customer.htm">Take Control: How to send a survey to a customer?</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Adding-a-Take-Control-standalone-applet-to-the-Request-Help-Link-for-N-central.htm">Adding a [%=General.ProductName_tc-sa%] applet to the Request Help Link for [%=General.ProductName_nc_short%]</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Many-instances-of-BASupSrvcCnfg-exe-present-on-Terminal-Server-with-Take-Control-installed.htm">Many instances of BASupSrvcCnfg.exe present on Terminal Server with Take Control installed</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm">Enable direct UDP (P2P) Connection in [%=General.ProductName_tc%]</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Take-Control-Standalone-Grant-Permissions-to-a-Technician-to-access-a-group-of-computers.htm">[%=General.ProductName_tc-sa%]: Grant Permissions to a Technician to access a group of computers</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/MSP-Take-Control-Admin-Area-login-shows-Error-Sorry-This-page-was-not-found.htm">[%=General.ProductName_tc%]: Admin Area login shows Error: "Sorry. This page was not found."</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/View-scripts-executed-from-MSP-anywhere-at-a-given-time.htm">View scripts executed from [%=General.ProductName_tc%] at a given time</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm">Take Control: Generating an Agent Installer for a Specific Group</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm">Take Control: Generating an Agent Installer for a Specific Group</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Where-can-I-find-information-about-upcoming-releases.htm">Where can I find information about upcoming releases?</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/What-is-the-Crashcrusher-folder-in-the-Documents-folder-on-a-Mac.htm">What is the Crashcrusher folder in the Documents folder on a Mac?</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Taking-control-of-device-using-Chrome-always-pops-up-with-Open-Take-Control.htm">Taking control of a device using Chrome always pops up with "Open [%=General.ProductName_tc_long%]?"</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Take-Control-Plus-Disable-an-End-User.htm">[%=General.ProductName_tcp_short%]: Disable an End User</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Uploading-a-technician-profile-photo-results-in-error-upload-failed.htm">Uploading a technician profile photo results in error: upload failed</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Not-able-to-view-tickets-at-support-com.htm">Not able to view tickets at success.n-able.com</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Take-Control-Standalone-Remote-Support-Session-Options.htm">[%=General.ProductName_tc-sa%]: Remote Support Session Options</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Take-Control-False-Positive-AV-detection-of-Take-Control-Agent-as-a-threat.htm">Take Control: False Positive AV detection of Take Control Agent as a threat</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Take-Control-How-to-send-a-survey-to-a-customer.htm">Take Control: How to send a survey to a customer?</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Take-Control-standalone-SSO-login-return-Invalid-Creds.htm">[%=General.ProductName_tc-sa-Long%]: SSO login returning Invalid Credentials</MadCap:xref>
             </li>
             <li>
-                <p>
-                    <MadCap:xref href="../../kb/Not-able-to-view-tickets-at-support-com.htm">Not able to view tickets at success.n-able.com</MadCap:xref>
-                </p>
-            </li>
-            <li>
-                <p>
-                    <MadCap:xref href="../../kb/Stop-the-Take-Control-Agent-Standalone-from-launching-a-process-per-user-on-a-terminal-server.htm">Stop the Take Control Agent (Standalone) from launching a process per user on a terminal server</MadCap:xref>
-                </p>
+                <MadCap:xref href="../../kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm">Starting Take Control Console via taskbar icon states that Take Control needs to be updated, but it has already been updated</MadCap:xref>
             </li>
         </ul>
     </body>

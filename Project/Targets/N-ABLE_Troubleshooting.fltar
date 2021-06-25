@@ -29,7 +29,6 @@
   FaviconSkin="/Project/Skins/N-ABLE_Favicon.flskn"
   MobileBreakpoint="667"
   ContentInclusionType="Toc"
-  OutputFolder="C:\TCTS"
   DefaultUrl="/Content/StartPages/TroubleshootingPage/TroubleshootingStart.htm">
   <PrintedOutput
     CollapseMargins="true"
