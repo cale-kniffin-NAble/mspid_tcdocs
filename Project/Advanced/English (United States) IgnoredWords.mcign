@@ -7,5 +7,6 @@
     <Word Comment="">https://api.swi-rc.com/integration/tickets_api.php</Word>
     <Word Comment="">https://enduser.swi-tc.com/login.php</Word>
     <Word Comment="">Multifactor</Word>
-    <Word>username</Word>
+    <Word Comment="">username</Word>
+    <Word>https://docs.microsoft.com/en-us/previous-versions/troubleshoot/msxml/list-of-xml-parser-versions</Word>
 </IgnoredWordsDictionary>
