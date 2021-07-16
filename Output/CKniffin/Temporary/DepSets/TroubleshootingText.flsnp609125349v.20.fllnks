@@ -6,91 +6,91 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm" />
+      Url="Content/kb/Take-Control-Script-not-running-results-showing-blank-output.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Agent-Silent-Install.htm" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="Content/kb/Interactive-services-error.htm" />
-    <Link
-      Url="Content/kb/How-to-silent-install-the-Take-Control-Technician-Console.htm" />
+      Url="Content/kb/Your-current-IP-address-not-authorized-access-this-resource-Please-make-sure-you-are-connecting.htm" />
     <Link
       Url="Content/kb/How-to-use-the-computer-name-as-the-agent-name-on-MSP-Anywhere.htm" />
     <Link
-      Url="Content/kb/No-popup-with-MSP-Connect-when-technician-tries-to-control-end-user-s-screen.htm" />
-    <Link
-      Url="Content/kb/Reboot-remote-session-in-Safe-Mode.htm" />
-    <Link
-      Url="Content/kb/Take-Control-Admin-Area-Deferred-Support-Request-Survey-not-loading-Internet-Explorer.htm" />
-    <Link
-      Url="Content/kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
-    <Link
-      Url="Content/kb/How-to-preset-password-on-Take-Control-MSP-Anywhere.htm" />
-    <Link
-      Url="Content/kb/Take-Control-How-to-send-a-survey-to-a-customer.htm" />
-    <Link
-      Url="Content/kb/Many-instances-of-BASupSrvcCnfg-exe-present-on-Terminal-Server-with-Take-Control-installed.htm" />
-    <Link
-      Url="Content/kb/Take-Control-Standalone-Grant-Permissions-to-a-Technician-to-access-a-group-of-computers.htm" />
+      Url="Content/kb/Taking-control-of-device-using-Chrome-always-pops-up-with-Open-Take-Control.htm" />
     <Link
       Url="Content/kb/View-scripts-executed-from-MSP-anywhere-at-a-given-time.htm" />
     <Link
-      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
+      Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
     <Link
-      Url="Content/kb/What-is-the-Crashcrusher-folder-in-the-Documents-folder-on-a-Mac.htm" />
+      Url="Content/kb/Take-Control-Viewer-All-Versions-Freezing-or-Taking-a-Long-Time-To-Connect-due-To-HP-Velocity.htm" />
     <Link
-      Url="Content/kb/Take-Control-Plus-Disable-an-End-User.htm" />
+      Url="Content/kb/Take-Control-FIPS-140-2-compliance-and-certification.htm" />
     <Link
-      Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
+      Url="Content/kb/Take-Control-All-Versions-File-Transfer.htm" />
     <Link
-      Url="Content/kb/Take-Control-False-Positive-AV-detection-of-Take-Control-Agent-as-a-threat.htm" />
+      Url="Content/kb/Take-Control-Setup-branding-in-the-Admin-Area.htm" />
     <Link
-      Url="Content/kb/Take-Control-standalone-SSO-login-return-Invalid-Creds.htm" />
+      Url="Content/kb/Get-clipboard-from-remote-user-machine-during-an-active-session-in-MSP-anywhere.htm" />
     <Link
-      Url="Content/kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm" />
+      Url="Content/kb/How-to-preset-password-on-Take-Control-MSP-Anywhere.htm" />
+    <Link
+      Url="Content/kb/Lock-Device-option-not-working.htm" />
+    <Link
+      Url="Content/kb/How-to-generate-an-Exclusive-Link-or-Applet-direct-download-link-on-Take-Control-Standalone.htm" />
+    <Link
+      Url="Content/kb/Can-you-use-RDP-Tunneling-from-a-Mac-to-a-Windows-device-in-MSP-Anywhere.htm" />
+    <Link
+      Url="Content/kb/Connectivity-Issues-due-to-Outdated-Consoles-and-Agents.htm" />
+    <Link
+      Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
+    <Link
+      Url="Content/kb/How-to-create-a-Full-Crash-Dump.htm" />
+    <Link
+      Url="Content/kb/Check-the-session-recording-repository.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/kb/Enable-direct-UDP--P2P--Connection-in-MSP-Anywhere.htm" />
+      Url="Content/kb/Take-Control-Script-not-running-results-showing-blank-output.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-Agent-Silent-Install.htm" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="Content/kb/Interactive-services-error.htm" />
-    <Link
-      Url="Content/kb/How-to-silent-install-the-Take-Control-Technician-Console.htm" />
+      Url="Content/kb/Your-current-IP-address-not-authorized-access-this-resource-Please-make-sure-you-are-connecting.htm" />
     <Link
       Url="Content/kb/How-to-use-the-computer-name-as-the-agent-name-on-MSP-Anywhere.htm" />
     <Link
-      Url="Content/kb/No-popup-with-MSP-Connect-when-technician-tries-to-control-end-user-s-screen.htm" />
-    <Link
-      Url="Content/kb/Reboot-remote-session-in-Safe-Mode.htm" />
-    <Link
-      Url="Content/kb/Take-Control-Admin-Area-Deferred-Support-Request-Survey-not-loading-Internet-Explorer.htm" />
-    <Link
-      Url="Content/kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
-    <Link
-      Url="Content/kb/How-to-preset-password-on-Take-Control-MSP-Anywhere.htm" />
-    <Link
-      Url="Content/kb/Take-Control-How-to-send-a-survey-to-a-customer.htm" />
-    <Link
-      Url="Content/kb/Many-instances-of-BASupSrvcCnfg-exe-present-on-Terminal-Server-with-Take-Control-installed.htm" />
-    <Link
-      Url="Content/kb/Take-Control-Standalone-Grant-Permissions-to-a-Technician-to-access-a-group-of-computers.htm" />
+      Url="Content/kb/Taking-control-of-device-using-Chrome-always-pops-up-with-Open-Take-Control.htm" />
     <Link
       Url="Content/kb/View-scripts-executed-from-MSP-anywhere-at-a-given-time.htm" />
     <Link
-      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
+      Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
     <Link
-      Url="Content/kb/What-is-the-Crashcrusher-folder-in-the-Documents-folder-on-a-Mac.htm" />
+      Url="Content/kb/Take-Control-Viewer-All-Versions-Freezing-or-Taking-a-Long-Time-To-Connect-due-To-HP-Velocity.htm" />
     <Link
-      Url="Content/kb/Take-Control-Plus-Disable-an-End-User.htm" />
+      Url="Content/kb/Take-Control-FIPS-140-2-compliance-and-certification.htm" />
     <Link
-      Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
+      Url="Content/kb/Take-Control-All-Versions-File-Transfer.htm" />
     <Link
-      Url="Content/kb/Take-Control-False-Positive-AV-detection-of-Take-Control-Agent-as-a-threat.htm" />
+      Url="Content/kb/Take-Control-Setup-branding-in-the-Admin-Area.htm" />
     <Link
-      Url="Content/kb/Take-Control-standalone-SSO-login-return-Invalid-Creds.htm" />
+      Url="Content/kb/Get-clipboard-from-remote-user-machine-during-an-active-session-in-MSP-anywhere.htm" />
     <Link
-      Url="Content/kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm" />
+      Url="Content/kb/How-to-preset-password-on-Take-Control-MSP-Anywhere.htm" />
+    <Link
+      Url="Content/kb/Lock-Device-option-not-working.htm" />
+    <Link
+      Url="Content/kb/How-to-generate-an-Exclusive-Link-or-Applet-direct-download-link-on-Take-Control-Standalone.htm" />
+    <Link
+      Url="Content/kb/Can-you-use-RDP-Tunneling-from-a-Mac-to-a-Windows-device-in-MSP-Anywhere.htm" />
+    <Link
+      Url="Content/kb/Connectivity-Issues-due-to-Outdated-Consoles-and-Agents.htm" />
+    <Link
+      Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
+    <Link
+      Url="Content/kb/How-to-create-a-Full-Crash-Dump.htm" />
+    <Link
+      Url="Content/kb/Check-the-session-recording-repository.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -99,19 +99,15 @@
   <IndexControlNames />
   <Variables>
     <Variable
-      Name="General.ProductName_tc" />
-    <Variable
-      Name="General.ProductName_msp_cn" />
+      Name="General.ProductName_tc-sa" />
     <Variable
       Name="General.ProductName_tc_long" />
     <Variable
+      Name="General.ProductName_tc" />
+    <Variable
+      Name="General.ProductName_tc-v" />
+    <Variable
       Name="General.ProductName_tc-sw" />
-    <Variable
-      Name="General.ProductName_tc-sa" />
-    <Variable
-      Name="General.ProductName_tcp_short" />
-    <Variable
-      Name="General.ProductName_tc-sa-Long" />
   </Variables>
   <FileConditions />
   <FileTags />
