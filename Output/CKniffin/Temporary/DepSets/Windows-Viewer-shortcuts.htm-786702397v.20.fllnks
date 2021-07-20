@@ -14,6 +14,8 @@
       Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="https://help.us0.swi-rc.com/shortcuts/shortcuts_doc.php" />
   </Links>
   <LongLinks>
     <Link
@@ -24,6 +26,8 @@
       Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="https://help.us0.swi-rc.com/shortcuts/shortcuts_doc.php?p=mspa&amp;v=7.00.01&amp;l=en" />
   </LongLinks>
   <Anchors />
   <Keywords />
