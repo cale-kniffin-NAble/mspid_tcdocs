@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/N-ABLE/SearchBackground_desktop.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/1.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/2.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/3.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/4.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/5.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/6.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/7.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/8.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/9.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/10.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/11.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/12.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/13.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/14.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/15.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/16.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/17.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/18.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/19.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/20.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/21.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/22.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/23.png" />
+    <Link
+      Url="Content/StartPages/MenuPage/Icons/24.png" />
+    <Link
+      Url="Content/Resources/Images/N-ABLE/menu.png" />
+    <Link
+      Url="Content/Resources/Images/N-ABLE/PageBackground.png" />
+    <Link
+      Url="Content/Resources/Images/N-ABLE/SearchBackground.png" />
+    <Link
+      Url="https://fonts.googleapis.com/css" />
+    <Link
+      Url="https://fonts.googleapis.com/css2" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
