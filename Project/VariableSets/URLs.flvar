@@ -15,7 +15,7 @@
   <Variable
     Name="NotesURL"
     EvaluatedDefinition="https://status.n-able.com/release-notes/"
-    Comment="Full URL to release notes.">https://status.n-able.com/release-notes/</Variable>
+    Comment="Full URL to release notes.">https://status.n-able.com/category/nable-take-control/</Variable>
   <Variable
     Name="NotesText"
     EvaluatedDefinition="Release Notes"

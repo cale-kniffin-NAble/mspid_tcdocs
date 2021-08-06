@@ -8,8 +8,8 @@
                 <p id="GuideLink"><a href="[%=URLs.DocURL%]/[%=Documents.ProductNamePath%]/[%=URLs.GuidePath%]/[%=URLs.GuideStartPage%]" title="[%=URLs.GuideScreenTip%]" alt="[%=URLs.GuideScreenTip%]"><MadCap:variable name="URLs.GuideText" /></a>
                 </p>
             </div>
-			<div class="text-link">
-				<p id="TroubleshootingLink"><a href="[%=URLs.DocURL%]/[%=Documents.ProductNamePath%]/[%=URLs.TroubleshootingPath%]/[%=URLs.TroubleshootingStartPage%]" title="[%=URLs.TroubleshootingScreenTip%]" alt="[%=URLs.TroubleshootingScreenTip%]"><MadCap:variable name="URLs.TroubleshootingText" /></a>
+            <div class="text-link">
+                <p id="TroubleshootingLink"><a href="[%=URLs.DocURL%]/[%=Documents.ProductNamePath%]/[%=URLs.TroubleshootingPath%]/[%=URLs.TroubleshootingStartPage%]" title="[%=URLs.TroubleshootingScreenTip%]" alt="[%=URLs.TroubleshootingScreenTip%]"><MadCap:variable name="URLs.TroubleshootingText" /></a>
                 </p>
             </div>
             <div class="text-link">
