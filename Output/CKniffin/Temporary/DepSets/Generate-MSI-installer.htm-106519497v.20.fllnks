@@ -15,6 +15,8 @@
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/MSIinstaller.png" />
+    <Link
+      Url="https://docs.microsoft.com/en-us/troubleshoot/windows-server/group-policy/use-group-policy-to-install-software" />
   </Links>
   <LongLinks>
     <Link
@@ -27,6 +29,8 @@
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/MSIinstaller.png" />
+    <Link
+      Url="https://docs.microsoft.com/en-us/troubleshoot/windows-server/group-policy/use-group-policy-to-install-software" />
   </LongLinks>
   <Anchors />
   <Keywords />

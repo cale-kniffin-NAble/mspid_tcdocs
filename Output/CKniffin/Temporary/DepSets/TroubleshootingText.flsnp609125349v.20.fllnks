@@ -6,91 +6,95 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/kb/How-to-enable-two-factor-authentication-on-Take-Control-Take-Control-Plus.htm" />
+      Url="Content/kb/How-to-open-a-chat-with-Technical-Support-from-the-Take-Control-Plus-Admin-Area.htm" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="Content/kb/Take-Control-System-Requirements.htm" />
+      Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-macOS-Unattended-Support-Agent.htm" />
     <Link
       Url="Content/kb/How-to-edit-the-initial-form-prompted-by-Applet-sessions.htm" />
     <Link
-      Url="Content/kb/How-to-create-a-Full-Crash-Dump.htm" />
+      Url="Content/kb/From-Case-Using-BeAnyWhere-in-Browser.htm" />
     <Link
-      Url="Content/kb/How-to-enable-4k-display-compatibility-view-of-the-Take-Control-interface-in-Windows.htm" />
-    <Link
-      Url="Content/kb/Error-The-executable-program-that-this-service-is-configured-to-run-in-does-not-implement-the-service.htm" />
-    <Link
-      Url="Content/kb/Drawings-from-design-software-do-not-appear-or-get-distorted-when-connecting-with-Take-Control.htm" />
+      Url="Content/kb/Take-Control-Standalone-Allow-restricted-user-accounts-to-login-to-this-server.htm" />
     <Link
       Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
     <Link
-      Url="Content/kb/Take-Control-Admin-Area-Deferred-Support-Request-Survey-not-loading-Internet-Explorer.htm" />
+      Url="Content/kb/Not-receiving-texts-emails-for-2FA.htm" />
     <Link
-      Url="Content/kb/Take-Control-FIPS-140-2-compliance-and-certification.htm" />
+      Url="Content/kb/Take-Control-Standalone-Connectivity-Issues-due-to-Outdated-Consoles-and-Agents.htm" />
     <Link
-      Url="Content/kb/Take-Control-All-Versions-File-Transfer.htm" />
+      Url="Content/kb/Take-Control-button-Missing-Logs-show-MSPA-install-in-progress-or-MSPA-uninstall-in-progress.htm" />
     <Link
-      Url="Content/kb/Take-Control-Setup-branding-in-the-Admin-Area.htm" />
+      Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
     <Link
-      Url="Content/kb/Take-Control-Agent-not-appearing-in-Console-despite-being-installed.htm" />
+      Url="Content/kb/Take-Control-Applet-stuck-on-restart.htm" />
     <Link
-      Url="Content/kb/How-to-preset-password-on-Take-Control-MSP-Anywhere.htm" />
+      Url="Content/kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm" />
     <Link
-      Url="Content/kb/Adding-a-Take-Control-standalone-applet-to-the-Request-Help-Link-for-N-central.htm" />
+      Url="Content/kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
     <Link
-      Url="Content/kb/How-to-enable-Wake-On-Lan-WOL-on-Take-Control.htm" />
+      Url="Content/kb/Provide-Take-Control-access-to-a-specific-site-for-a-specific-user.htm" />
     <Link
-      Url="Content/kb/Can-you-use-RDP-Tunneling-from-a-Mac-to-a-Windows-device-in-MSP-Anywhere.htm" />
+      Url="Content/kb/Is-it-possible-to-remove-the-label-of-the-Operating-System-that-Tech-is-using.htm" />
     <Link
-      Url="Content/kb/Can-you-switch-Users-remotely-using-Take-Control-Plus.htm" />
+      Url="Content/kb/MSP-Take-Control-Change-Admin-Area-Language.htm" />
     <Link
-      Url="Content/kb/Create-new-remote-session-from-Technician-s-console.htm" />
+      Url="Content/kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm" />
     <Link
-      Url="Content/kb/From-Case-Using-BeAnyWhere-in-Browser.htm" />
+      Url="Content/kb/Error-The-executable-program-that-this-service-is-configured-to-run-in-does-not-implement-the-service.htm" />
+    <Link
+      Url="Content/kb/Can-standalone-Take-Control-Agent-be-installed-on-device-already-has-N-central-or-RMM-TC-Agent.htm" />
+    <Link
+      Url="Content/kb/Does-Take-Control-support-Linux-devices-without-a-monitor-for-Remote-access.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/kb/How-to-enable-two-factor-authentication-on-Take-Control-Take-Control-Plus.htm" />
+      Url="Content/kb/How-to-open-a-chat-with-Technical-Support-from-the-Take-Control-Plus-Admin-Area.htm" />
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
-      Url="Content/kb/Take-Control-System-Requirements.htm" />
+      Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
+    <Link
+      Url="Content/kb/Take-Control-Standalone-macOS-Unattended-Support-Agent.htm" />
     <Link
       Url="Content/kb/How-to-edit-the-initial-form-prompted-by-Applet-sessions.htm" />
     <Link
-      Url="Content/kb/How-to-create-a-Full-Crash-Dump.htm" />
+      Url="Content/kb/From-Case-Using-BeAnyWhere-in-Browser.htm" />
     <Link
-      Url="Content/kb/How-to-enable-4k-display-compatibility-view-of-the-Take-Control-interface-in-Windows.htm" />
-    <Link
-      Url="Content/kb/Error-The-executable-program-that-this-service-is-configured-to-run-in-does-not-implement-the-service.htm" />
-    <Link
-      Url="Content/kb/Drawings-from-design-software-do-not-appear-or-get-distorted-when-connecting-with-Take-Control.htm" />
+      Url="Content/kb/Take-Control-Standalone-Allow-restricted-user-accounts-to-login-to-this-server.htm" />
     <Link
       Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
     <Link
-      Url="Content/kb/Take-Control-Admin-Area-Deferred-Support-Request-Survey-not-loading-Internet-Explorer.htm" />
+      Url="Content/kb/Not-receiving-texts-emails-for-2FA.htm" />
     <Link
-      Url="Content/kb/Take-Control-FIPS-140-2-compliance-and-certification.htm" />
+      Url="Content/kb/Take-Control-Standalone-Connectivity-Issues-due-to-Outdated-Consoles-and-Agents.htm" />
     <Link
-      Url="Content/kb/Take-Control-All-Versions-File-Transfer.htm" />
+      Url="Content/kb/Take-Control-button-Missing-Logs-show-MSPA-install-in-progress-or-MSPA-uninstall-in-progress.htm" />
     <Link
-      Url="Content/kb/Take-Control-Setup-branding-in-the-Admin-Area.htm" />
+      Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
     <Link
-      Url="Content/kb/Take-Control-Agent-not-appearing-in-Console-despite-being-installed.htm" />
+      Url="Content/kb/Take-Control-Applet-stuck-on-restart.htm" />
     <Link
-      Url="Content/kb/How-to-preset-password-on-Take-Control-MSP-Anywhere.htm" />
+      Url="Content/kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm" />
     <Link
-      Url="Content/kb/Adding-a-Take-Control-standalone-applet-to-the-Request-Help-Link-for-N-central.htm" />
+      Url="Content/kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
     <Link
-      Url="Content/kb/How-to-enable-Wake-On-Lan-WOL-on-Take-Control.htm" />
+      Url="Content/kb/Provide-Take-Control-access-to-a-specific-site-for-a-specific-user.htm" />
     <Link
-      Url="Content/kb/Can-you-use-RDP-Tunneling-from-a-Mac-to-a-Windows-device-in-MSP-Anywhere.htm" />
+      Url="Content/kb/Is-it-possible-to-remove-the-label-of-the-Operating-System-that-Tech-is-using.htm" />
     <Link
-      Url="Content/kb/Can-you-switch-Users-remotely-using-Take-Control-Plus.htm" />
+      Url="Content/kb/MSP-Take-Control-Change-Admin-Area-Language.htm" />
     <Link
-      Url="Content/kb/Create-new-remote-session-from-Technician-s-console.htm" />
+      Url="Content/kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm" />
     <Link
-      Url="Content/kb/From-Case-Using-BeAnyWhere-in-Browser.htm" />
+      Url="Content/kb/Error-The-executable-program-that-this-service-is-configured-to-run-in-does-not-implement-the-service.htm" />
+    <Link
+      Url="Content/kb/Can-standalone-Take-Control-Agent-be-installed-on-device-already-has-N-central-or-RMM-TC-Agent.htm" />
+    <Link
+      Url="Content/kb/Does-Take-Control-support-Linux-devices-without-a-monitor-for-Remote-access.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -101,15 +105,17 @@
     <Variable
       Name="General.ProductName_tcp_short" />
     <Variable
+      Name="General.ProductName_tc-sa" />
+    <Variable
+      Name="General.ProductName_tc" />
+    <Variable
       Name="General.ProductName_tc_long" />
     <Variable
       Name="General.ProductName_tc-sw" />
     <Variable
-      Name="General.ProductName_tc-sa" />
+      Name="General.ProductName_rmm_short" />
     <Variable
       Name="General.ProductName_nc_short" />
-    <Variable
-      Name="General.ProductName_tc" />
   </Variables>
   <FileConditions />
   <FileTags />

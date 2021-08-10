@@ -366,13 +366,16 @@ div.links-menu div.text-link p#GuideLink
                                             <h1>Generate an MSI installer</h1>
                                             <p>While adding a new device from the Devices page of the Admin Area, select the <b>Microsoft Windows MSI installer</b>option to mass deploy the Agent to multiple devices. </p>
                                             <ol>
-                                                <li value="1">In the <b>Operating System</b> section of the new device configuration window, select the <b>Microsoft Windows MSI</b> option.<br /><img src="Resources/Images/MSPanywhere/MSIinstaller_502x357.png" style="width: 502;height: 357;" /></li>
-                                                <li value="2">Enter the <b>Customer Details</b>. </li>
-                                                <li value="3">In the <b>Device Expiry</b> section, select <b>Device never expires</b>.</li>
-                                                <li value="4">Click <b>Save</b> and the installer downloads in a new tab in your browser. </li>
-                                                <li value="5">After the download is complete, open and deploy the MSI file with the appropriate parameters:<ol><li value="1"><b>Normal silent install</b>: msiexec /i /qn path_to_msi</li><li value="2"><b>Silent install of an instance</b>: msiexec /i /qn path_to_msi INSTANCE="instance_name"</li><li value="3"><b>Uninstall</b>: msiexec /uninstall path_to_msi<br /></li><p class="info">This option requires an MSI on disk.</p></ol></li>
+                                                <li value="1">In the Admin Area, select <b>Devices</b> from the left navigation pane, click <b>Add device</b> and enter a name for the new device. </li>
+                                                <p class="info">Navigate to <b>Profile</b> &gt; <b>Agent Setup</b> &gt; <b>General</b> to configure the computer name as the default device name. When this is enabled, the supplied device name is ignored and replaced with the computer name. </p>
+                                                <li value="2">In the <b>Operating System</b> section of the new device configuration window, select the <b>Microsoft Windows MSI</b> option.<br /><img src="Resources/Images/MSPanywhere/MSIinstaller_502x357.png" style="width: 502;height: 357;" /></li>
+                                                <li value="3">Enter the <b>Customer Details</b>. </li>
+                                                <li value="4">In the <b>Device Expiry</b> section, select <b>Device never expires</b>.</li>
+                                                <li value="5">Click <b>Save</b> and the installer downloads in a new tab in your browser. </li>
+                                                <li value="6">After the download is complete, open and deploy the MSI file with the appropriate parameters:<ol><li value="1"><b>Normal silent install</b>: msiexec /i /qn path_to_msi</li><li value="2"><b>Silent install of an instance</b>: msiexec /i /qn path_to_msi INSTANCE="instance_name"</li><li value="3"><b>Uninstall</b>: msiexec /uninstall path_to_msi<br /></li><p class="info">This option requires an MSI on disk.</p></ol></li>
                                             </ol>
-                                            <p>The deployment pushes the MSI to a group policy controller which populates to all downstream devices and installs the Agent. </p>
+                                            <p>Make sure to configure a Group Policy, as the group policy definition is what actually deploys and installs the Agent on your devices. The deployment pushes the MSI to a group policy controller which populates to all downstream devices and installs the Agent. </p>
+                                            <p><a href="https://docs.microsoft.com/en-us/troubleshoot/windows-server/group-policy/use-group-policy-to-install-software" target="_blank">Learn more about group policies</a> and how they are used for remote installations. </p>
                                         </div>
                                         <p>
                                             <!-- Google Analytics -->
