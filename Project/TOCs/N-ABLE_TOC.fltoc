@@ -9,9 +9,6 @@
       Title="Learn about Take Control components"
       Link="/Content/Learn-about-Take-Control-components.htm" />
     <TocEntry
-      Title="Upgrade your account"
-      Link="/Content/Upgrade-your-account.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
       Title="System requirements"
       Link="/Content/System-requirements.htm">
       <TocEntry
@@ -43,7 +40,7 @@
       Link="/Content/Manage-your-account.htm">
       <TocEntry
         Title="Create and manage technicians"
-        Link="/Content/Create-and-manage- technicians.htm">
+        Link="/Content/Create-and-manage-technicians.htm">
         <TocEntry
           Title="[%=System.LinkedTitle%]"
           Link="/Content/Mass-Agent-deployment.htm" />
@@ -54,6 +51,9 @@
       <TocEntry
         Title="Set up departments"
         Link="/Content/Set-up-departments.htm"></TocEntry>
+      <TocEntry
+        Title="Manage Licenses"
+        Link="/Content/Manage-licenses-upgrade-your-account.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="Create surveys for technicians and customers"
         Link="/Content/Create-surveys.htm" />

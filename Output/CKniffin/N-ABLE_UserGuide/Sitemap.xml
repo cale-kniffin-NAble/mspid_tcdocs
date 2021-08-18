@@ -1,724 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ComputerMenu.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Port-Fowarding.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/SessionOptionsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Send-support-link.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Password-secrets-vaults.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EndUserTicket.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/SearchBackground_desktop.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Manage-your-account.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Use-panic-button.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/End-User-guide.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdminAreaPermissions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/start.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Mac-Interactions-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/APIkey.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditKnowledgeType.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Chat-with-customers-before-a remote-session.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessFTP_344x86.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-the-Agent.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ValidationAPIExample1_475x224.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Monitors-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/FileTransferIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SecretsVaultsIcon.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/LightModeDarkMode_999x193.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Manage-devices.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/GuideStart.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Upgrade-your-account.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/PassportalLink.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteControlMode_267x304.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_for Master-Admin_324x336.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Set-up-the-Applet.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Chat-with-customers-and-colleagues.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ScrollLock_129x23.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionsPage_907x432.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-New-Session-API.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AgentSettings.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-port-forwarding-for-Agents.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EnableRemoteControl_24x24.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/SecretsVaultsIcon_20x19.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-and-deploy-Scripts.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAstep2_302x371.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessLogFolder.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram_437x141.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Take-Control-Proxy.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Commands-Menu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAstep2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Make-VoIP-calls.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChangeLanguage.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Getting-started-with-Take-Control.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/View-ColorMenu_600x224.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/5.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Audit-devices.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChangeLanguage_281x199.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/6.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Session-History-API.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Preferences.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-MSI-installer.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MobileApp.jpeg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ConnectionDetails.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ProvideFeedback.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-APIs.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedMenu_16x17.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Call-Customers.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditKnowledgeType_10x15.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FARecoveryCode_304x328.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_for_Techs.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-FTP-connections.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Transfer-before-accepting-new-support-request.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Enhance-the-Agents-security.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PINCodePermissions_344x232.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionsPage.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditDevice.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedMenu_17x18.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Billing-info.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/4.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SystemDetailsTab_248x319.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Advanced-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/RunCommand.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/ConnectDevice.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ToggleColumns.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessTechConsole.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/NewEndUser.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EndUserComputerAccess.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PowerShellvsCmdPrompt.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Provide-assistance-to-customers.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Call-other-technicians.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Interactions-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/UrgentRequest_21x18.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAQRcode.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Computer-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Remotely-access-computers-devices-landing-page.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ConnectionDetailsWindow.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedMenu_15x16.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdminAreaPermissions_351x174.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-deferred-support-request-form.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ComputerMenu_474x320.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-session-history-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/RunCommand_25x25.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditKnowledgeType_14x21.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Linux Install script.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Wake-remote-computer.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Reject-support-requests.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteViewerMac.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Take-Control-for-Mojave.htm</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-mobie-devices.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCremote_ipad_434x267.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Default.mcwebhelp</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-basic-account-information.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/SearchBackground.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/LicensingInfo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionHistoryAPI.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TC Components Diagram_463x199.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-reports.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-Email-templates.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AgentSettings_474x383.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-and-manage-calling-cards.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SystemDetailsTab_263x338.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_EndUserMessage.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/Logo.svg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Commands-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-View-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/InteractionsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Learn-about-the-technician-console.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Set-up-the-Agent.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Search.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RequestDetails_266x337.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Mac-View-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionOptions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Transfer-session-before-creating-PIN.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-session-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Administrative-Area.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PassportalSearch.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacViewMenu_604x140.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Profile.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/info.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Take-Control-mobile-app.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-batches-of-calling-cards.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/InsertPassword_464x435.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/NewPIN.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/PASSlogo.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-preferences-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Session-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Install-Linux-Agent.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/start_32x32.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCMacScreenRecording.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacCommandsMenu_592x120.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-My-Computers.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Windows-Viewer-shortcuts.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SysDetails_21x19.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SysInfoOptions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Linux PIN code.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-deferred-support-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-integration-options.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Port-access-requirements.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/UpgradeTCPlus.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_for_Techs_317x337.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionMenuOptions_435x360.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/VaultPWAddSecret_462x337.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteViewerMac_779x480.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditKnowledgeType_10x15.png</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/APIResponseFormat.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_for Master-Admin.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Validation-API.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/LightModeDarkMode.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Commands-Menu_605x217.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SearchAdminArea.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/View-running-sessions.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FARecoveryCode.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/nugget.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Learn-about-the-status-bar.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Default.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedMenu_17x18.png</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/home.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessSecretsVaults.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Take-Control-mobile-app.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/icons/FeatureGuides.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-survey-report.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/View-ColorMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Wake-on-LAN.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacCommandsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/NewSessionPIN_342x179.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Port-Fowarding.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessSecretsVaults_355x391.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-log-files.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/warning.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MSIinstaller_502x357.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacViewMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Calling-Cards.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacInteractionsMenu_447x167.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Wake-on-LAN-prerequisites.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MoreMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Validation-API.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedOptionsMenuNEW.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Chat-with-colleagues.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Chat-with-customers-during-remote-sessions.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ValidationAPIexample2_504x161.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Accept-a-support-request.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Transfer-support-request.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Remotely-access-Windows-devices.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/1.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/StartVoIPcall.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-PIN-code.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SystemDetailsTab_270x347.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EndUserConnect.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/ConsoleSettings.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-surveys.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Registry-editor.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/PageBackground.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ViewAlerts.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAQRcode_213x408.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCMobileApp_517x238.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MonitorsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Allow-remote-control-MacOS.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Admin-area-homepage.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SecretsVaultPassword_344x388.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/View-pending-requests.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacInteractionsMenu.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionOptions_260x214.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAstep2_299x367.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Mac-Commands-menu.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteControlMode.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EnableRemoteControl.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Use-Take-Control-Proxy.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Multi-factor-authentication-End-Users.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AgentPermissions.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ValidationAPIparameters2.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PreferencesMenu_321x301.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ProcessList.jpg</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ConfigCmdEnviro.png</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Add-devices-during-session.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChatIcon_19x15.png</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/3.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Transfer-files-during-support-session.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-integration-options.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Install-Take-Control-Proxy.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCremote_ipad_434x267.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-tech-performance-report.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCMacScreenRecording.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Start-a-support-session.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditKnowledgeType_14x21.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessFTP.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ComputerMenu_474x320.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/UpdatedDevicesPage.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ScrollLock_129x23.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/NewSecretsVault_334x386.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAstep2.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-mobile-config-files.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Admin-area-homepage.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/UserIcon.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Commands-Menu.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/System-requirements.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Learn-about-Take-Control-components.htm</loc>
-    </url>
-    <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/SearchBackground.png</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-TakeControl-viewer.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/ConnectDevice_22x21.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteViewer(w PassPortal)_620x419.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChatIcon_21x17.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Commands-Menu_605x217.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/icons/FeatureGuides_23x23.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-unattended-support-link.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Remotely-access-Windows-devices.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Linux Install script.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionsPage_907x432.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Wake-remote-computer.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ToggleColumns.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/SecretsVaultsIcon_20x19.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-Passportal-vaults.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RequestDetails.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdminAreaPermissions_351x174.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Share-support-session-with-another-technician.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PINCodePermissions_344x232.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Use-panic-button.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Billing-info.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Linux PIN code.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AgentPermissions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Search.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_for_Techs.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-the-Agent.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Set-up-the-Agent.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-mobile-config-files.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Default.mcwebhelp</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SystemDetailsTab_263x338.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCMacScreenRecording_511x397.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAQRcode_247x474.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Port-access-requirements.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/UpdatedDevicesPage.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Send-support-link.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionOptions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Audit-devices.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ConnectionDetailsWindow.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacLock_18x22.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ConnectionDetails_19x18.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_for Master-Admin_324x336.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SysDetails.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Call-Customers.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Manage-licenses-upgrade-your-account.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ValidationAPIparameters2.png</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/View-customers-system-info.htm</loc>
@@ -727,67 +196,274 @@
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-Calling-Card-from-the-console.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionMenuOptions.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/System-requirements.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PassportalAuthentication.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FARecoveryCode_304x328.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Preferences_16x18.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Mac-View-menu.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Set-up-departments.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedMenu_16x17.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-and-manage- technicians.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/PageBackground.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EUArea_964x284.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EndUserComputerAccess.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Linux insert password.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/6.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/2.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Transfer-support-request.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EndUserConnect_12x12.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Default.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Take-Control-for-Mojave.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PowerShellvsCmdPrompt.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/icons/FeatureGuides_21x19.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSP_ANY_Quick-Start-Guide/AdminArea Diagram_437x141.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCMobileApp.PNG</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/PASSlogo.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Unattended-support.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteViewer(w PassPortal).png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MobileApp_247x370.jpeg</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-Email-templates.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MSIinstaller.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Windows-Viewer-shortcuts.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChatIcon_19x15.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Chat-with-customers-before-a remote-session.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PreferencesMenu_321x301.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AgentSettings.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/End-User-guide.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-My-Computers.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Enable-multi-factor-authentication.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChangeLanguage_281x199.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Advanced-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Monitors-menu.htm</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SystemDetailsTab.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCremote_ipad.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Allow-remote-control-MacOS.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/UrgentRequest_21x18.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/VaultPWAddSecret_462x337.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Share-and-transfer-sessions.htm</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/View-script-jobs-history.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessLogFolder_291x243.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ValidationAPIparameters.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AddSecrets_452x329.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MobileApp_247x370.jpeg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/icons/FeatureGuides.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-survey-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/UpgradeTCPlus.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditDevice.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EnableRemoteControl_24x24.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Mac-Commands-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SystemDetailsTab_248x319.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAQRcode_213x408.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Getting-started-with-Take-Control.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacViewMenu_604x140.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Remotely-access-computers-devices-landing-page.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-PIN-code.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/icons/FeatureGuides_21x19.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-New-Session-API.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessLogFolder.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessSecretsVaults_355x391.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/InteractionsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ValidationAPIexample2_504x161.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdminAreaPermissions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionMenuOptions_435x360.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TC Components Diagram_463x199.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EndUserTicket.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SysDetails_21x19.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAstep2_299x367.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/LightModeDarkMode.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/InteractionsMenu_433x297.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RequestDetails_266x337.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Preferences_16x18.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessTechConsole_23x22.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Set-up-the-Applet.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-basic-account-information.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/LightModeDarkMode_999x193.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/info.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ConnectionDetails.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PreferencesMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/APIkey.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Manage-multiple-Calling-Cards.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-MSI-installer.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FARecoveryCode.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Accept-a-support-request.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessTechConsole.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Unattended-support.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacLock.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/NewSessionPIN_342x179.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MSIinstaller_502x357.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EndUserConnect.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacViewMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/SearchBackground_desktop.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ConfigCmdEnviro.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/ConnectDevice.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Take-Control-Proxy.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedMenu_15x16.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/RunCommand_25x25.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ProcessList.jpg</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SearchAdminArea.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ComputerMenu_388x265.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-batches-of-calling-cards.htm</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Multi-factor-authentication.htm</loc>
@@ -796,37 +472,181 @@
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ExportFromSysInfo_21x19.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PreferencesMenu.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/4.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Use-the-System-Shell.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChangeLanguage.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/LAN to Internet Diagram_550x316.jpg</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Use-Take-Control-Proxy.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Share-support-session-with-another-technician.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Learn-about-the-status-bar.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SysDetails_22x20.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SystemDetailsTab_270x347.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/menu.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Install-Take-Control-Proxy.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteViewer(w PassPortal).png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedMenu.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditDevice_293x358.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Interactions-menu.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-port-forwarding-on-the-Console.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/GuideStart.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EUArea.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MobileApp.jpeg</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-missed-session-report.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Set-up-departments.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-deferred-support-request-form.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionOptions_260x214.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/View-pending-requests.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Calling-Cards.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AdvancedOptionsMenuNEW.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SecretsVaultPassword_344x388.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/5.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-session-history-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessLogFolder_291x243.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-View-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PassportalSearch.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Preferences.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ViewAlerts_23x25.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/View-ColorMenu_600x224.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/SecretsVaultsIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PassportalAuthentication_569x267.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteControlMode.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/SupportChatNewConsole.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Session-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-session-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_for_Techs_317x337.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacCommandsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessSecretsVaults.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MonitorsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/APIkey_489x188.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Chat-with-customers-during-remote-sessions.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Add-devices-during-session.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacInteractionsMenu_447x167.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SysInfoOptions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAstep2_302x371.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Registry-editor.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Computer-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Remotely-access-Mac-devices.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/NewEndUser.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Install-Linux-Agent.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/NewSecretsVault_334x386.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MoreMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EnableRemoteControl.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCremote_ipad.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_EndUserMessage.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAQRcode.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Call-other-technicians.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/ConnectDevice_22x21.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessFTP.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PINCodePermissions.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/SessionOptionsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCMobileApp.PNG</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Start-a-support-session.htm</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EndUserTicket_16x16.png</loc>
@@ -835,87 +655,270 @@
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/SWI_curvy-tile.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/SecretsVaultsIcon.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/start.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChatIcon.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Learn-about-Take-Control-components.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/icons/FileTransferIcons_89x17.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Reject-support-requests.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ConnectionDetails_19x18.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-missed-session-report.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessTechConsole_23x22.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-and-deploy-Scripts.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EndUserConnect_12x12.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-surveys.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Transfer-before-accepting-new-support-request.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/NewPIN.png</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/UserIcon_24x24.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PassportalAuthentication_569x267.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditDevice_293x358.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/icons/FeatureGuides_23x23.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SysDetails_22x20.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-Passportal-vaults.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Learn-about-the-technician-console.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Deferred-Support-request-API.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-and-manage-technicians.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Manage-multiple-Calling-Cards.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/warning.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/2FAQRcode_247x474.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ComputerMenu.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/APIkey_489x188.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Profile.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ViewAlerts_23x25.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChatIcon.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ValidationAPIparameters.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteViewerMac_779x480.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SysDetails.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionMenuOptions.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Enable-multi-factor-authentication.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/RunCommand.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/InteractionsMenu_433x297.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-port-forwarding-for-Agents.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RequestDetails.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/2.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Manage-your-account.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/icons/FileTransferIcons_89x17.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-reports.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EUArea_964x284.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/Linux insert password.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-preferences-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/StartPages/MenuPage/Icons/1.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ValidationAPIExample1_475x224.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/FileTransferIcon.png</loc>
     </url>
     <url>
         <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RecoveryCode_345x389.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ComputerMenu_388x265.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AccessFTP_344x86.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/SupportChatNewConsole.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/LAN to Internet Diagram_550x316.jpg</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCMacScreenRecording_511x397.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionsPage.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PINCodePermissions.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/Logo.svg</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Share-and-transfer-sessions.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Deferred-Support-request-API.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-unattended-support-link.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-port-forwarding-on-the-Console.htm</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteViewer(w PassPortal)_620x419.png</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/InsertPassword_464x435.png</loc>
     </url>
     <url>
-        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Remotely-access-Mac-devices.htm</loc>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Administrative-Area.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/ConsoleSettings.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AgentSettings_474x383.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Wake-on-LAN.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-FTP-connections.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/nugget.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-the-Commands-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ChatIcon_21x17.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/TCMobileApp_517x238.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteViewerMac.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Wake-on-LAN-prerequisites.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/menu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EditKnowledgeType.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Mac-Interactions-menu.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/EUArea.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Manage-devices.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Make-VoIP-calls.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Chat-with-customers-and-colleagues.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-deferred-support-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Password-secrets-vaults.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Create-and-manage-calling-cards.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Multi-factor-authentication-End-Users.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Access-log-files.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Chat-with-colleagues.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/N-ABLE/start_32x32.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Transfer-session-before-creating-PIN.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MFA_for Master-Admin.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/RemoteControlMode_267x304.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/View-running-sessions.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/UserIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Enhance-the-Agents-security.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Provide-assistance-to-customers.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-APIs.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SecretsVaultsIcon.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ProvideFeedback.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Transfer-files-during-support-session.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Generate-tech-performance-report.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Use-the-System-Shell.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/PassportalAuthentication.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/new icons/PassportalLink.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Configure-Session-History-API.htm</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/StartVoIPcall.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/View-ColorMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/AddSecrets_452x329.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MSIinstaller.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/SessionHistoryAPI.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacCommandsMenu_592x120.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/MacInteractionsMenu.png</loc>
+    </url>
+    <url>
+        <loc>https://documentation.n-able.com/takecontrol/userguide/Content/Resources/Images/MSPanywhere/ViewAlerts.png</loc>
     </url>
 </urlset>

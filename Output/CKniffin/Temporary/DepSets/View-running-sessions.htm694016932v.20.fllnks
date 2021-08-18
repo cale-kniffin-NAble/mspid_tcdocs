@@ -19,7 +19,7 @@
     <Link
       Url="Content/Configure-Profile.htm" />
     <Link
-      Url="Content/Create-and-manage- technicians.htm" />
+      Url="Content/Create-and-manage-technicians.htm" />
     <Link
       Url="Content/Generate-reports.htm" />
   </Links>
@@ -37,7 +37,7 @@
     <Link
       Url="Content/Configure-Profile.htm" />
     <Link
-      Url="Content/Create-and-manage- technicians.htm" />
+      Url="Content/Create-and-manage-technicians.htm" />
     <Link
       Url="Content/Generate-reports.htm" />
   </LongLinks>

@@ -17,6 +17,8 @@
     <Link
       Url="Project/VariableSets/General.flvar" />
     <Link
+      Url="Content/Resources/Images/MSPanywhere/MacLock.png" />
+    <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="https://logicnow--c.na84.content.force.com/servlet/rtaImage" />
@@ -32,6 +34,8 @@
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
       Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/MacLock.png" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
@@ -51,6 +55,10 @@
       Name="General.ProductName_tc_long" />
     <Variable
       Name="General.ProductName_tcp-sa_short" />
+    <Variable
+      Name="General.CompanyName" />
+    <Variable
+      Name="General.Company_ui_element" />
     <Variable
       Name="General.ProductName_tc-sw" />
     <Variable

@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/MSPanywhere/MacLock.png" />
     <Url Source="Resources/Images/MSPanywhere/UpdatedDevicesPage.png" />
     <Url Source="Resources/Images/MSPanywhere/UpgradeTCPlus.png" />
     <Url Source="Resources/Images/MSPanywhere/PINCodePermissions.png" />
@@ -19,5 +20,4 @@
     <Url Source="Resources/Images/MSPanywhere/2FAQRcode.png" />
     <Url Source="Resources/Images/MSPanywhere/2FAstep2.png" />
     <Url Source="Resources/Images/MSPanywhere/2FAEndUsers.png" />
-    <Url Source="Resources/Images/MSPanywhere/2FARecoveryCode.png" />
 </UrlList>

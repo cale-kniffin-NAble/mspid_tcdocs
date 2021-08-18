@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en-us" class="" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-has-content-body="True" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Administrative Area|[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/N-ABLE_Structure.css" rel="stylesheet" type="text/css" />
+        <link href="Resources/Stylesheets/N-ABLE_StartPageTroubleshooting.css" rel="stylesheet" type="text/css" />
+        <link href="Resources/Stylesheets/N-ABLE_StartPageGuide.css" rel="stylesheet" type="text/css" />
+        <link href="Resources/Stylesheets/N-ABLE_CustomStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Create and manage technicians</h1>
+        <p>Create accounts for new technicians, configure their permissions and default settings, and adjust permissions as needed for existing technicians. </p>
+        <p>From the Technicians management section of the Admin Area, you can enable or disable technicians as needed, and grant or take away permissions. This is helpful for setting up new technicians, or if a quick downgrade or upgrade to a technician's account is necessary.</p>
+        <p>You can also add customers as <MadCap:variable name="General.CompanyName" /> users and limit their access permissions to specific areas of your account. Use the Permissions tab to control access globally, or just in the Admin Area or Tech Console. </p>
+        <p MadCap:conditions="Exclude.comment">Watch <b><a href="https://www.youtube.com/watch?v=WUAQPKmT92A&amp;feature=youtu.be" target="_blank">this video</a></b> to learn more about creating new technicians for your <MadCap:variable name="General.CompanyName" /> account. </p>
+        <ol data-mc-continue="false">
+            <li value="1">Navigate to <b>Management</b> &gt;&#160;<b>Technicians</b>&#160;&gt; <b>Add</b>.</li>
+            <li value="2">Enter the name, username (email address) and set an expiration date for the new technician.</li>
+            <li value="3">Select <b>Configure as End User</b> to <a href="End-User-guide.htm" target="_blank">create an End-user account</a> and click <b>Save</b>. </li>
+            <p class="nugget">You can also select <b>Configure as End User</b> from the Technician tab and click <b>Use Two Factor Authentication</b> to <a href="Enable-multi-factor-authentication.htm">enable two factor authentication. </a></p>
+            <li value="4">Enter a password for the new user, choose a time zone, date/time format, language, add the technician's picture and select the departments to which the technician belongs. </li>
+            <p class="warning">Passwords must comply with the following conditions: 8 to 32 characters, at least one upper-case letter, at least one lower case letter, at least one number. </p>
+            <li value="5">Navigate to the <b>Permissions</b> tab and select a <b>Permissions Template</b> to apply a set of pre-configured permissions to new or existing users, or choose specific options to customize the user's Global access. <ul data-mc-continue="false"><li value="1"><b>Session Creation</b> controls the generation of PIN Codes and Calling Card codes from the Console (a user with access to the Admin Area can also create Calling Cards from the Console).</li><li value="2"><b>My Computers Management</b> gives the technician access to the list of computers in the technician console. Turn <b>Access to My Computers</b> on, and select the Computer Groups the technician can access. Select <b>Can Edit Computer Details</b> to allow the technician to add computers and computer groups, or edit existing computer information.</li><li value="3"><p><b>Miscellaneous</b> governs the kick out of technicians, the visibility of tickets, access to internal and external chat, the actions on tickets and also the ability to automatically log in to the Admin Area from the Console.</p><p class="info"> If your account reaches the maximum number of simultaneous technicians online, select the <b>Can disconnect any other techs</b> and <b>Can be disconnected</b> options. This disconnects one of the online technicians and provides room for another technician to log in.</p></li></ul></li>
+            <li value="6">Navigate to the <b>Admin Area</b> section of the <b>Permissions</b> tab and select which areas of the Admin Area the technician can access. Grant No Access, Read Only or Full Access for the Profile, Reports, Management and Miscellaneous sections, or select a <b>Permissions Template</b>.</li>
+            <p class="nugget">Primary accounts have the ability to delegate licensing responsibilities. This feature is limited to master accounts only. </p>
+            <p>
+                <img src="Resources/Images/MSPanywhere/AdminAreaPermissions.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;width: 351px;height: 174px;" />
+                <ol data-mc-continue="false">
+                    <li>
+                        <p>You can now deploy settings to existing Agent installations without the need to reinstall the Agent. Enable the technician permissions  for deploying security and configuration settings from the Miscellaneous section of the Admin Area Permissions. <br /></p>
+                    </li>
+                    <img src="Resources/Images/MSPanywhere/AgentPermissions.png" />
+                </ol>
+            </p>
+            <li value="7">Navigate to the <b>Console Features</b> section and select on or off to define granular permissions or deny access to certain product features. These are divided into three sections:<ul><li value="1"><b>Feature Access</b>  restricts the functionality of specific features during a support session. This section also defines if the remote user can disable features during a support session, or cancel support requests that are waiting in queues visible to them.</li><li value="2"><b>Session History</b> grants access to all past sessions, only sessions belonging to the technician, or denies access. </li><li value="3"><b>Miscellaneous</b> controls access to Deferred Support Requests and Inter-technician chat, as well as the ability to auto log in to the Admin Area and chat with clients. </li></ul></li>
+            <p class="nugget">Watch <a href="https://www.youtube.com/watch?v=QNsAYVI6Ieg&amp;feature=youtu.be" target="_blank"><b>this video</b></a> to learn more about creating technicians with granular permissions.</p>
+            <li value="8">Navigate to the <b>Default Settings</b> tab, and select which requests the technician will receive, the default queue for their support requests, and their video recording settings. In the Admin Area section, turn <b>Remote Control Mode</b> on or off for the technician. Click <b>Save</b> to apply the changes to the technician.</li>
+        </ol>
+        <h2>What do you want to do?</h2>
+        <ul>
+            <li value="1">Access the <a href="Administrative-Area.htm" class="MCXref xref" xrefformat="{paratext}">Administrative Area</a></li>
+            <li value="2"><a href="Set-up-departments.htm" class="MCXref xref" xrefformat="{paratext}">Set up Departments</a>
+            </li>
+            <li value="3"><a href="Configure-deferred-support-request-form.htm" class="MCXref xref" xrefformat="{paratext}">Configure the deferred support request form</a>
+            </li>
+        </ul>
+    </body>
+</html>

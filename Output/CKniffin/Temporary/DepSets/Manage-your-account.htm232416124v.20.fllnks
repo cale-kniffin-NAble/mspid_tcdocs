@@ -15,11 +15,13 @@
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
-      Url="Content/Create-and-manage- technicians.htm" />
+      Url="Content/Create-and-manage-technicians.htm" />
     <Link
       Url="Content/Enable-multi-factor-authentication.htm" />
     <Link
       Url="Content/Set-up-departments.htm" />
+    <Link
+      Url="Content/Manage-licenses-upgrade-your-account.htm" />
     <Link
       Url="Content/Create-surveys.htm" />
     <Link
@@ -43,11 +45,13 @@
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
-      Url="Content/Create-and-manage- technicians.htm" />
+      Url="Content/Create-and-manage-technicians.htm" />
     <Link
       Url="Content/Enable-multi-factor-authentication.htm" />
     <Link
       Url="Content/Set-up-departments.htm" />
+    <Link
+      Url="Content/Manage-licenses-upgrade-your-account.htm" />
     <Link
       Url="Content/Create-surveys.htm" />
     <Link

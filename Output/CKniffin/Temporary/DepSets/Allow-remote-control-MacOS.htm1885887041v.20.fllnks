@@ -14,6 +14,8 @@
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
     <Link
+      Url="Content/Resources/Images/MSPanywhere/MacLock.png" />
+    <Link
       Url="Project/VariableSets/General.flvar" />
   </Links>
   <LongLinks>
@@ -25,6 +27,8 @@
       Url="Content/Resources/Stylesheets/N-ABLE_StartPageGuide.css" />
     <Link
       Url="Content/Resources/Stylesheets/N-ABLE_CustomStyles.css" />
+    <Link
+      Url="Content/Resources/Images/MSPanywhere/MacLock.png" />
     <Link
       Url="Project/VariableSets/General.flvar" />
   </LongLinks>

@@ -16,7 +16,7 @@
 } 
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Manrope';
   font-style: normal;
   font-weight: 400;
   src: url(opensans-regular.eot);
@@ -180,6 +180,38 @@ p.frontmatter_h2
 	font-family: Manrope;
 }
 
+#flex
+{
+	display: flex;
+	/* Optional, if you want the DIVs 100% width: */
+	flex-direction: column;
+}
+
+#flex > #modified
+{
+	order: 4;
+}
+
+#flex > #description
+{
+	order: 1;
+}
+
+#flex > #environment
+{
+	order: 2;
+}
+
+#flex > #solution
+{
+	order: 3;
+}
+
+#flex > #internal
+{
+	order: 5;
+}
+
 /************************************ text */
 
 h1	/* mirror changes in p.frontmatter_h1 */
@@ -194,7 +226,7 @@ h1	/* mirror changes in p.frontmatter_h1 */
 	page-break-after: avoid;
 	color: #c046ff;
 	/* old color = #444444 */
-	font-family: Roboto;
+	font-family: Manrope;
 }
 
 h2	/*mirror changes in p.frontmatter_h2 */
@@ -208,7 +240,7 @@ h2	/*mirror changes in p.frontmatter_h2 */
 	padding-bottom: 0em;
 	margin-bottom: .5em;
 	color: #000000;
-	font-family: Roboto;
+	font-family: Manrope;
 }
 
 h3
@@ -219,7 +251,7 @@ h3
 	padding-bottom: 0em;
 	margin-bottom: 0em;
 	color: #666666;
-	font-family: Roboto;
+	font-family: Manrope;
 }
 
 h4
@@ -229,7 +261,7 @@ h4
 	padding-bottom: 0em;
 	mc-heading-level: 4;
 	color: #666666;
-	font-family: Roboto;
+	font-family: Manrope;
 }
 
 p
@@ -373,8 +405,6 @@ li
 	page-break-inside: avoid;
 	page-break-before: avoid;
 	margin-bottom: 0.4em;
-	font: Roboto;
-	font-family: Roboto;
 }
 
 li p,
@@ -769,7 +799,7 @@ img.map
 p
 {
 	clear: left;
-	font-family: Roboto;
+	font-family: Manrope;
 }
 
 MadCap|tocProxy
@@ -1143,37 +1173,5 @@ MadCap|xref.recipient-callouts
 MadCap|xref.outuseridmethod
 {
 	mc-format: '{color #0079C1}Outgoing User - Identification Method{/color}';
-}
-
-#flex
-{
-	display: flex;
-	/* Optional, if you want the DIVs 100% width: */
-	flex-direction: column;
-}
-
-#flex > #modified
-{
-	order: 4;
-}
-
-#flex > #description
-{
-	order: 1;
-}
-
-#flex > #environment
-{
-	order: 2;
-}
-
-#flex > #solution
-{
-	order: 3;
-}
-
-#flex > #internal
-{
-	order: 5;
 }
 
