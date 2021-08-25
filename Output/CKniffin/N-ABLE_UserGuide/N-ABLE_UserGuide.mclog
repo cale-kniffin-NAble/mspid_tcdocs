@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_UserGuide.fltar" Date="2021-08-18T18:30:02.7586186-05:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated N-ABLE_UserGuide.fltar" Date="2021-08-24T12:35:56.9163798-05:00">
     <Messages>Compiling target N-ABLE_UserGuide...
 Removing previously generated content...
 Error validating conditional expression: Unrecognized tag: Default.Online
@@ -759,7 +759,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 950
-Output generated in 39 second(s).
+Output generated in 50 second(s).
 
 Done
 Saving log to "C:\GitHub\mspid_tcdocs\Output\CKniffin\N-ABLE_UserGuide\N-ABLE_UserGuide.mclog"

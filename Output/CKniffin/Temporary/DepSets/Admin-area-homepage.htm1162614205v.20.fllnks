@@ -31,8 +31,6 @@
     <Link
       Url="Content/Enable-multi-factor-authentication.htm" />
     <Link
-      Url="Content/Use-panic-button.htm" />
-    <Link
       Url="Content/Resources/Images/MSPanywhere/ChangeLanguage.png" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png" />
@@ -44,6 +42,8 @@
       Url="Content/Create-and-manage-technicians.htm" />
     <Link
       Url="Content/Set-up-the-Agent.htm" />
+    <Link
+      Url="Content/Manage-licenses-upgrade-your-account.htm" />
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
@@ -83,8 +83,6 @@
     <Link
       Url="Content/Enable-multi-factor-authentication.htm" />
     <Link
-      Url="Content/Use-panic-button.htm" />
-    <Link
       Url="Content/Resources/Images/MSPanywhere/ChangeLanguage.png" />
     <Link
       Url="Content/Resources/Images/MSPanywhere/MSPA Admin Area Help_26x21.png" />
@@ -96,6 +94,8 @@
       Url="Content/Create-and-manage-technicians.htm" />
     <Link
       Url="Content/Set-up-the-Agent.htm" />
+    <Link
+      Url="Content/Manage-licenses-upgrade-your-account.htm" />
     <Link
       Url="Project/ConditionTagSets/Exclude.flcts" />
     <Link
