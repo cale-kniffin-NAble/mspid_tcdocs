@@ -30,7 +30,7 @@
 
 .button.previous-topic-button
 {
-	-pie-background: url('../../../Skins/Default/Stylesheets/Images/ArrowLeftSmall.png') no-repeat center center, linear-gradient(transparent, transparent);
+	-pie-background: linear-gradient(transparent, transparent);
 }
 
 .needs-pie
@@ -43,7 +43,7 @@
 
 .button.next-topic-button
 {
-	-pie-background: url('../../../Skins/Default/Stylesheets/Images/ArrowRightSmall.png') no-repeat center center, linear-gradient(transparent, transparent);
+	-pie-background: linear-gradient(transparent, transparent);
 }
 
 .needs-pie
@@ -59,6 +59,8 @@
         <link rel="icon" sizes="32x32" href="../../../Skins/Favicons/favicon-32x32.png" />
         <link rel="icon" sizes="16x16" href="../../../Skins/Favicons/favicon-16x16.png" />
         <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
         </script>
         <script src="../../../Resources/Scripts/require.min.js" type="text/javascript" defer="defer">
         </script>
@@ -333,8 +335,12 @@
                                                                     <div class="navButton">
                                                                         <div class="buttons popup-container clearfix topicToolbarProxy _Skins_N_ABLE_Toolbar_Prev mc-component nocontent" style="mc-topic-toolbar-items: ;" xmlns="">
                                                                             <div class="button-group-container-left">
-                                                                                <button class="button needs-pie previous-topic-button" title="Display previous topic">
-                                                                                    <img alt="Navigate previous" src="../../../Skins/Default/Stylesheets/Images/transparent.gif" class="invisible-label" />
+                                                                                <button class="button needs-pie previous-topic-button" title="Display previous topic" disabled="true">
+                                                                                    <div>
+                                                                                        <div role="img" class="button-icon-wrapper" aria-label="Navigate previous">
+                                                                                            <div class="button-icon"> </div>
+                                                                                        </div>
+                                                                                    </div>
                                                                                 </button>
                                                                             </div>
                                                                         </div>
@@ -396,8 +402,12 @@
                                                                     <div class="navButton">
                                                                         <div class="buttons popup-container clearfix topicToolbarProxy _Skins_N_ABLE_Toolbar_Next mc-component nocontent" style="mc-topic-toolbar-items: ;" xmlns="">
                                                                             <div class="button-group-container-left">
-                                                                                <button class="button needs-pie next-topic-button" title="Display next topic">
-                                                                                    <img alt="Navigate next" src="../../../Skins/Default/Stylesheets/Images/transparent.gif" class="invisible-label" />
+                                                                                <button class="button needs-pie next-topic-button" title="Display next topic" disabled="true">
+                                                                                    <div>
+                                                                                        <div role="img" class="button-icon-wrapper" aria-label="Navigate next">
+                                                                                            <div class="button-icon"> </div>
+                                                                                        </div>
+                                                                                    </div>
                                                                                 </button>
                                                                             </div>
                                                                         </div>

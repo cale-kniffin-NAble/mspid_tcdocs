@@ -6,63 +6,68 @@
         <h1>Popular Topics</h1>
         <ul>
             <li>
-                <MadCap:xref href="../../kb/How-to-open-a-chat-with-Technical-Support-from-the-Take-Control-Plus-Admin-Area.htm">How to open a chat with Technical Support from the [%=General.ProductName_tcp_short%] Admin Area</MadCap:xref>
+                <MadCap:xref href="../../kb/Your-current-IP-address-not-authorized-access-this-resource-Please-make-sure-you-are-connecting.htm">Your current IP address is not authorized to access this resource. Please make sure you are connecting from an authorized IP address and try again.</MadCap:xref>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm">Deploy Take Control Agent with Group Policy and Active Directory Deployment</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Take-Control-Standalone-macOS-Unattended-Support-Agent.htm">[%=General.ProductName_tc-sa%]: macOS Unattended Support (Agent)</MadCap:xref>
+                <MadCap:xref href="../../kb/Take-Control-Viewer-All-Versions-Freezing-or-Taking-a-Long-Time-To-Connect-due-To-HP-Velocity.htm">[%=General.ProductName_tc-v%] (All Versions): Freezing or Taking a Long Time To Connect due To HP Velocity</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/How-to-edit-the-initial-form-prompted-by-Applet-sessions.htm">How to edit the initial form prompted by Applet sessions</MadCap:xref> <MadCap:xref href="../../kb/From-Case-Using-BeAnyWhere-in-Browser.htm">[%=General.ProductName_tc%]: Launching Sessions without the Console installed</MadCap:xref></li>
+                <MadCap:xref href="../../kb/When-attempting-remote-connection-using-TC-Take-Control-n-able-install-Antivirus-reports-UDP-attack.htm">When attempting to perform a remote connection using Take Control, the install Antivirus reports it as as 'UDP Port scanning attack'</MadCap:xref> </li>
             <li>
-                <MadCap:xref href="../../kb/Take-Control-Standalone-Allow-restricted-user-accounts-to-login-to-this-server.htm">[%=General.ProductName_tc-sa%]: Allow restricted user accounts to login to this server</MadCap:xref>
+                <MadCap:xref href="../../kb/From-Case-Using-BeAnyWhere-in-Browser.htm">[%=General.ProductName_tc%]: Launching Sessions without the Console installed</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Where-can-I-find-information-about-upcoming-releases.htm">Where can I find information about upcoming releases?</MadCap:xref>
+                <MadCap:xref href="../../kb/Transfer-Session-is-grayed-out-in-Take-Control-standalone.htm">Transfer Session is grayed out in Take Control standalone</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Not-receiving-texts-emails-for-2FA.htm">Not receiving texts / emails for 2FA</MadCap:xref>
+                <MadCap:xref href="../../kb/Take-control-agent-MSP-marked-interactive-However-system-not-config-allow-interactive-services.htm">The Take Control Agent ([%=General.Company%] Service) is marked as an interactive service however the system is not configured to allow interactive services</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Take-Control-Standalone-Connectivity-Issues-due-to-Outdated-Consoles-and-Agents.htm">[%=General.ProductName_tc-sa%]: Connectivity Issues due to Outdated Consoles and Agents</MadCap:xref>
+                <MadCap:xref href="../../kb/Take-Control-Standalone-Agent-Limit-Reached.htm">[%=General.ProductName_tc-sa%]: Agent Limit Reached</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Take-Control-button-Missing-Logs-show-MSPA-install-in-progress-or-MSPA-uninstall-in-progress.htm">Take Control button is Missing - Logs show "There is currently an MSPA install action in progress" or "There is currently an MSPA uninstall action in progress"</MadCap:xref>
+                <MadCap:xref href="../../kb/Take-Control-FIPS-140-2-compliance-and-certification.htm">Take Control: FIPS 140-2 compliance and certification</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Not-able-to-view-tickets-at-support-com.htm">Not able to view tickets at success.n-able.com</MadCap:xref>
+                <MadCap:xref href="../../kb/Take-Control-Change-PIN-Code-default-expiration-time.htm">Take Control: Change PIN Code default expiration time</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Take-Control-Applet-stuck-on-restart.htm">[%=General.ProductName_tc-sa%]: Applet stuck on restart</MadCap:xref>
+                <MadCap:xref href="../../kb/Take-Control-End-User-Limitations.htm">Take Control: End User Limitations</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm">Starting Take Control Console via taskbar icon states that Take Control needs to be updated, but it has already been updated</MadCap:xref>
+                <MadCap:xref href="../../kb/No-popup-with-MSP-Connect-when-technician-tries-to-control-end-user-s-screen.htm">No popup with [%=General.ProductName_msp_cn%] when technician tries to control end user's screen</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm">[%=General.ProductName_tc_long%]: How to copy permissions from a technician to another</MadCap:xref>
+                <MadCap:xref href="../../kb/Take-Control-Standalone-License-Count-is-inaccurate.htm">[%=General.ProductName_tc-sa-Long%]: License Count is inaccurate</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Provide-Take-Control-access-to-a-specific-site-for-a-specific-user.htm">Provide Take Control access to a specific site for a specific user</MadCap:xref>
+                <MadCap:xref href="../../kb/Remote-Session-will-not-end.htm">Remote Session can't be stopped</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Is-it-possible-to-remove-the-label-of-the-Operating-System-that-Tech-is-using.htm">Is it possible to remove the label of the Operating System that Tech is using?</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Anywhere-Ticket-Status-Visibility.htm">[%=General.ProductName_tc%]: Ticket Status Visibility</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/MSP-Take-Control-Change-Admin-Area-Language.htm">[%=General.ProductName_tc%]: Change Admin Area Language</MadCap:xref>
+                <MadCap:xref href="../../kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm">Take Control: Generating an Agent Installer for a Specific Group</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm">How to Perform a Clean Uninstall and Reinstall of [%=General.ProductName_tc-sw%] macOS in [%=General.ProductName_rmm_short%]</MadCap:xref>
+                <MadCap:xref href="../../kb/What-is-the-Crashcrusher-folder-in-the-Documents-folder-on-a-Mac.htm">What is the Crashcrusher folder in the Documents folder on a Mac?</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/How-to-use-the-computer-name-as-the-agent-name-on-MSP-Anywhere.htm">Take Control: Set Agent installs to use the device's actual name</MadCap:xref>
+            </li>
+            <li>
+                <MadCap:xref href="../../kb/Get-clipboard-from-remote-user-machine-during-an-active-session-in-MSP-anywhere.htm">Get clipboard from remote user machine during an active session in [%=General.ProductName_tc%]</MadCap:xref>
+            </li>
+            <li><a href="../../kb/Drawings-from-design-software-do-not-appear-or-get-distorted-when-connecting-with-Take-Control.htm"><MadCap:xref href="../../kb/During-Take-Control-TeamViewer-session-unable-to-type-into-end-users-device.htm">During [%=General.ProductName_tc-tv%] session unable to type into end users device</MadCap:xref></a>
             </li>
             <li>
                 <MadCap:xref href="../../kb/Error-The-executable-program-that-this-service-is-configured-to-run-in-does-not-implement-the-service.htm">Error: "The executable program that this service is configured to run in does not implement the service"</MadCap:xref>
             </li>
             <li>
-                <MadCap:xref href="../../kb/Can-standalone-Take-Control-Agent-be-installed-on-device-already-has-N-central-or-RMM-TC-Agent.htm">Can a standalone Take Control Agent be installed on a device that already has [%=General.ProductName_nc_short%] or RMM's Take Control Agent?</MadCap:xref>
-            </li>
-            <li>
-                <MadCap:xref href="../../kb/Does-Take-Control-support-Linux-devices-without-a-monitor-for-Remote-access.htm">Does Take Control support Linux devices without a monitor for Remote access?</MadCap:xref>
+                <MadCap:xref href="../../kb/Cannot-set-Chrome-to-remember-Take-Control-viewer-as-the-default-application.htm">Cannot set Chrome to remember [%=General.ProductName_tc-v%] as the default application</MadCap:xref>
             </li>
         </ul>
     </body>

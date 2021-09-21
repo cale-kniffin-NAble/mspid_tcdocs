@@ -121,7 +121,7 @@
             <!-- Start iFrame Embed Code -->
             <iframe style="overflow: hidden; border: none;" class="iframe-resize" scrolling="no" seamless="seamless" src="" border="0" width="600">
             </iframe>
-            <script src="https://success.solarwindsmsp.com/resource/1577111621000/iframeSizer_JS">
+            <script src="https://success.n-able.com/resource/1577111621000/iframeSizer_JS">
             </script>
             <script type="text/javascript">
 				$(function () {

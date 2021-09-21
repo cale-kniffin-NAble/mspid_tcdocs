@@ -6,95 +6,103 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/kb/How-to-open-a-chat-with-Technical-Support-from-the-Take-Control-Plus-Admin-Area.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/kb/Your-current-IP-address-not-authorized-access-this-resource-Please-make-sure-you-are-connecting.htm" />
     <Link
       Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-macOS-Unattended-Support-Agent.htm" />
+      Url="Content/kb/Take-Control-Viewer-All-Versions-Freezing-or-Taking-a-Long-Time-To-Connect-due-To-HP-Velocity.htm" />
     <Link
-      Url="Content/kb/How-to-edit-the-initial-form-prompted-by-Applet-sessions.htm" />
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/kb/When-attempting-remote-connection-using-TC-Take-Control-n-able-install-Antivirus-reports-UDP-attack.htm" />
     <Link
       Url="Content/kb/From-Case-Using-BeAnyWhere-in-Browser.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-Allow-restricted-user-accounts-to-login-to-this-server.htm" />
+      Url="Content/kb/Transfer-Session-is-grayed-out-in-Take-Control-standalone.htm" />
     <Link
-      Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
+      Url="Content/kb/Take-control-agent-MSP-marked-interactive-However-system-not-config-allow-interactive-services.htm" />
     <Link
-      Url="Content/kb/Not-receiving-texts-emails-for-2FA.htm" />
+      Url="Content/kb/Take-Control-Standalone-Agent-Limit-Reached.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-Connectivity-Issues-due-to-Outdated-Consoles-and-Agents.htm" />
+      Url="Content/kb/Take-Control-FIPS-140-2-compliance-and-certification.htm" />
     <Link
-      Url="Content/kb/Take-Control-button-Missing-Logs-show-MSPA-install-in-progress-or-MSPA-uninstall-in-progress.htm" />
+      Url="Content/kb/Take-Control-Change-PIN-Code-default-expiration-time.htm" />
     <Link
-      Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
+      Url="Content/kb/Take-Control-End-User-Limitations.htm" />
     <Link
-      Url="Content/kb/Take-Control-Applet-stuck-on-restart.htm" />
+      Url="Content/kb/No-popup-with-MSP-Connect-when-technician-tries-to-control-end-user-s-screen.htm" />
     <Link
-      Url="Content/kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm" />
+      Url="Content/kb/Take-Control-Standalone-License-Count-is-inaccurate.htm" />
     <Link
-      Url="Content/kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
+      Url="Content/kb/Remote-Session-will-not-end.htm" />
     <Link
-      Url="Content/kb/Provide-Take-Control-access-to-a-specific-site-for-a-specific-user.htm" />
+      Url="Content/kb/MSP-Anywhere-Ticket-Status-Visibility.htm" />
     <Link
-      Url="Content/kb/Is-it-possible-to-remove-the-label-of-the-Operating-System-that-Tech-is-using.htm" />
+      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
     <Link
-      Url="Content/kb/MSP-Take-Control-Change-Admin-Area-Language.htm" />
+      Url="Content/kb/What-is-the-Crashcrusher-folder-in-the-Documents-folder-on-a-Mac.htm" />
     <Link
-      Url="Content/kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm" />
+      Url="Content/kb/How-to-use-the-computer-name-as-the-agent-name-on-MSP-Anywhere.htm" />
+    <Link
+      Url="Content/kb/Get-clipboard-from-remote-user-machine-during-an-active-session-in-MSP-anywhere.htm" />
+    <Link
+      Url="Content/kb/Drawings-from-design-software-do-not-appear-or-get-distorted-when-connecting-with-Take-Control.htm" />
+    <Link
+      Url="Content/kb/During-Take-Control-TeamViewer-session-unable-to-type-into-end-users-device.htm" />
     <Link
       Url="Content/kb/Error-The-executable-program-that-this-service-is-configured-to-run-in-does-not-implement-the-service.htm" />
     <Link
-      Url="Content/kb/Can-standalone-Take-Control-Agent-be-installed-on-device-already-has-N-central-or-RMM-TC-Agent.htm" />
-    <Link
-      Url="Content/kb/Does-Take-Control-support-Linux-devices-without-a-monitor-for-Remote-access.htm" />
+      Url="Content/kb/Cannot-set-Chrome-to-remember-Take-Control-viewer-as-the-default-application.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/kb/How-to-open-a-chat-with-Technical-Support-from-the-Take-Control-Plus-Admin-Area.htm" />
-    <Link
-      Url="Project/VariableSets/General.flvar" />
+      Url="Content/kb/Your-current-IP-address-not-authorized-access-this-resource-Please-make-sure-you-are-connecting.htm" />
     <Link
       Url="Content/kb/Deploy-Take-Control-Agent-with-Group-Policy-and-Active-Directory-Deployment.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-macOS-Unattended-Support-Agent.htm" />
+      Url="Content/kb/Take-Control-Viewer-All-Versions-Freezing-or-Taking-a-Long-Time-To-Connect-due-To-HP-Velocity.htm" />
     <Link
-      Url="Content/kb/How-to-edit-the-initial-form-prompted-by-Applet-sessions.htm" />
+      Url="Project/VariableSets/General.flvar" />
+    <Link
+      Url="Content/kb/When-attempting-remote-connection-using-TC-Take-Control-n-able-install-Antivirus-reports-UDP-attack.htm" />
     <Link
       Url="Content/kb/From-Case-Using-BeAnyWhere-in-Browser.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-Allow-restricted-user-accounts-to-login-to-this-server.htm" />
+      Url="Content/kb/Transfer-Session-is-grayed-out-in-Take-Control-standalone.htm" />
     <Link
-      Url="Content/kb/Where-can-I-find-information-about-upcoming-releases.htm" />
+      Url="Content/kb/Take-control-agent-MSP-marked-interactive-However-system-not-config-allow-interactive-services.htm" />
     <Link
-      Url="Content/kb/Not-receiving-texts-emails-for-2FA.htm" />
+      Url="Content/kb/Take-Control-Standalone-Agent-Limit-Reached.htm" />
     <Link
-      Url="Content/kb/Take-Control-Standalone-Connectivity-Issues-due-to-Outdated-Consoles-and-Agents.htm" />
+      Url="Content/kb/Take-Control-FIPS-140-2-compliance-and-certification.htm" />
     <Link
-      Url="Content/kb/Take-Control-button-Missing-Logs-show-MSPA-install-in-progress-or-MSPA-uninstall-in-progress.htm" />
+      Url="Content/kb/Take-Control-Change-PIN-Code-default-expiration-time.htm" />
     <Link
-      Url="Content/kb/Not-able-to-view-tickets-at-support-com.htm" />
+      Url="Content/kb/Take-Control-End-User-Limitations.htm" />
     <Link
-      Url="Content/kb/Take-Control-Applet-stuck-on-restart.htm" />
+      Url="Content/kb/No-popup-with-MSP-Connect-when-technician-tries-to-control-end-user-s-screen.htm" />
     <Link
-      Url="Content/kb/Starting-TC-Console-via-taskbar-states-TC-needs-to-be-updated-but-has-already-been-updated.htm" />
+      Url="Content/kb/Take-Control-Standalone-License-Count-is-inaccurate.htm" />
     <Link
-      Url="Content/kb/Take-Control-How-to-copy-permissions-from-a-technician-to-another.htm" />
+      Url="Content/kb/Remote-Session-will-not-end.htm" />
     <Link
-      Url="Content/kb/Provide-Take-Control-access-to-a-specific-site-for-a-specific-user.htm" />
+      Url="Content/kb/MSP-Anywhere-Ticket-Status-Visibility.htm" />
     <Link
-      Url="Content/kb/Is-it-possible-to-remove-the-label-of-the-Operating-System-that-Tech-is-using.htm" />
+      Url="Content/kb/MSP-Take-Control-Generating-an-Agent-Installer-for-a-Specific-Group.htm" />
     <Link
-      Url="Content/kb/MSP-Take-Control-Change-Admin-Area-Language.htm" />
+      Url="Content/kb/What-is-the-Crashcrusher-folder-in-the-Documents-folder-on-a-Mac.htm" />
     <Link
-      Url="Content/kb/How-to-Perform-Clean-Uninstall-and-Reinstall-TC-n-able-macOS-in-RMM.htm" />
+      Url="Content/kb/How-to-use-the-computer-name-as-the-agent-name-on-MSP-Anywhere.htm" />
+    <Link
+      Url="Content/kb/Get-clipboard-from-remote-user-machine-during-an-active-session-in-MSP-anywhere.htm" />
+    <Link
+      Url="Content/kb/Drawings-from-design-software-do-not-appear-or-get-distorted-when-connecting-with-Take-Control.htm" />
+    <Link
+      Url="Content/kb/During-Take-Control-TeamViewer-session-unable-to-type-into-end-users-device.htm" />
     <Link
       Url="Content/kb/Error-The-executable-program-that-this-service-is-configured-to-run-in-does-not-implement-the-service.htm" />
     <Link
-      Url="Content/kb/Can-standalone-Take-Control-Agent-be-installed-on-device-already-has-N-central-or-RMM-TC-Agent.htm" />
-    <Link
-      Url="Content/kb/Does-Take-Control-support-Linux-devices-without-a-monitor-for-Remote-access.htm" />
+      Url="Content/kb/Cannot-set-Chrome-to-remember-Take-Control-viewer-as-the-default-application.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -103,19 +111,19 @@
   <IndexControlNames />
   <Variables>
     <Variable
-      Name="General.ProductName_tcp_short" />
-    <Variable
-      Name="General.ProductName_tc-sa" />
+      Name="General.ProductName_tc-v" />
     <Variable
       Name="General.ProductName_tc" />
     <Variable
-      Name="General.ProductName_tc_long" />
+      Name="General.Company" />
     <Variable
-      Name="General.ProductName_tc-sw" />
+      Name="General.ProductName_tc-sa" />
     <Variable
-      Name="General.ProductName_rmm_short" />
+      Name="General.ProductName_msp_cn" />
     <Variable
-      Name="General.ProductName_nc_short" />
+      Name="General.ProductName_tc-sa-Long" />
+    <Variable
+      Name="General.ProductName_tc-tv" />
   </Variables>
   <FileConditions />
   <FileTags />
